@@ -346,7 +346,7 @@ MY101综合,http://pili-live-hdl.qhmywl.com/dsdtv/6c4078ac7601f5787aef2f8b88dd44
 香港603,http://pili-live-hdl.qhmywl.com/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.flv
 Z频道,http://pili-live-hdl.qhmywl.com/dsdtv/30a7edb2f6c42bd079dd4910806decde.flv
 测试,rtsp://61.156.103.73:554/ PLTV/3221226689/224/3221226689/10000188888888000068888888800001967168_0.smil
-频道,#genre#
+测试频道,#genre#
 鳳凰中文,vjms://121.14.222.75:8500:3502/live/cid=262
 鳳凰資訊,vjms://121.14.222.75:8500:3502/live/cid=267
 TVB J2,vjms://121.14.222.75:8500:3502/live/cid=368
@@ -541,7 +541,7 @@ KIDS,vjms://121.14.222.75:8500:3502/live/cid=494
 Music-JAPAN,vjms://121.14.222.75:8500:3502/live/cid=495
 Discovery,vjms://121.14.222.75:8500:3502/live/cid=496
 Movie Plus,vjms://121.14.222.75:8500:3502/live/cid=497
-p2p_111111,#genre#
+加纳P9P_111111,#genre#
 HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 一本道,p9p://192.95.32.107:9906/59222cba000a1df94e03e6bf4ac746e5&link=盗链死全家
 二本道,p9p://192.95.32.107:9906/59222cab00007c3e4e03a9b06f6e3544&link=盗链死全家
