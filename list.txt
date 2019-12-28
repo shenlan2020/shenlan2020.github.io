@@ -293,29 +293,6 @@ NickJr.,http://pili-live-hdl.qhmywl.com/dsdtv/a81b6e417028b6d72ed3e6ee7c42619b.f
 ANIMAXHD,http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
 靖洋卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.flv
 直播源介绍,https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
-奥台频道,#genre#
-唯心頻道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-大愛二台,http://61.58.60.230:9319/live/191.m3u8
-天映頻道,http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
-新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
-无线新闻台 / TVB News Channel,http://202.40.202.173:8000/main
-明珠台 / TVB Pearl,http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Pcontent_id=&amp;Provider_id=&amp;Fsv_chan_hls_se_idx=12
-民视新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-澳亞衛視,http://stream.mastvnet.com/MSTV/playlist.m3u8
-澳視高清,http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-澳视MACAU衛視,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-澳视澳门,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-澳视葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-澳视资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-靖天國際,http://61.58.60.230:9319/live/205.m3u8
-靖天戲劇,http://61.58.60.230:9319/live/203.m3u8
-靖天日本,http://61.58.60.230:9319/live/243.m3u8
-靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
-靖天育樂,http://61.58.60.230:9319/live/204.m3u8
-靖天資訊,http://61.58.60.230:9319/live/202.m3u8
-靖天電影,http://61.58.60.230:9319/live/244.m3u8
-靖洋卡通 / Nice Bingo,http://61.58.60.230:9319/live/206.m3u8
 综合娱乐,#genre#
 明珠台,vjms://121.14.222.75:8500:3502/live/cid=367#vjms://113.96.133.24:8500:3502/live/cid=367#http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv#http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8
 翡翠台,vjms://121.14.222.75:8500:3502/live/cid=362#vjms://113.96.133.24:8500:3502/live/cid=362http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv#http://59.148.103.41:8000/bysid/1#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
@@ -567,6 +544,28 @@ KIDS,vjms://121.14.222.75:8500:3502/live/cid=494
 Music-JAPAN,vjms://121.14.222.75:8500:3502/live/cid=495
 Discovery,vjms://121.14.222.75:8500:3502/live/cid=496
 Movie Plus,vjms://121.14.222.75:8500:3502/live/cid=497
+唯心頻道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+大愛二台,http://61.58.60.230:9319/live/191.m3u8
+天映頻道,http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
+新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
+无线新闻台 / TVB News Channel,http://202.40.202.173:8000/main
+明珠台 / TVB Pearl,http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Pcontent_id=&amp;Provider_id=&amp;Fsv_chan_hls_se_idx=12
+民视新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+澳亞衛視,http://stream.mastvnet.com/MSTV/playlist.m3u8
+澳視高清,http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+澳视MACAU衛視,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+澳视澳门,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+澳视葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+澳视资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+靖天國際,http://61.58.60.230:9319/live/205.m3u8
+靖天戲劇,http://61.58.60.230:9319/live/203.m3u8
+靖天日本,http://61.58.60.230:9319/live/243.m3u8
+靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
+靖天育樂,http://61.58.60.230:9319/live/204.m3u8
+靖天資訊,http://61.58.60.230:9319/live/202.m3u8
+靖天電影,http://61.58.60.230:9319/live/244.m3u8
+靖洋卡通 / Nice Bingo,http://61.58.60.230:9319/live/206.m3u8
 加纳P9P_111111,#genre#
 HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 一本道,p9p://192.95.32.107:9906/59222cba000a1df94e03e6bf4ac746e5&link=盗链死全家
