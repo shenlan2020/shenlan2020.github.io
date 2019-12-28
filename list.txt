@@ -141,10 +141,10 @@ CINEMAX,http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.f
 好莱坞电影台,http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
 影迷数位纪实,http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
 CatchPlay电影,http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
-HBOHits,http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
-HBOSignature,http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-HBOFamily,http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
-HBOHD,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
+HBOHits,http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv#vjms://58.215.133.185:8500:3502/live/cid=238
+HBOSignature,http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv#vjms://58.215.133.185:8500:3502/live/cid=436
+HBOFamily,http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv#vjms://58.215.133.185:8500:3502/live/cid=181
+HBOHD,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv#vjms://58.215.133.185:8500:3502/live/cid=261
 LSTime电影台,http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
 卫视电影台,http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 壹电视电影台,http://pili-live-hdl.qhmywl.com/dsdtv/eb53b692ccbe8c836bc20be6734a9555.flv
@@ -318,10 +318,11 @@ NHK,http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.flv
 JET综合台,http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.flv
 靖天综合台,http://pili-live-hdl.qhmywl.com/dsdtv/7a7b662db65f478451144355efa0f02b.flv
 公视,http://pili-live-hdl.qhmywl.com/dsdtv/0be9e52678b937320897033d90bb268a.flv
-公视三台,http://pili-live-hdl.qhmywl.com/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.flv
+公视三台,vjms://58.215.133.185:8500:3502/live/cid=236#http://pili-live-hdl.qhmywl.com/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.flv
 台视综合台,vjms://121.14.222.75:8500:3502/live/cid=453#http://pili-live-hdl.qhmywl.com/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.flv
 华视,vjms://121.14.222.75:8500:3502/live/cid=451#vjms://113.96.133.24:8500:3502/live/cid=451#http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv
 中视,vjms://121.14.222.75:8500:3502/live/cid=452#vjms://113.96.133.24:8500:3502/live/cid=452#http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
+民視HD,vjms://58.215.133.185:8500:3502/live/cid=450
 霹雳台湾台,http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
 客家电视台,http://pili-live-hdl.qhmywl.com/dsdtv/9535868a6a173399d3913cab3bb61675.flv
 原住民频道,http://pili-live-hdl.qhmywl.com/dsdtv/8f44c933620b603a874a18ed1bb9a033.flv
