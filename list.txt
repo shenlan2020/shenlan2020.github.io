@@ -131,7 +131,7 @@ BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 广东综艺4K,http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
-
+爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
 港台影视,#genre#
 靖天映画,http://pili-live-hdl.qhmywl.com/dsdtv/4364abb0a9f358049a535f4692cd49b5.flv
