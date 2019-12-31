@@ -1132,6 +1132,16 @@ Movie Plus,vjms://121.14.222.75:8500:3502/live/cid=497
 靖天電影,http://61.58.60.230:9319/live/244.m3u8
 靖洋卡通 / Nice Bingo,http://61.58.60.230:9319/live/206.m3u8
 加纳P9P_111111,#genre#
+sex0,http://sywly.xyz/19hd.php?id=1
+sex1,http://sywly.xyz/19hd.php?id=2
+sex2,http://sywly.xyz/19hd.php?id=3
+sex3,http://sywly.xyz/19hd.php?id=4
+sex4,http://sywly.xyz/19hd.php?id=5
+sex5,http://sywly.xyz/19hd.php?id=6
+sex6,http://sywly.xyz/19hd.php?id=7
+sex7,http://sywly.xyz/19hd.php?id=8
+sex8,http://sywly.xyz/19hd.php?id=9
+sex9,http://sywly.xyz/19hd.php?id=10
 HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 一本道,p9p://192.95.32.107:9906/59222cba000a1df94e03e6bf4ac746e5&link=盗链死全家
 二本道,p9p://192.95.32.107:9906/59222cab00007c3e4e03a9b06f6e3544&link=盗链死全家
