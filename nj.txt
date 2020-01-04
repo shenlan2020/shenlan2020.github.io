@@ -177,9 +177,7 @@ astro 华丽,mitv://198.255.74.87:9906/5dc4e32300010cc212a0327c9fcab557.ts#p2p:/
 寰宇综合,mitv://198.255.74.87:9906/5dc08f180006b28401b7e8f64fa36153.ts
 ELTA综合,mitv://198.255.74.87:9906/5dc08f18000349b501b7e817e60191a8.ts
 卫视中文台,mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
-信吉电视台,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 台湾艺术台,http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
-法国时尚,vjms://113.96.133.24:8500:3502/live/cid=399&delay=200&httpbuf=200&memory=50
 
 港台体育,#genre#
 FOXSPORT1,rtmp://59.124.75.137/sat/tv731#rtmp://59.124.75.137/sat/tv731#http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
