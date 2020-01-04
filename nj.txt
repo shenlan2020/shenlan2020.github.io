@@ -16,6 +16,7 @@ CCTV-14少儿,http://39.135.36.147:18890/000000001000/1000000001000008170/index.
 CCTV-15音乐,http://39.135.36.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 CCTV-5+体育,http://39.135.36.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 CCTV-17农村农业,http://39.135.36.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
+
 卫星频道,#genre#
 湖南卫视高清,http://39.135.36.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
 北京卫视高清,http://39.135.36.143:18890/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000017156&owchid=ystenlive&owsid=1106497909461249865&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRV7KOtBVuvtVZFLcgrBAOKYd9hOl8T7nV%2fYYLzxPrqZvxI1UedirhXiKrowSY0GL9
@@ -47,7 +48,8 @@ CCTV-17农村农业,http://39.135.36.140:18890/000000001000/1000000005000056836/
 福建东南卫视,http://39.135.36.154:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY%2ff447%2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
 贵州卫视,http://39.135.36.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 甘肃卫视,http://39.135.36.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
-广东体育,vjms://121.14.222.75:8500:3502/live/cid=336#vjms://23.237.33.155:8500:3502/live/cid=336#http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
+广东体育,vjms://23.237.33.155:8500:3502/live/cid=336#http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
+
 
 港台新闻,#genre#
 TVB无线新闻台,mitv://198.255.74.87:9906/5dc08f31000c0e8e01b84bfda44773e0.ts#http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#vjms://23.237.33.155:8500:3502/live/cid=366
@@ -57,7 +59,7 @@ TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#mitv://198.255.74.87:9906/5dc08f2d000e208e01b83ce5cbcfd216.ts#p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰卫视,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#vjms://23.237.33.155:8500:3502/live/cid=400#rtmp://58.200.131.2:1935/livetv/fhzw#http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts#vjms://23.237.33.155:8500:3502/live/cid=401#rtmp://58.200.131.2:1935/livetv/fhzx#http://liveali.ifeng.com/live/FHZX.flv
-年代新闻,mitv://198.255.74.87:9906/5dc08f27000164c901b822323153c62a.ts#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts#vjms://23.237.33.155:8500:3502/live/cid=455#vjms://58.215.133.185:8500:3502/live/cid=455
+年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455#mitv://198.255.74.87:9906/5dc08f27000164c901b822323153c62a.ts#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts#vjms://58.215.133.185:8500:3502/live/cid=455
 非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443#http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv#mitv://198.255.74.87:9906/5dc08f2700008beb01b821fba13d9e32.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://23.237.33.155:8500:3502/live/cid=443
 三立新闻,mitv://198.255.74.87:9906/5dc08f23000011a301b8123cd9eeb306.ts#vjms://58.215.133.185:8500:3502/live/cid=352#vjms://121.14.222.75:8500:3502/live/cid=352#vjms://23.237.33.155:8500:3502/live/cid=352
 东森新闻,vjms://58.215.133.185:8500:3502/live/cid=340#http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv#vjms://121.14.222.75:8500:3502/live/cid=340#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://23.237.33.155:8500:3502/live/cid=340
@@ -76,21 +78,21 @@ TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502
 KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RHK32,mitv://198.255.74.87:9906/5dc08f2e0005d03f01b83eac85883a60.ts
-TVBS,vjms://121.14.222.75:8500:3502/live/cid=349#vjms://58.215.133.185:8500:3502/live/cid=349
+TVBS,vjms://23.237.33.155:8500:3502/live/cid=349#vjms://58.215.133.185:8500:3502/live/cid=349
 CNBC,mitv://198.255.74.87:9906/5dc08efe000aa9d301b7846ac5b1b53c.ts#vjms://58.215.133.185:8500:3502/live/cid=98#vjms://121.14.222.75:8500:3502/live/cid=98#p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts#vjms://23.237.33.155:8500:3502/live/cid=98
 CNN,mitv://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts#vjms://121.14.222.75:8500:3502/live/cid=428#p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://23.237.33.155:8500:3502/live/cid=428
 BBC,mitv://198.255.74.87:9906/5dc08f01000ad05201b7902c343bc007.ts#vjms://58.215.133.185:8500:3502/live/cid=418#vjms://121.14.222.75:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97#p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts#vjms://121.14.222.75:8500:3502/live/cid=97
 
 港台影视,#genre#
-HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436#vjms://121.14.222.75:8500:3502/live/cid=436#vjms://23.237.33.155:8500:3502/live/cid=436#http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436#mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e.ts#vjms://23.237.33.155:8500:3502/live/cid=436#http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181#vjms://121.14.222.75:8500:3502/live/cid=181#vjms://23.237.33.155:8500:3502/live/cid=181#http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
-HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#vjms://121.14.222.75:8500:3502/live/cid=238#vjms://23.237.33.155:8500:3502/live/cid=238#http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
-HBO,vjms://58.215.133.185:8500:3502/live/cid=261#vjms://121.14.222.75:8500:3502/live/cid=261#vjms://23.237.33.155:8500:3502/live/cid=261#http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
+HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#mitv://198.255.74.87:9906/5dc08f0d000512f301b7bd94cf14a0de.ts#vjms://23.237.33.155:8500:3502/live/cid=238#http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
+HBO,vjms://58.215.133.185:8500:3502/live/cid=261#mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts#vjms://23.237.33.155:8500:3502/live/cid=261#http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
 东森电影,mitv://198.255.74.87:9906/5dc08f260007c9ef01b81fee3b2ada72.ts#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts#vjms://23.237.33.155:8500:3502/live/cid=338#http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
 东森洋片台,mitv://198.255.74.87:9906/5dc08f260006fe2e01b81fb9af371dd5.ts#http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
 靖天电影台,mitv://198.255.74.87:9906/5dc08f1c0000812601b7f70010bb4246.ts#p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts#http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
-龙华电影,mitv://198.255.74.87:9906/5dc08f230003b10001b813293bd32673.ts#http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
+龙华电影,http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 龙华经典,mitv://198.255.74.87:9906/5dc08f230000f2cc01b8127555450c4d.ts#http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv#p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 龙华洋片,mitv://198.255.74.87:9906/5dc08f2300048cfe01b81361fc3b1d55.ts#http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
 星卫HD电影,http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
@@ -99,7 +101,7 @@ HBO,vjms://58.215.133.185:8500:3502/live/cid=261#vjms://121.14.222.75:8500:3502/
 LSTime电影台,http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
 卫视电影台,mitv://198.255.74.87:9906/5dc08f110000c02301b7cc183ad4b85d.ts#p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts#http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 纬来电影台,mitv://198.255.74.87:9906/5dc08f26000d3e6601b82153716d51e1.ts#p2p://170.178.164.250:6141/5b448afc0007f4650004373eda7b4dd8.ts#http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
-FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94#http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv#vjms://121.14.222.75:8500:3502/live/cid=94#vjms://23.237.33.155:8500:3502/live/cid=94
+FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94#http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv#mitv://198.255.74.87:9906/5dc08f0d0002935401b7bcf0e205eaa4.ts#vjms://23.237.33.155:8500:3502/live/cid=94
 FOX家庭电影,mitv://198.255.74.87:9906/5dc08f0d0000e31001b7bc81e4cbc08b.ts#http://pili-live-hdl.qhmywl.com/dsdtv/440b3d3c474813d7ead7d3a795978e69.flv
 FOX动作电影 HD,mitv://198.255.74.87:9906/5dc08f0d0001bd0201b7bcb97d30ebcb.ts
 好莱坞电影,http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
@@ -119,7 +121,7 @@ CHC动作电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/1000010000
 CHC高清电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
 MyCinemaEurope,http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
 WarnerTV,mitv://198.255.74.87:9906/5dc08f020003327101b7922132df84c4.ts#http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv
-AXN,vjms://58.215.133.185:8500:3502/live/cid=2#http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv#vjms://121.14.222.75:8500:3502/live/cid=2#vjms://23.237.33.155:8500:3502/live/cid=2
+AXN,vjms://58.215.133.185:8500:3502/live/cid=2#http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv#mitv://198.255.74.87:9906/5dc08efe000c72ce01b784df27914703.ts#vjms://23.237.33.155:8500:3502/live/cid=2
 CINEMAX,mitv://198.255.74.87:9906/5dc08f0c000d7d5501b7bbd3536df5c6.ts#http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
 CinemaWorld,mitv://198.255.74.87:9906/5dc08f10000960c801b7ca669ad1a62d.ts#http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
 FOX CRIME,mitv://198.255.74.87:9906/5dc08f0c000f26df01b7bc4033c0db54.ts
@@ -133,10 +135,9 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 靖天映画,mitv://198.255.74.87:9906/5dc08f1b000edd1601b7f6c5b10ac892.ts
 靖洋戏剧,mitv://198.255.74.87:9906/5dc08f1b000b184201b7f5ce694c5242.ts
 东森戏剧,mitv://198.255.74.87:9906/5dc08f230008cd1f01b814780a22e445.ts
-卫视西片,mitv://198.255.74.87:9906/5dc08f10000d86b501b7cb761f893b59.ts
 
 综合娱乐,#genre#
-TVB J2,mitv://198.255.74.87:9906/5dc08f31000cea6501b84c3662de0c85.ts#vjms://121.14.222.75:8500:3502/live/cid=368#vjms://121.14.222.75:8500:3502/live/cid=363#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#vjms://23.237.33.155:8500:3502/live/cid=368#vjms://23.237.33.155:8500:3502/live/cid=363
+TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv#mitv://198.255.74.87:9906/5dc08f31000cea6501b84c3662de0c85.ts#mitv://198.255.74.87:9906/5dc08f31000cea6501b84c3662de0c85.ts#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#vjms://23.237.33.155:8500:3502/live/cid=368#vjms://23.237.33.155:8500:3502/live/cid=363
 TVB明珠台,http://pili-live-hdl.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#mitv://198.255.74.87:9906/5dc08f2e0006a51101b83ee3493e8249.ts#vjms://23.237.33.155:8500:3502/live/cid=367
 TVB翡翠台,http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#mitv://198.255.74.87:9906/5dc08f31000b2bdc01b84bc33d70901a.ts#vjms://23.237.33.155:8500:3502/live/cid=362#http://m.567it.com/jade.m3u8
 TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438#mitv://198.255.74.87:9906/5dc08f1f0000319d01b802a4148951a3.ts
@@ -144,15 +145,14 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 TVB经典,mitv://198.255.74.87:9906/5dc08f2a000b5d9c01b8307844e4695f.ts
 娱乐新闻台,mitv://198.255.74.87:9906/5dc08f2a000a876a01b8304145a27487.ts
 公视,vjms://58.215.133.185:8500:3502/live/cid=236#mitv://198.255.74.87:9906/5dc08f2a0006fddc01b82f5912b802f7.ts#vjms://23.237.33.155:8500:3502/live/cid=236
-
-民视,vjms://58.215.133.185:8500:3502/live/cid=450#mitv://198.255.74.87:9906/5dc08f2a000436a401b82ea3055bd05c.ts#vjms://23.237.33.155:8500:3502/live/cid=450
+民视,vjms://58.215.133.185:8500:3502/live/cid=450#mitv://198.255.74.87:9906/5dc08f2a000436a401b82ea3055bd05c.ts#vjms://23.237.33.155:8500:3502/live/cid=450#
 华视,http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv#mitv://198.255.74.87:9906/5dc08f2a00023b0c01b82e21a7a02717.ts#vjms://23.237.33.155:8500:3502/live/cid=451
 中视,mitv://198.255.74.87:9906/5dc08f2a0008c37701b82fcd5a93c27e.ts#http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv#vjms://23.237.33.155:8500:3502/live/cid=452
 台视,mitv://198.255.74.87:9906/5dc08f2a00035c9801b82e6be303b379.ts#vjms://23.237.33.155:8500:3502/live/cid=453
-三立都会,vjms://58.215.133.185:8500:3502/live/cid=226#vjms://121.14.222.75:8500:3502/live/cid=226#vjms://23.237.33.155:8500:3502/live/cid=226
+三立都会,vjms://58.215.133.185:8500:3502/live/cid=226#mitv://198.255.74.87:9906/5dc08f22000e342301b811f28dbb5132.ts#vjms://23.237.33.155:8500:3502/live/cid=226
 三立台湾,mitv://198.255.74.87:9906/5dc08f22000e778101b8120331645086.ts#http://pili-live-hdl.qhmywl.com/dsdtv/e71635b53bb874a085b2a469802bbc81.flv#p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts#vjms://23.237.33.155:8500:3502/live/cid=437
 中天娱乐,mitv://198.255.74.87:9906/5dc08f1f000530a701b803eb78308968.ts#vjms://23.237.33.155:8500:3502/live/cid=350
-八大综合,mitv://198.255.74.87:9906/5dc08f1f0001e12001b8031210ce5951.ts#vjms://121.14.222.75:8500:3502/live/cid=354#vjms://23.237.33.155:8500:3502/live/cid=354
+八大综合,mitv://198.255.74.87:9906/5dc08f1f0001e12001b8031210ce5951.ts#vjms://23.237.33.155:8500:3502/live/cid=354
 八大娱乐台,mitv://198.255.74.87:9906/5dc08f1f0002b31401b8034821e326f8.ts
 八大第一,vjms://58.215.133.185:8500:3502/live/cid=441#mitv://198.255.74.87:9906/5dc08f1f00045d5c01b803b552a4e032.ts#vjms://23.237.33.155:8500:3502/live/cid=441
 国兴卫视,mitv://198.255.74.87:9906/5dc08f17000eda8f01b7e725491a8d01.ts#vjms://23.237.33.155:8500:3502/live/cid=424
@@ -178,20 +178,19 @@ astro 华丽,mitv://198.255.74.87:9906/5dc4e32300010cc212a0327c9fcab557.ts#p2p:/
 ELTA综合,mitv://198.255.74.87:9906/5dc08f18000349b501b7e817e60191a8.ts
 卫视中文台,mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
 
-
 港台体育,#genre#
 FOXSPORT1,rtmp://59.124.75.137/sat/tv731#rtmp://59.124.75.137/sat/tv731#http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
 FOXSPORT2,http://pili-live-hdl.qhmywl.com:80/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.m3u8#rtmp://59.124.75.137/sat/tv741#rtmp://59.124.75.137/sat/tv741
-FOXSPORT3,vjms://58.215.133.185:8500:3502/live/cid=95#http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv#vjms://121.14.222.75:8500:3502/live/cid=95
-ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266#vjms://121.14.222.75:8500:3502/live/cid=266#vjms://23.237.33.155:8500:3502/live/cid=266
+FOXSPORT3,mitv://198.255.74.87:9906/5dc08f140009290701b7d9f7e97f9c57.ts#vjms://58.215.133.185:8500:3502/live/cid=95#http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266#mitv://198.255.74.87:9906/5dc08f18000177aa01b7e79f98d38e41.ts#vjms://23.237.33.155:8500:3502/live/cid=266
 博斯高球1,vjms://58.215.133.185:8500:3502/live/cid=265#http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv#vjms://121.14.222.75:8500:3502/live/cid=265#vjms://23.237.33.155:8500:3502/live/cid=265
 博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts#http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv
 博斯魅力网,http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
-博斯无限二台,http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
+博斯无限,mitv://198.255.74.87:9906/5dc08f14000bad9301b7da9c1cd36e95.ts#http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
 博斯网球台,http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
 博斯运动二台,http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.flv#mitv://198.255.74.87:9906/5dc08f14000d867301b7db159f054a88.ts
 博斯运动一台,http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv#mitv://198.255.74.87:9906/5dc08f17000cfdd501b7e6aadc319b99.ts
-纬来体育,vjms://58.215.133.185:8500:3502/live/cid=202#http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv#vjms://121.14.222.75:8500:3502/live/cid=202#vjms://23.237.33.155:8500:3502/live/cid=202
+纬来体育,vjms://58.215.133.185:8500:3502/live/cid=202#http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv#mitv://198.255.74.87:9906/5dc08f26000c474d01b821140ba0e8a9.ts#vjms://23.237.33.155:8500:3502/live/cid=202
 智林体育,http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
@@ -199,25 +198,24 @@ ElevenSportPlus,http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e309
 ElevenSport2,http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
 NBA,mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
 
-
 港台育乐,#genre#
-国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://121.14.222.75:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
-国家地理,mitv://198.255.74.87:9906/5dc08f090003e26a01b7ada6c90177d7.ts#vjms://58.215.133.185:8500:3502/live/cid=115#vjms://121.14.222.75:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115#rtmp://58.200.131.2:1935/livetv/natlgeo
+国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
+国家地理,mitv://198.255.74.87:9906/5dc08f090003e26a01b7ada6c90177d7.ts#vjms://58.215.133.185:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115#rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理People,mitv://198.255.74.87:9906/5dc08f0900030a1901b7ad6e30853d1f.ts
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery#mitv://198.255.74.87:9906/5dc08f0c000a7ead01b7bb0fb297bca5.ts
 探索亚洲,vjms://58.215.133.185:8500:3502/live/cid=440#mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts#vjms://23.237.33.155:8500:3502/live/cid=440
-探索科学,vjms://58.215.133.185:8500:3502/live/cid=457#vjms://121.14.222.75:8500:3502/live/cid=457#vjms://23.237.33.155:8500:3502/live/cid=457
+探索科学,vjms://58.215.133.185:8500:3502/live/cid=457#mitv://198.255.74.87:9906/5dc08f090005b59301b7ae1d2b2dd80f.ts#vjms://23.237.33.155:8500:3502/live/cid=457
 探索EVE,mitv://198.255.74.87:9906/5dc08f090004c52401b7ade0b5732b25.ts
-动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#vjms://121.14.222.75:8500:3502/live/cid=3#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
-TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://121.14.222.75:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
+动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#mitv://198.255.74.87:9906/5dc08f05000df9b701b7a09b8365395a.ts#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
+TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
 亚洲旅游台 HD,mitv://198.255.74.87:9906/5dc08f140004b9df01b7d8d57910c45c.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
-年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439#vjms://121.14.222.75:8500:3502/live/cid=439#vjms://23.237.33.155:8500:3502/live/cid=439
+年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439#vjms://23.237.33.155:8500:3502/live/cid=439
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts#http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
 影迷纪实台,http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
 SMART,mitv://198.255.74.87:9906/5dc08f1b0007221b01b7f4cbb6b56bda.ts#p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
 MTV,mitv://198.255.74.87:9906/5dc08efe000e3cee01b78554dc38becf.ts#vjms://58.215.133.185:8500:3502/live/cid=52
-Fashion,vjms://58.215.133.185:8500:3502/live/cid=399#vjms://121.14.222.75:8500:3502/live/cid=399
-TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396#vjms://121.14.222.75:8500:3502/live/cid=396#vjms://23.237.33.155:8500:3502/live/cid=396
+Fashion,vjms://58.215.133.185:8500:3502/live/cid=399#mitv://198.255.74.87:9906/5dc08f050004570901b79e24ec699e4e.ts
+TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396#mitv://198.255.74.87:9906/5dc08efe000d552301b785199e1edf3b.ts#vjms://23.237.33.155:8500:3502/live/cid=396
 StarWorld,mitv://198.255.74.87:9906/5dc08f10000f2a9e01b7cbe13b6294a7.ts#p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
 CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv#rtmp://58.200.131.2:1935/livetv/channelv
 History HD,mitv://198.255.74.87:9906/5dc08f0900012d9701b7acf4e27b9395.ts
@@ -249,7 +247,7 @@ Ci罪案偵緝 HD,mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
 骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 
 亲子卡通,#genre#
-迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361#vjms://121.14.222.75:8500:3502/live/cid=361#vjms://23.237.33.155:8500:3502/live/cid=361
+迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361#mitv://198.255.74.87:9906/5dc08f050008e03301b79f4dc69f2a18.ts#vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通,mitv://198.255.74.87:9906/5dc08f050009aec901b79f82aedce9ba.ts#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv#p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts#vjms://23.237.33.155:8500:3502/live/cid=422
 东森幼幼,mitv://198.255.74.87:9906/5dc08f230007eecd01b8143f61d4b68b.ts#p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts#vjms://23.237.33.155:8500:3502/live/cid=344
 BabyFirst,mitv://198.255.74.87:9906/5dc08f050007314501b79ededa54d554.ts#http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
@@ -261,14 +259,11 @@ BabyTV,mitv://198.255.74.87:9906/5dc08f0500080fa601b79f171d990d48.ts
 Nick Jr,mitv://198.255.74.87:9906/5dc08f020002568501b791e8084cb957.ts
 MY KIDS,mitv://198.255.74.87:9906/5dc08f0200017dde01b791b183d54845.ts
 小太阳,mitv://198.255.74.87:9906/5dc4e322000e827212a03206729ccc38.ts
-
-
 精彩4K,#genre#
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-
 NewTV,#genre#
 NewTV古装,http://39.135.36.150:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=1106497909461643183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7rI6cyOBdMQcbb7pGYvKkkE4PU3Zf45kDZim939dEFvAtUmU8crfqEUv5zpewkRlr9zZahSqXGjBKN9OvmeMwv
 NewTV动作,http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=1106497909461651262&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6gc5lrV9LORe1gi%2brvWfZqjqWg5r9sHf%2bhUiRSDpBuWg5lRQBeU9YctiSzPH6gfVkWNbz7C4olsbRCQkf1hNrZ
