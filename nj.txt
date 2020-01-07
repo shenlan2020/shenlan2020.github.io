@@ -306,8 +306,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 济南新闻,http://ts1.ijntv.cn/xwhd/hd/live.m3u8
 济南生活,http://ts2.ijntv.cn/jnsh/sd/live.m3u8
 济南都市,http://ts1.ijntv.cn/jnds/sd/live.m3u8
-院线上映,#genre#
-叶问4枪版,http://videotiantian.gslawyerunion.com/20191221/XZrSsMLV/2500kb/hls/index.m3u8
+
 庆余年全,#genre#
 第1集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/1.mp4
 第2集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/2.mp4
