@@ -88,7 +88,7 @@ CNN,mitv://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts#vjms://121.14.
 BBC,mitv://198.255.74.87:9906/5dc08f01000ad05201b7902c343bc007.ts#vjms://58.215.133.185:8500:3502/live/cid=418#vjms://121.14.222.75:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97#p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts#vjms://121.14.222.75:8500:3502/live/cid=97
 港台影视,#genre#
-HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436#mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e.ts#vjms://23.237.33.155:8500:3502/live/cid=436#http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+HBO原创电影,mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e.ts#http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181#vjms://121.14.222.75:8500:3502/live/cid=181#vjms://23.237.33.155:8500:3502/live/cid=181#http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
 HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#mitv://198.255.74.87:9906/5dc08f0d000512f301b7bd94cf14a0de.ts#vjms://23.237.33.155:8500:3502/live/cid=238#http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
 HBO,vjms://58.215.133.185:8500:3502/live/cid=261#mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts#vjms://23.237.33.155:8500:3502/live/cid=261#http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
