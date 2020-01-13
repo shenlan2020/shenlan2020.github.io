@@ -368,4 +368,6 @@ newTV潮妈辣婆,http://117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8
 第44集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/44.mp4
 第45集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/45.mp4
 第46集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/46.mp4
+4K超高清,http://121.12.105.40/tlivecloud-cdn.ysp.cctv.cn/19572AA927AFE8691D7228106C3FFE84B44F89CFECF788E3071D44B7ECFB436CE7D2AA04EA854FF9F13F7A184EA4146575D043136E8691837172B105E39D830481FF7A78DB10D3D8277DE9787433B083586819AFD0D198246B9D6FE327DCF783/2000266303.m3u8?from=player&svrtime=1577791878&pid=600002264&cdn=5501&guid=8de76406069f9575bb94a92c940e9ffa&platform=4330303&newplatform=4330303
+
 
