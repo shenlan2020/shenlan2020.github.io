@@ -131,8 +131,6 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-5.jpg" group-title="港台频道",香港有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-5.jpg" group-title="港台频道",香港有线新闻(高清)
-http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
 rtmp://58.200.131.2:1935/livetv/chchd
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="卫视频道",CHC家庭电影
@@ -143,14 +141,8 @@ rtmp://58.200.131.2:1935/livetv/chcatv
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台频道",星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2020/01/01/yOXAWbIjh1CYgKD.jpg" group-title="港台频道",有线港台频道台
-http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港台频道",NHK华语视界
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港台频道",探索频道
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港台频道",国家地理频道
-rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
@@ -167,8 +159,6 @@ http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港台频道",民视
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="港台频道",靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港台频道",中视
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台频道",华视
@@ -197,23 +187,6 @@ http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="港台频道",FOX动作电影
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-
-#EXTINF:-1 tvg-id="7187" tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png" group-title="港台频道",靖天国际
-http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 tvg-id="6101" tvg-name="靖洋戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png" group-title="港台频道",靖洋戏剧
-http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="港台频道",靖天日本
-http://61.58.60.230:9319/live/243.m3u8
-#EXTINF:-1 tvg-id="6150" tvg-name="靖天欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png" group-title="港台频道",靖天欢乐
-http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:-1 tvg-id="6151" tvg-name="靖天育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育乐.png" group-title="港台频道",靖天育乐
-http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:-1 tvg-id="6099" tvg-name="靖天资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天资讯.png" group-title="港台频道",靖天资讯
-http://61.58.60.230:9319/live/202.m3u8
-#EXTINF:-1 tvg-id="6116" tvg-name="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png" group-title="港台频道",靖天映画
-http://61.58.60.230:9319/live/244.m3u8
-#EXTINF:-1 tvg-id="6191" tvg-name="靖洋卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋卡通.png" group-title="港台频道",靖洋卡通 / Nice Bingo
-http://61.58.60.230:9319/live/206.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港台频道",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-id="100100" tvg-name="反馈交流群" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台频道",反馈交流群
