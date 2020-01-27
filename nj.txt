@@ -478,7 +478,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第40集,https://video.sigujx.com/m3u8/Hdb4336915df2410089d58d2ddc2f4d45u.m3u8
 第41集,https://video.sigujx.com/m3u8/H1d3fb461535f4c56abc217d7ba02c0e1n.m3u8
 第42集,https://video.sigujx.com/m3u8/H0b9105316369434fb821d955de819101z.m3u8
-爱情公寓第五季,#genre#
+爱情公寓,#genre#
 第1集,http://photovideo.photo.qq.com/1075_0b53ena4qcyaniapbprfnnpdgiyezcdabtca.f0.mp4?dis_k=6d738188cd9691e610a28d5384775bd8&dis_t=1580135208&vuin=898922730
 第2集,http://photovideo.photo.qq.com/1075_0b53r5azacya2qanh5jfkjpdhdyesavabfca.f20.mp4?dis_k=77ee707b8991b39fc17465cb687f504b&dis_t=1580135509&vuin=898922730
 第3集,https://qq-qiyi-youku.gms-lighting.com/m3u8/1782.m3u8
