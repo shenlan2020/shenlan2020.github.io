@@ -478,7 +478,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第40集,https://video.sigujx.com/m3u8/Hdb4336915df2410089d58d2ddc2f4d45u.m3u8
 第41集,https://video.sigujx.com/m3u8/H1d3fb461535f4c56abc217d7ba02c0e1n.m3u8
 第42集,https://video.sigujx.com/m3u8/H0b9105316369434fb821d955de819101z.m3u8
-第000集,http://jcloudcdnct.inter.iqiyi.com/videos/vts/20200116/0d/fe/e526c1e2998e5f372b64cc317368a857.ts
+第000集,http://ucloudcdnct.inter.iqiyi.com/videos/v0/20200113/8b/b5/5c0a68990c1d16f6956bcd0c735fdaf8.mp4
 庆余年全,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
 第1集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/1.mp4
