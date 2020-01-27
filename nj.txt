@@ -489,8 +489,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第6集,http://photovideo.photo.qq.com/1075_0b53cja5ecyajmalktjfonpdgeqe2k3qbvsa.f0.mp4?dis_k=51dafc884f7d7c7a1451018eaf54f30a&dis_t=1580138148&vuin=898922730
 第6集,https://cdn-yong.bejingyongjiu.com/20200112/861_e4512825/1000k/hls/index.m3u8
 第7集,http://photovideo.photo.qq.com/1075_0b53lrazqcyabmapbvzfljpdgxaetd4qbhca.f20.mp4?dis_k=1a221b1562e66daba0951f70b1320392&dis_t=1580138209&vuin=8767747
-第7集,https://cdn-yong.bejingyongjiu.com/20200112/862_13061d6f/1000k/hls/index.m3u8
-第8集,https://cdn-yong.bejingyongjiu.com/20200112/863_09cfcce3/1000k/hls/index.m3u8
+第8集,https://qq-qiyi-youku.gms-lighting.com/m3u8/1787.m3u8
 第9集,https://cdn-yong.bejingyongjiu.com/20200113/939_4a2f44e8/1000k/hls/index.m3u8
 第10集,https://cdn-yong.bejingyongjiu.com/20200113/938_17794916/1000k/hls/index.m3u8
 第11集,https://cdn-yong.bejingyongjiu.com/20200114/1029_187ddc31/1000k/hls/index.m3u8
