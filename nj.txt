@@ -1,6 +1,5 @@
 央视频道,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
-直击抗击疫情一线,http://pl.live.weibo.com/alicdn/577a0bd4e71cf0ed65a65725ffda3297_wb720.m3u8
 CCTV-1综合HD,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 CCTV-2财经,http://39.135.34.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
 CCTV-3综艺,http://39.135.34.151:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=1106497909461779572&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRrAyJU4rR1Dadw9ISEYm5oBbA9lSzNfT0W7kMLAWHUBTbBAjpiIN0Pdi%2fTRm3zPoh
@@ -479,6 +478,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第41集,https://video.sigujx.com/m3u8/H1d3fb461535f4c56abc217d7ba02c0e1n.m3u8
 第42集,https://video.sigujx.com/m3u8/H0b9105316369434fb821d955de819101z.m3u8
 爱情公寓,#genre#
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
 第1集,http://photovideo.photo.qq.com/1075_0b53ena4qcyaniapbprfnnpdgiyezcdabtca.f0.mp4?dis_k=6d738188cd9691e610a28d5384775bd8&dis_t=1580135208&vuin=898922730
 第2集,http://photovideo.photo.qq.com/1075_0b53r5azacya2qanh5jfkjpdhdyesavabfca.f20.mp4?dis_k=77ee707b8991b39fc17465cb687f504b&dis_t=1580135509&vuin=898922730
 第3集,https://qq-qiyi-youku.gms-lighting.com/m3u8/1782.m3u8
