@@ -593,4 +593,4 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 囧妈,https://youku.cdn7-okzy.com/20200125/16833_8bf58ec3/index.m3u8#https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/囧妈.mp4
 终结者6,https://cn8.qxreader.com/hls/20200115/851d3e0b830a2afce7f16e3191c984e2/1579052349/index.m3u8
 复仇者联盟3,https://www5.yuboyun.com/hls/2019/05/07/3oULwFNK/playlist.m3u8
-
+红海行动,http://vipmp4i.vodfile.m1905.com/202001281343/6c6989db253e81ba0600398a062d9a3c/movie/2018/05/08/m2018050804FPO4ORM7GE0O8S/0210A91CB6860894A1BAA397F.mp4
