@@ -435,7 +435,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 济南都市,http://ts1.ijntv.cn/jnds/sd/live.m3u8
 乡村爱情12,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
-第1集,http://cd-ctfs.ftn.qq.com/%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%8512.EP01.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4?ver=5199&rkey=87f25f7a02f90c6c4375d05dec6ee472edc37cc9766644415809c2064bccad15173a5b15ebde769dfe99c3f1f63072dd259be075cce4c9b5e83c35f9ff84c883
+第1集,https://v.canzhisong.cn/api/data/youku/37e326cfd03f9cbb562092d8c2cbe384.m3u8
 精英律师,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
 第1集,https://video.sigujx.com/m3u8/Ha23228d6f9e84d9f932543df55d672baV.m3u8
