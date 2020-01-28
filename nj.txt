@@ -462,7 +462,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第1集,https://video.sigujx.com/m3u8/Ha23228d6f9e84d9f932543df55d672baV.m3u8
 第2集,https://video.sigujx.com/m3u8/H7ac001a5194e4b7ea2765b24343e79982.m3u8
 第3集,https://video.sigujx.com/m3u8/H847191af538a409094b4094c62f81879Z.m3u8
-第4集,,https://video.sigujx.com/m3u8/H977b63feec3348829e9775ce28e43c07g.m3u8
+第4集,https://video.sigujx.com/m3u8/H977b63feec3348829e9775ce28e43c07g.m3u8
 第5集,https://video.sigujx.com/m3u8/H347a12d8fc9848c8a77f4f48870ad195D.m3u8
 第6集,https://video.sigujx.com/m3u8/Ha71d025d6b5d49fbbc22f51742243763z.m3u8
 第7集,https://video.sigujx.com/m3u8/H381d4ccf0021482381b3bafccab60bc6I.m3u8
@@ -501,6 +501,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第40集,https://video.sigujx.com/m3u8/Hdb4336915df2410089d58d2ddc2f4d45u.m3u8
 第41集,https://video.sigujx.com/m3u8/H1d3fb461535f4c56abc217d7ba02c0e1n.m3u8
 第42集,https://video.sigujx.com/m3u8/H0b9105316369434fb821d955de819101z.m3u8
+第4集,https://apd-videohy.apdcdn.tc.qq.com/vipzj.video.tc.qq.com/e00331y6f16.mp4?
 爱情公寓,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
 第1集,http://photovideo.photo.qq.com/1075_0b53ena4qcyaniapbprfnnpdgiyezcdabtca.f0.mp4?dis_k=6d738188cd9691e610a28d5384775bd8&dis_t=1580135208&vuin=898922730
@@ -611,7 +612,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第44集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/44.mp4
 第45集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/45.mp4
 第46集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/46.mp4
-第4集,https://apd-videohy.apdcdn.tc.qq.com/vipzj.video.tc.qq.com/e00331y6f16.mp4?sdtfrom=v1010&guid=f9a7c0c3418d11ea981ca042d48ad00a&vkey=EE949CF1546F3B4A729DF0174BF7C8F137A2A7CD40EAB101F9C9295C83EF9A6BFCF76E7F8ED07FEDB691512216B544F94E2DDA949C45BBB7EA7C9CECE1FD9B219D2F2CF0F13CE162283F000FA1E445353B8FE7B7B5867A6580EE372F94EB65887C5154ABD4AB42591A30F54314B06C62449524F9118FFEE46E0F5E12C50C1A59&platform=2&ocid=2309101833
+sdtfrom=v1010&guid=f9a7c0c3418d11ea981ca042d48ad00a&vkey=EE949CF1546F3B4A729DF0174BF7C8F137A2A7CD40EAB101F9C9295C83EF9A6BFCF76E7F8ED07FEDB691512216B544F94E2DDA949C45BBB7EA7C9CECE1FD9B219D2F2CF0F13CE162283F000FA1E445353B8FE7B7B5867A6580EE372F94EB65887C5154ABD4AB42591A30F54314B06C62449524F9118FFEE46E0F5E12C50C1A59&platform=2&ocid=2309101833
 在线影院,#genre#
 2020春节联欢晚会,https://hong.tianzhen-zuida.com/20200125/19220_004908f7/1000k/hls/index.m3u8
 囧妈,https://youku.cdn7-okzy.com/20200125/16833_8bf58ec3/index.m3u8#https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/囧妈.mp4
