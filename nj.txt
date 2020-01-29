@@ -670,4 +670,26 @@ sdtfrom=v1010&guid=f9a7c0c3418d11ea981ca042d48ad00a&vkey=EE949CF1546F3B4A729DF01
 终极硬汉,https://s1.135-cdn.com/20200122/Tdwx3cjVuF0mS1Gl/index.m3u8
 硬汉2：奉陪到底,https://s1.135-cdn.com/20200121/7RUMV0hQeiI5S1cX/index.m3u8
 战狼,https://s1.135-cdn.com/20200121/WidoCF8Kn9ylBEgG/index.m3u8
-终结者：黑暗命运,https://s1.135-cdn.com/20200114/MiC2u6TaO18hHxgc/index.m3u8
+终结者 黑暗命运,https://s1.135-cdn.com/20200114/MiC2u6TaO18hHxgc/index.m3u8
+的士速递5,http://sohu.com-v-sohu.com/20180804/11909_fa36394a/1000k/hls/index.m3u8
+亡命救赎,http://ifeng.com-v-ifeng.com/20181030/24524_55a61a2b/1000k/hls/index.m3u8
+通勤营救,http://youku.com-iqiyi.net/20180406/9204_0b89e2cd/1000k/hls/index.m3u8
+英雄本色2018,http://youku.cdn2-youku.com/20180410/9992_e0269c09/1000k/hls/index.m3u8
+虎胆追凶,http://youku.cdn-tudou.com/20180526/6138_8ec79d01/1000k/hls/index.m3u8
+太空救援,http://youku.com-youku.com/20171214/zspbQEZ8/800kb/hls/index.m3u8
+中国刀锋战士,http://baidu.com-l-baidu.com/20181119/8880_2c6cbb77/1000k/hls/index.m3u8
+特种保镖2,http://youku.com-iqiyi.net/20181222/20499_d0653592/1000k/hls/index.m3u8
+战士,http://iqiyi.com-t-iqiyi.com/20190407/1095_5b493f6f/1000k/hls/index.m3u8
+阿尔法战士第二季,http://youku.com-qq.net/20190606/3306_c1033de8/1000k/hls/index.m3u8
+终结者 黑暗命运,https://youku.cdn7-okzy.com/20200114/16664_9145d65f/1000k/hls/index.m3u8
+战斧行动,https://youku.cdn7-okzy.com/20200116/16693_2b373e75/1000k/hls/index.m3u8
+四平风云,https://youku.cdn7-okzy.com/20191228/16429_a4cc1416/1000k/hls/index.m3u8
+中华兵王之警戒时刻,https://youku.com-ok-56.com/20191226/20942_73064610/1000k/hls/index.m3u8
+叶问·宗师,https://youku.cdn7-okzy.com/20191223/16350_08be0641/1000k/hls/index.m3u8
+法外之徒,https://youku.com-ok-56.com/20191207/20708_80826251/1000k/hls/index.m3u8
+恶夜降临,https://youku.com-ok-56.com/20191210/20757_fd4346bd/1000k/hls/index.m3u8
+空白记忆,https://youku.com-ok-56.com/20191221/20893_42090c91/1000k/hls/index.m3u8
+灭狼行动,https://youku.cdn7-okzy.com/20200105/16544_902142e0/1000k/hls/index.m3u8
+十字追杀令3,https://youku.cdn7-okzy.com/20191112/15762_50b83450/1000k/hls/index.m3u8
+防弹2,https://youku.cdn7-okzy.com/20200113/16654_6eef439a/1000k/hls/index.m3u8
+扰乱治安,http://youku.cdn10-okzy.com/20200118/12282_822844ff/1000k/hls/index.m3u8
