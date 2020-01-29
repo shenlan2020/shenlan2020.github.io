@@ -1,3 +1,9 @@
+直播武汉,#genre#
+医院施工现场视角1，http://mobilelive-play.ysp.cctv.cn/2001891501_fhd.m3u8
+医院施工现场视角2，http://mobilelive-play.ysp.cctv.cn/2001894001_fhd.m3u8
+医院施工现场视角3，http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
+医院施工现场视角4，http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
+双窗口视角，http://mobilelive-play.ysp.cctv.cn/2001886801_fhd.m3u8
 央视频道,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
 CCTV-1综合HD,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
