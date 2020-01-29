@@ -1,11 +1,10 @@
 直播武汉,#genre#
-医院施工现场视角1，http://mobilelive-play.ysp.cctv.cn/2001891501_fhd.m3u8
-医院施工现场视角2，http://mobilelive-play.ysp.cctv.cn/2001894001_fhd.m3u8
-医院施工现场视角3，http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
-医院施工现场视角4，http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
-双窗口视角，http://mobilelive-play.ysp.cctv.cn/2001886801_fhd.m3u8
-武汉新闻综合，http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+医院施工现场视角1,http://mobilelive-play.ysp.cctv.cn/2001891501_fhd.m3u8
+医院施工现场视角2,http://mobilelive-play.ysp.cctv.cn/2001894001_fhd.m3u8
+医院施工现场视角3,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
+医院施工现场视角4,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
+双窗口视角,http://mobilelive-play.ysp.cctv.cn/2001886801_fhd.m3u8
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
