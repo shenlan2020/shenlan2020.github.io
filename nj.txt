@@ -471,7 +471,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第19集,https://v.canzhisong.cn/api/data/youku/8621502693ae1ebe442c8b424a9fffc1.m3u8
 第20集,https://v.canzhisong.cn/api/data/youku/5a088fa0da6b455f588cddcd708d24a5.m3u8
 第21集,https://cdn-yong.bejingyongjiu.com/20200129/2140_6990513c/1000k/hls/index.m3u8
-第22集,https://cdn-yong.bejingyongjiu.com/20200129/2139_20acfbc0/1000k/hls/index.m3u8
+第22集,http://ugcsochy.tcdn.qq.com/vwecam.gtimg.com/1006_6b62f2ac1fd94550b8ac07d2beca99ae.f0.mp4?vkey=AD6FEBFE71E9BED101DF86C78117588A6333AFA81F921B3FB7024E74E7CB9B62D68FA2983EDDFB687F85B2108967998543D431F9E916F3C5#https://cdn-yong.bejingyongjiu.com/20200129/2139_20acfbc0/1000k/hls/index.m3u8
 第23集,https://cdn-yong.bejingyongjiu.com/20200130/2223_fa8e463a/1000k/hls/index.m3u8
 第24集,https://cdn-yong.bejingyongjiu.com/20200130/2222_32227a60/1000k/hls/index.m3u8
 精英律师,#genre#
