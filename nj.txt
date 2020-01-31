@@ -22,7 +22,7 @@ CCTV-9纪录,http://39.135.34.145:18890/000000001000/1000000001000014583/1.m3u8?
 CCTV-10科教,http://39.135.34.151:18890/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7019587760656900133&owchid=ystenlive&owsid=1106497909461152716&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5DtJGdM%2bq9fDiivHNjKl%2bK%2b9%2fvTG5xUEzd4ADPtXjiSOOAPl07bvHVEc1KInbp3p%2fXrmwsjTHZ%2fLcoxEWqnCxI
 CCTV-11戏曲,http://39.135.34.157:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=1106497909461158507&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUELVtb8TDQzMSm5TScAJJF9JU4YcW5z4YHYDU6y7yn5EMhEqmI%2fAHiE6j4Y95QQ6
 CCTV-12社会与法,http://39.135.34.153:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
-CCTV-13新闻,http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE#http://web.hls.timetv.cn/mlive/cctv/cctv13hd.m3u8
+CCTV-13新闻,http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/index.m3u8#http://web.hls.timetv.cn/mlive/cctv/cctv13hd.m3u8
 CCTV-14少儿,http://39.135.34.147:18890/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8203666801302077036&owchid=ystenlive&owsid=1106497909461179285&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5OdsPl7aB2c%2fh9IG5fEu5Y1yWuhr6PsL8ovQK5JmdmvjbSpXjguwCa8emDxg5lQPKN6B6go0yKDtys3NmnOM6U
 CCTV-15音乐,http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 CCTV-5+体育,http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
@@ -336,6 +336,7 @@ DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966
 骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 
 亲子卡通,#genre#
+黑莓动画,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/index.m3u8
 迪斯尼,P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
 迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361
 迪斯尼,mitv://198.255.74.87:9906/5dc08f050008e03301b79f4dc69f2a18.ts
@@ -365,6 +366,9 @@ BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 NewTV,#genre#
+NewTV超级电视剧,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/index.m3u8
+NewTV超级综艺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
+NewTV搏击,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
 NewTV中国功夫,http://111.40.205.86/wh7f454c46tw2167295361_1603561774/PLTV/88888888/224/3221225681/index.m3u8
 NewTV农业致富,http://111.40.205.80/wh7f454c46tw1949980716_410574906/PLTV/88888888/224/3221225683/index.m3u8
 NewTV明星大片,http://111.40.205.77/wh7f454c46tw210629856_1757972621/PLTV/88888888/224/3221225664/index.m3u8
@@ -474,6 +478,8 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第22集,http://ugcsochy.tcdn.qq.com/vwecam.gtimg.com/1006_6b62f2ac1fd94550b8ac07d2beca99ae.f0.mp4?vkey=AD6FEBFE71E9BED101DF86C78117588A6333AFA81F921B3FB7024E74E7CB9B62D68FA2983EDDFB687F85B2108967998543D431F9E916F3C5#https://cdn-yong.bejingyongjiu.com/20200129/2139_20acfbc0/1000k/hls/index.m3u8
 第23集,https://cdn-yong.bejingyongjiu.com/20200130/2223_fa8e463a/1000k/hls/index.m3u8
 第24集,https://cdn-yong.bejingyongjiu.com/20200130/2222_32227a60/1000k/hls/index.m3u8
+第25集,https://iqiyi.cdn9-okzy.com/20200131/5670_df0f1ee8/1000k/hls/index.m3u8
+第26集,https://iqiyi.cdn9-okzy.com/20200131/5669_7d16e7f2/1000k/hls/index.m3u8
 精英律师,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
 第1集,https://video.sigujx.com/m3u8/Ha23228d6f9e84d9f932543df55d672baV.m3u8
