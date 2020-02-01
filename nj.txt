@@ -652,7 +652,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 sdtfrom=v1010&guid=f9a7c0c3418d11ea981ca042d48ad00a&vkey=EE949CF1546F3B4A729DF0174BF7C8F137A2A7CD40EAB101F9C9295C83EF9A6BFCF76E7F8ED07FEDB691512216B544F94E2DDA949C45BBB7EA7C9CECE1FD9B219D2F2CF0F13CE162283F000FA1E445353B8FE7B7B5867A6580EE372F94EB65887C5154ABD4AB42591A30F54314B06C62449524F9118FFEE46E0F5E12C50C1A59&platform=2&ocid=2309101833
 在线影院,#genre#
 2020春节联欢晚会,https://hong.tianzhen-zuida.com/20200125/19220_004908f7/1000k/hls/index.m3u8
-肥龙过江,https://youku.cdn10-okzy.com/20200201/12513_ed547acc/1000k/hls/index.m3u8
+肥龙过江,https://mu.qqxy100.com/ts/2/65525618531368960/index.m3u8#https://youku.cdn10-okzy.com/20200201/12513_ed547acc/1000k/hls/index.m3u8
 囧妈,https://dhd.4kdy.org/DY/DL/jiongma/index.m3u8#https://youku.cdn7-okzy.com/20200125/16833_8bf58ec3/index.m3u8#https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/囧妈.mp4
 中国机长,http://yfcdn.vod.pptv.com/1265e7c39c0fc25ff4f42cfb9963e899.mp4?type=client.download&w=1&k=f5b79ef652f6222c1e32002af08dd4fb-d2c7-1580301287%26bppcataid%3D1
 哪吒之魔灵降世,https://bilibili.com-h-bilibili.com/20191010/10062_29a5a26c/index.m3u8
