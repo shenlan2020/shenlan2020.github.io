@@ -27,7 +27,6 @@ CCTV-14少儿,http://39.135.34.147:18890/000000001000/8203666801302077036/1.m3u8
 CCTV-15音乐,http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 CCTV-5+体育,http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/duor.flv
 卫星频道,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 湖南卫视高清,http://39.135.34.150:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
@@ -468,7 +467,20 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 走进童话故事,http://video.2156.cn/video/edf991ed-7c61-48de-85df-ebef49a2ef00.m3u8?Expires=1580682433&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=bws5Dp16QNNYA%2F4ZuA2zlw%2Fypzs%3D
 邓小平爷爷植树,http://video.2156.cn/video/98595236-a4a7-4166-9782-17305688ef58.m3u8?Expires=1580682477&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=y4QUwOBo%2BbotggFvUF26ByOXDR8%3D
 口语交际:注意说话的语气,http://video.2156.cn/video/e4acdf9f-12e0-4c87-b242-631817f11738.m3u8?Expires=1580682553&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=l1V5DUXe54kHuLi%2BnfT069yQlIc%3D
-:走进《赋得古原草送别》,http://video.2156.cn/video/d515c62a-714a-4c2b-ac53-16c13289f307.m3u8?Expires=1580682676&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=kZIYtTwCaOBxjYecAnCH8jzeIU0%3D
+走进《赋得古原草送别》,http://video.2156.cn/video/d515c62a-714a-4c2b-ac53-16c13289f307.m3u8?Expires=1580682676&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=kZIYtTwCaOBxjYecAnCH8jzeIU0%3D
+读句子想画面讲故事,http://video.2156.cn/video/e95f8ad6-9533-4b7f-a5b7-762c130e0471.m3u8?Expires=1580684805&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=Y%2BvLI9JzPOOZAFUjpKYy65BoeDY%3D
+学猜词语的意思,http://video.2156.cn/video/84500fda-c8ca-4470-9bab-f2a6e2745b5b.m3u8?Expires=1580684850&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=zDymhSuSBndfTwr9EMO9s%2F2yMcQ%3D
+千人糕的由来,http://video.2156.cn/video/8426c698-23ff-4d8a-aff1-f6c6388e5a62.m3u8?Expires=1580684882&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=JAKhfovmip8KPzDZHmroMf5ccbk%3D
+有感情的朗读课文,http://video.2156.cn/video/4a60f27c-2ff8-4f4d-8494-5b65d8ad1e0f.m3u8?Expires=1580684924&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=OZ4AuXTGNOFnSRw3l5MRWdHZ2ak%3D
+把喜欢的景物写下来,http://video.2156.cn/video/cc70083b-e878-4e18-aa26-c5420e49bfe0.m3u8?Expires=1580684953&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=%2Fzg4ycP0Zyt4nzLW77MNeGTESnM%3D
+写话我的好朋友,http://video.2156.cn/video/328136d9-1773-463b-b09d-133f200d0ddf.m3u8?Expires=1580684979&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=HQoXrQEJoeEAWDIWFFyGDDjP28M%3D
+走进谚语,http://video.2156.cn/video/125938a6-cd1f-450f-8b16-624ff737c169.m3u8?Expires=1580685008&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=PwXW0LJax8z6ewUzNwy6a7iUNmE%3D
+这些词用得真好--《神州谣》,http://video.2156.cn/video/b092c2f1-dd11-4b12-ad87-aa7f7c5492a3.m3u8?Expires=1580685039&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=ZZNlgCrEQJUAIVbOVPEjFHhXET0%3D
+传统节日我知晓,http://video.2156.cn/video/81161e24-2b2a-4ca0-b7ea-905971927878.m3u8?Expires=1580685089&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=to6FgGbyeaRdX0X3s8NRugkFYtw%3D
+汉字真有趣,http://video.2156.cn/video/98f8f201-f797-445f-964a-e68ce5a2953d.m3u8?Expires=1580685121&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=kSC0HZrJXFr8p1zauIuBy6XcCXw%3D
+看中国美食 悟华夏文字—《中国美食》,http://video.2156.cn/video/3e4f57e7-9f58-41a9-b342-63d2c6fe5449.m3u8?Expires=1580685141&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=Ae0LIO%2FOujAO8S1A0uMzkVmop6s%3D
+汉字偏旁小知识,http://video.2156.cn/video/5b330d0c-eeb1-4da6-ba6a-51561b5b8877.m3u8?Expires=1580685162&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=NprPp9p4WNBI3ntvjveLdzJEVKg%3D
+
 乡村爱情12,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 第1集,https://v.canzhisong.cn/api/data/youku/37e326cfd03f9cbb562092d8c2cbe384.m3u8
