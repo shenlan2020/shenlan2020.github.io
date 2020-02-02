@@ -9,7 +9,7 @@
 武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 央视频道,#genre#
-直播介绍,https://ip3901786774.mobgslb.tbcache.com/697571B07193C718B47963FB2/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4.ts?sid=0580646915485201179a2_00_Aba5d82d74eccf24469948344aecb5e47&sign=cef3a034af1278ae305fa7aa24659618&ctype=20&bc=2&si=2&ts_start=17.9&ts_end=26.94&ts_seg_no=3&ts_keyframe=1&ali_redirect_domain=vali.cp31.ott.cibntv.net&ali_redirect_ex_ftag=e8b30776902c83fd6a6032940e1ab8241db982ad0f8d66fc&ali_redirect_ex_tmining_ts=1580647247&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=111
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 CCTV-1综合HD,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 CCTV-2财经,http://39.135.34.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
 CCTV-3综艺,http://39.135.34.151:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=1106497909461779572&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRrAyJU4rR1Dadw9ISEYm5oBbA9lSzNfT0W7kMLAWHUBTbBAjpiIN0Pdi%2fTRm3zPoh
@@ -28,7 +28,7 @@ CCTV-15音乐,http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8
 CCTV-5+体育,http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
 卫星频道,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 湖南卫视高清,http://39.135.34.150:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
 北京卫视高清,http://39.135.34.143:18890/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000017156&owchid=ystenlive&owsid=1106497909461249865&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRV7KOtBVuvtVZFLcgrBAOKYd9hOl8T7nV%2fYYLzxPrqZvxI1UedirhXiKrowSY0GL9
 浙江卫视高清,http://39.135.34.146:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
@@ -60,9 +60,8 @@ CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/
 贵州卫视,http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 甘肃卫视,http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 广东体育,vjms://121.14.222.75:8500:3502/live/cid=336#vjms://23.237.33.155:8500:3502/live/cid=336#http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
-
 港台新闻,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
 TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
@@ -126,9 +125,8 @@ BBC,vjms://58.215.133.185:8500:3502/live/cid=418
 BBC,vjms://23.237.33.155:8500:3502/live/cid=418
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97
 FOXNews,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
-
 港台影视,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436
 HBO原创电影,vjms://23.237.33.155:8500:3502/live/cid=436
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
@@ -181,10 +179,8 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 CHC高清电影HD,rtmp://58.200.131.2:1935/livetv/chchd
 CHC家庭电影,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
-
-
 综合娱乐,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
@@ -239,6 +235,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 星卫娱乐,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5
 东森超视,mitv://fccsovh.pvbox.live:18912/5c72487c000667911d52abe7044c2b21
 港台体育,#genre#
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 NBA,mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
 FOXSPORT-3,vjms://58.215.133.185:8500:3502/live/cid=95
 ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266
@@ -258,7 +255,7 @@ ELTA体育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 港台育乐,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts
 国家地理野生,vjms://58.215.133.185:8500:3502/live/cid=263
 国家地理野生,vjms://23.237.33.155:8500:3502/live/cid=263
@@ -303,10 +300,8 @@ BBC Lifestyle,mitv://198.255.74.87:9906/5dc08f010009f63d01b78ff419325ae0.ts
 BBC earth,mitv://198.255.74.87:9906/5dc08f01000924dc01b78fbe69aa63f6.ts
 E! Entertainment,mitv://198.255.74.87:9906/5dc08f050005745d01b79e6d8bd2cbe8.ts
 Ci罪案偵緝 HD,mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
-
-
 轮播频道,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 BesTV鼎级,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000142
 东方电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 靓妆高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000127
@@ -335,9 +330,8 @@ DOX英伦,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c
 DOX映画,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
 DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
 骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-
 亲子卡通,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 黑莓动画,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/index.m3u8
 迪斯尼,P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
 迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361
@@ -363,13 +357,13 @@ Nick Jr,mitv://198.255.74.87:9906/5dc08f020002568501b791e8084cb957.ts
 MY KIDS,mitv://198.255.74.87:9906/5dc08f0200017dde01b791b183d54845.ts
 小太阳,mitv://198.255.74.87:9906/5dc4e322000e827212a03206729ccc38.ts
 精彩4K,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 NewTV,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 NewTV超级电视剧,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/index.m3u8
 NewTV超级综艺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 NewTV搏击,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
@@ -392,7 +386,7 @@ Newtv动作电影,http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
 Newtv动画王国,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
 newTV潮妈辣婆,http://117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8
 CIBN轮播,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 CIBN综合,http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384
 CIBN好莱坞,http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
 CIBN院线大片,http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
@@ -420,7 +414,7 @@ CIBN健康,http://cibn.peoplevideo.cn/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8?wsSecret
 CIBN风尚运动,http://cibn.peoplevideo.cn/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?wsSecret=5f38811d672214110f110816440adbdb
 CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSecret=b58297c2170067d9164da6f2f86d3059
 山东电信,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 齐鲁频道高清,http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
 山东公共高清,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000053/index.m3u8
 山东教育,http://live.sdetv.com.cn/live/sdetv/playlist.m3u8?wsSession=e6a60e04f0ae64807395dbad-158064245787046&wsIPSercert=520c8e54e71ca39b3df9e5bcfbe147e4&wsMonitor=0
@@ -457,7 +451,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 沂南旅游,http://jsylivealone302.iqilu.com/live/yinan_tv02/index.m3u8
 沂水一套,http://60.213.23.98:8081/live/ys1.m3u8
 沂水二套,http://60.213.23.98:8081/live/ys1.m3u8
-在线课堂,#genre#
+二年语文,#genre#
 诗词中的春,http://video.2156.cn/video/e78e8d23-6134-4087-9790-7839e7a5cc95.m3u8?Expires=1580681980&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=bitI7rFstUALYKpsuu1ZuSmbmfc%3D
 咏柳,http://video.2156.cn/video/61d33eef-4618-4e86-b6c4-a3eaca118295.m3u8?Expires=1580681840&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=GtAM1YiZww%2BSv5dMaJjqwdFUTVE%3D
 古诗词中柳的意象,http://video.2156.cn/video/ea4046c4-e34d-4170-b4f4-4ab6b70bdd56.m3u8?Expires=1580682082&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=eFZ6QA%2F84zoj8RwWKLYRlQ2laJU%3D
@@ -480,9 +474,87 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 汉字真有趣,http://video.2156.cn/video/98f8f201-f797-445f-964a-e68ce5a2953d.m3u8?Expires=1580685121&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=kSC0HZrJXFr8p1zauIuBy6XcCXw%3D
 看中国美食 悟华夏文字—《中国美食》,http://video.2156.cn/video/3e4f57e7-9f58-41a9-b342-63d2c6fe5449.m3u8?Expires=1580685141&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=Ae0LIO%2FOujAO8S1A0uMzkVmop6s%3D
 汉字偏旁小知识,http://video.2156.cn/video/5b330d0c-eeb1-4da6-ba6a-51561b5b8877.m3u8?Expires=1580685162&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=NprPp9p4WNBI3ntvjveLdzJEVKg%3D
-
+展开想象 仿写段落,http://video.2156.cn/video/35c8013d-e2c0-419c-9d43-cfda64bef9bf.m3u8?Expires=1580687978&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=TLnRYMopMhODPPBocohFspSfxxQ%3D
+学反复 悟情感,http://video.2156.cn/video/c19b3d3b-6104-48a1-94fd-71097d7d8cdb.m3u8?Expires=1580688013&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=FAuHFNxIWvVGeJ68xyUs5j5GFIE%3D
+读写结合，仿写片段,http://video.2156.cn/video/713d8649-642b-48a7-8fd4-7ef00f4e8c82.m3u8?Expires=1580688053&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=9BMZ%2FiqP%2FQbYPv8NbH%2FQBm0r%2BIA%3D
+句子中的童真,http://video.2156.cn/video/fe06327f-1c37-4b12-8253-2c456c6af80e.m3u8?Expires=1580688091&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=lHVXHA0j%2BNVrsebQZY08hi3TBEc%3D
+漫谈虫趣,http://video.2156.cn/video/96b22e57-9974-4899-8744-1232517afa8e.m3u8?Expires=1580688114&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=KtLYsA34WmWMn8UhagUbez3aGUs%3D
+心情词语分分类,http://video.2156.cn/video/6bb2ebcb-2dcf-4b15-851c-ea6e638267f1.m3u8?Expires=1580688137&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=X1RqPZa0Y3s4AZ%2FmdptYtfS9zKo%3D
+借助图画编故事,http://video.2156.cn/video/30426049-34f3-407c-8855-eb2e2db5cb45.m3u8?Expires=1580688159&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=FX5hOgdhFkbGJvmPVZb%2FpZf1m1I%3D
+体会任务的心情—《亡羊补牢》,http://video.2156.cn/video/6bb1bf18-082b-4aca-9cfe-5200a268b245.m3u8?Expires=1580688575&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=h6UkA9pYfRwGWJPpNDr3Ss1GBN4%3D
+趣说揠苗—《拔苗助长》,http://video.2156.cn/video/5edf9c28-3160-4d5c-9632-52ae176f16b3.m3u8?Expires=1580688627&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=bL%2BqYs%2BR%2FDn11U4PjwyFK35TaH4%3D
+文中”找茬“——《画杨桃》,http://video.2156.cn/video/731d0e93-4b5a-4563-b67c-5d4ee16b68a9.m3u8?Expires=1580688663&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=WPhyR0MVF0kKb5mtkL3yYmPHYT4%3D
+体会说话的语气——《小马过河》,http://video.2156.cn/video/54ac4db0-57da-4ddf-8689-b7550cacc61a.m3u8?Expires=1580688693&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=297%2BJTTtRLKkctCwGcNqVoA2%2Fmg%3D
+不一样的“笑,http://video.2156.cn/video/662bcf22-fa16-4c46-acce-4ad4af6aef75.m3u8?Expires=1580688720&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=F%2Br5N5HIRurYsNiBFpohFiRvuWI%3D
+课时35:学词语 找特点,http://video.2156.cn/video/dc7c73d3-a5dc-4a4b-9f2d-46ac767d3391.m3u8?Expires=1580688747&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=uBla0Kof5T1z49oas8OKAHkTShM%3D
+课时36:巧用偏旁识字,http://video.2156.cn/video/7e8fdf75-9bde-4e9f-97c3-07ac99fe5af2.m3u8?Expires=1580688773&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=lCGEReKJzVuiVH%2FwI3aqHEBFDSs%3D
+课时37:古诗两首--感受古诗词的色彩美,http://video.2156.cn/video/fa43c872-c0db-447a-aabd-32beec576401.m3u8?Expires=1580688800&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=N5i0hdQj1OHxgPAruAR8X2brmBI%3D
+课时38:绝句——远近交错，动静结合,http://video.2156.cn/video/385c48c7-1097-40e5-abf7-c18306792cf8.m3u8?Expires=1580688823&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=eaC4dJWX%2FRSkFK0XyiY3QP%2Bdh40%3D
+课时39:准确用词，适当表达,http://video.2156.cn/video/ec4c7d81-fd84-4188-b23a-b7546d730d74.m3u8?Expires=1580688849&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=VGK1b8tlk5S8HoEVRWunPWlqj9w%3D
+课时40:要是你在野外迷了路--认识天然指南针,http://video.2156.cn/video/3d043a6a-6d53-4f9c-bb43-f4ba213fb30c.m3u8?Expires=1580688873&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=27%2FZFV6%2BXsV90isW%2BEkFeNLFxd0%3D
+课时41:太空生活趣事多--有趣的太空生活,http://video.2156.cn/video/702607e7-d609-43db-86e5-e10638076072.m3u8?Expires=1580688898&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=0z03CNc5kDCTU6AdsruuLssZNzA%3D
+课时42:最大的“书”--读懂岩石这本“书”,http://video.2156.cn/video/9f2046a7-8429-40a5-b2cc-a4615924545d.m3u8?Expires=1580688920&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=2%2B0TJeG7vuRz7SLfrI7M%2BVjS%2BPs%3D
+课时43:悯农 其一,http://video.2156.cn/video/8cfb9881-1201-49d1-9d4b-2ec9162e1d1f.m3u8?Expires=1580688943&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=jZNSGDLGNrcB1M4N%2FZgGs1qSZuI%3D
+课时44:《大象的耳朵》--有波折的故事才精彩,http://video.2156.cn/video/2212e114-d8f4-4f59-9bc1-0890100d0d3c.m3u8?Expires=1580689441&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=ikXj8BzBJ6orS6M3qxe02ntKMrc%3D
+课时45:借助《大象的耳朵》理解含义深刻的句子,http://video.2156.cn/video/7b797aac-4915-4ce5-94b7-7c4807b6e9d8.m3u8?Expires=1580689465&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=V5iVG2eBblH4VA400CLS3uyH7TI%3D
+课时46:用两三件事讲述人物性格特点—《蜘蛛开店》,http://video.2156.cn/video/dae455fe-45e9-4636-b0d6-baddc9dd5375.m3u8?Expires=1580689490&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=%2BR76A5mUB%2FnhTSIG9lW%2BFoImEug%3D
+课时47:按照事情发展的顺序—《青蛙卖泥塘》,http://video.2156.cn/video/7a082f59-fe45-40a0-8bad-f047e24b7f7a.m3u8?Expires=1580689511&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=Z8YBxhXKpYE7HtxNWzhQfvxb%2Fuw%3D
+课时48:情节相似的故事要处理好详写和略写—《青蛙卖泥塘》,http://video.2156.cn/video/b3959c53-0bd6-44c6-bee1-d1d28d22349f.m3u8?Expires=1580689538&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=dYS8Jgq5Tv3shjna2e%2Fbm6aTl3o%3D
+课时49:好故事，要开好头—《小毛虫》,http://video.2156.cn/video/4dd0c092-3ad6-41a8-99fd-e7886cccf829.m3u8?Expires=1580689563&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=GKv9x1oncHEx58KAzuqe7FMaxyI%3D
+课时50:感受形容词的美妙—《小毛虫》,http://video.2156.cn/video/94b1f44f-3ab8-4436-85b3-c57bf20a68eb.m3u8?Expires=1580689586&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=ZOr5DwwCYMP7Pu1L5XRo%2FVVoVkQ%3D
+课时51:字词句的运用——比喻,http://video.2156.cn/video/333c7527-22a2-42a9-aaac-801ce9be0818.m3u8?Expires=1580689613&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=bF7t9iVYhCHP91Zc9ZPvcXJ6neA%3D
+课时52:学写小动物,http://video.2156.cn/video/23210bce-444c-408b-a3ca-622224687835.m3u8?Expires=1580689639&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=XUdQS4KrkDFggylyEesI%2BI3%2BEcE%3D
+课时53:日积月累——《二十四节气歌》,http://video.2156.cn/video/a6f310b1-ac06-4e4b-9bb0-01cdc23693c4.m3u8?Expires=1580689684&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=SCkSmvFWkLZPXxzNt6%2B%2BlCg9OT8%3D
+课时54:体会动词妙用—《祖先的摇篮》,http://video.2156.cn/video/8469b4f7-ae38-4db8-a9fb-d2a002f6bb72.m3u8?Expires=1580689707&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=%2FK0AXQ3xXugF61dAkPS%2F2nto6EE%3D
+课时55:读诗歌 想画面课时—《祖先的摇篮》,http://video.2156.cn/video/24029986-121d-4ff2-bf72-e9298e235171.m3u8?Expires=1580689732&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=%2BuJXjEOaDcbl0xXbByr9h9%2F5L4Y%3D
+课时56:当世界年级还小的时候,http://video.2156.cn/video/6ecfbba1-c5c7-4ddd-926e-a68a0f38bf94.m3u8?Expires=1580689756&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=gjmVbgpYNiARDAAJ2upnT8HL0Rc%3D
+课时57:省略号的妙用—《当世界年纪还小的时候》,http://video.2156.cn/video/84686eab-4d9a-490e-a7cf-ad7865799d5c.m3u8?Expires=1580689776&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=wWBXmxgVkn8qfsQomdv1iG8lAEM%3D
+课时58:李时珍,http://video.2156.cn/video/c977b595-6926-450e-9ddd-e494733090e2.m3u8?Expires=1580689796&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=fXv2NIRPGqhJkUDH6U8Ufs%2FFYKE%3D
+课时59:识字加油站,http://video.2156.cn/video/e4bdd9d9-0d00-4140-82a1-580e8dc58f2d.m3u8?Expires=1580689817&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=C7nnfvbcN43o8vIB%2Be5LVLTIKqI%3D
+二年数学,#genre#
+课时1:调查与收集数据,http://video.2156.cn/video/e28537b4-bbbb-4d84-96f2-1af83716aa4c.m3u8?Expires=1580689877&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=fjSa7LVx8Z1%2FYIkAEsVBxG56FcQ%3D
+课时2:记录与整理数据,http://video.2156.cn/video/4725dfac-eb81-4af3-b86a-470afe3a5b23.m3u8?Expires=1580689908&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=9vaHYHisin1I4aZwdg2qxJIU4C0%3D
+课时3:除法的初步认识,http://video.2156.cn/video/fe2fe3bb-0146-4854-8860-c66a7284a4b4.m3u8?Expires=1580689934&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=dDn0sepWwbh2aT5BvrcjQX5aNzg%3D
+课时4:除法算式各部分的名称,http://video.2156.cn/video/26635899-6b38-4417-842f-602d94ba4a4c.m3u8?Expires=1580689960&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=%2FdsCJNobfMY8MxHcJEQ4GCNCE6w%3D
+课时5:平均分（一）,http://video.2156.cn/video/31453d48-59b0-4e44-bbb3-497b1b7c1668.m3u8?Expires=1580689985&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=mbom4jTqOfXPu2NIyVcLdv6QiEY%3D
+课时6:平均分（二）,http://video.2156.cn/video/fe841da2-8055-4c4c-98ce-4e316833564e.m3u8?Expires=1580690005&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=TeGBawM3psE2h8ayvIDlYCCXGvw%3D
+课时7:表内除法（一）解决问题,http://video.2156.cn/video/986371b0-3c89-44df-bb68-56591c74b563.m3u8?Expires=1580690027&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=3w7YaomAo3WD5k5w14mrQ%2FXDKk0%3D
+课时8:用2~6的乘法口诀求商（1）,http://video.2156.cn/video/c58021a6-4fe5-490f-a9ad-a8e279c8816e.m3u8?Expires=1580690051&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=wmEdyK4b%2BXV9xM3rTHYhppOBBbM%3D
+课时9:用2~6的乘法口诀求商（2）,http://video.2156.cn/video/ba76549d-639e-4530-ba8c-032d2e21cb1f.m3u8?Expires=1580690078&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=64r9x25u8LkYxwlvh76jnJjnikM%3D
+课时10:图形的运动--对称,http://video.2156.cn/video/046792c6-f2c4-462e-ac03-884b060aea13.m3u8?Expires=1580690105&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=yR9G4l%2BAybzV%2BXpG%2FZSN5W1tjCQ%3D
+课时11:图形的运动--解决问题,http://video.2156.cn/video/9628ab5b-878d-4e7c-9663-f7782c6b0441.m3u8?Expires=1580690127&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=jmorvEgK1IQm9FUB3GDX%2Fv7uxNg%3D
+课时12:图形的运动--平移,http://video.2156.cn/video/20a0dead-24c9-4563-8104-262be7c102a6.m3u8?Expires=1580690152&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=VGGdnFa9z%2BEqHuh2noMsdBnXBZ0%3D
+课时13:图形的运动--旋转,http://video.2156.cn/video/1aaa6439-b962-4e86-b07c-4629f0aedeaf.m3u8?Expires=1580690178&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=C0ie8tEe0JPzR4lge4mnyCqRyR0%3D
+课时14:用7、8的乘法口诀求商,http://video.2156.cn/video/fa5e619f-7392-4c24-8df6-4b82ac46de02.m3u8?Expires=1580690204&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=Hinc1IzFok2QjJhBd13b6c4LAGE%3D
+课时15:用9的乘法口诀求商,http://video.2156.cn/video/14058daf-fab3-4478-bfc6-c16c360ab1ce.m3u8?Expires=1580690293&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=oggge8sbfwdMla9%2BDAYcrn1v5GU%3D
+课时16:解决问题（表内除法二）,http://video.2156.cn/video/2b7e7232-2f87-4016-ac41-59316349fd02.m3u8?Expires=1580690312&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=%2BdQZVRruQ2Bs7x0qdQuxpzTGVi4%3D
+课时17:同级运算,http://video.2156.cn/video/db0b47d0-d2e5-4387-a95a-46c0ca17c805.m3u8?Expires=1580690331&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=3R4OO6KF9yiDBlInyNVY4xsod0s%3D
+课时18:不同级运算,http://video.2156.cn/video/d33a19fc-e415-44c3-9c28-e9b8e1c1c855.m3u8?Expires=1580690350&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=L4jRMz6sHOc1gy%2BC2M5sc1EBIes%3D
+课时19:含有小括号的混合运算,http://video.2156.cn/video/ff91fe20-64f1-4e66-a400-d1a51c0f73ee.m3u8?Expires=1580690373&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=xgJB1R2%2Ff%2FYwxsj0IOuTtY%2BMIdY%3D.
+课时20:解决问题-混合运算,http://video.2156.cn/video/74f2f532-41dc-4088-8aa7-ff1d81134bd8.m3u8?Expires=1580690390&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=hUTLhgf5VgfPJr6hiC%2BwmAo3%2BUA%3D
+课时21:有余数的除法,http://video.2156.cn/video/11ec5b84-d393-4d5f-bdf4-1bbee51e3890.m3u8?Expires=1580690408&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=BdiNYe5acVi4lpXwXU0OPjfeJeI%3D
+课时22:余数和除数的关系,http://video.2156.cn/video/e42ec6bb-2ae4-476a-8a06-997bc2670b83.m3u8?Expires=1580690424&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=D3tqankLmAl%2Bjuqut%2FcnsXMjaRg%3D
+课时23:有余数的除法 除法试商,http://video.2156.cn/video/fd63e134-1cd5-4ea3-9290-0649e8182f09.m3u8?Expires=1580690441&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=iWI5HRelI%2BKaVwMfmxsLVxyFVhQ%3D
+课时24:有余数的除法 除法竖式,http://video.2156.cn/video/5a8e9484-1bdd-45a9-93fb-1cf5fe7721ad.m3u8?Expires=1580690464&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=0f5%2FFxfPR%2BuG4JP2cAn16y8U8T4%3D
+课时25:有余数的除法 解决问题例5,http://video.2156.cn/video/2eaa0561-cef6-4587-9eab-0f17552f1e38.m3u8?Expires=1580690487&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=ciPwBXAlgrAEqekKIF%2F5RjetZdY%3D
+课时26:有余数的除法 解决问题例6,http://video.2156.cn/video/393f0760-ad8b-4480-828e-b8e505726a83.m3u8?Expires=1580690511&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=PGHsylAloHfCX01FtTQNonY%2FjRE%3D
+课时27:1000以内数的认识,http://video.2156.cn/video/d7eafe6d-0d67-41d0-af95-64e6afaff429.m3u8?Expires=1580690533&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=9e8nmeYbKQk%2FqFTInU1UO5G0sII%3D
+课时28:万以内数的读法,http://video.2156.cn/video/fdca46c7-f17a-440a-baaf-130a98731f19.m3u8?Expires=1580690553&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=eSqBDKLwVyBr3PS1ik5jAWAHR5s%3D
+课时29:万以内数的写法,http://video.2156.cn/video/15eef8da-059c-4e7d-9daf-308b2ca20b77.m3u8?Expires=1580690576&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=wEdW7rYt4P7psSOQaQWXgLgP52E%3D
+课时30:万以内数的组成,http://video.2156.cn/video/eeff24db-d45e-451c-8807-3558eec582ac.m3u8?Expires=1580690605&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=Gb%2FDCUsXhDvQyQB%2FYnkzjVoE4G4%3D
+课时31:1000以内数的读写组成,http://video.2156.cn/video/d76acfaf-7bad-433d-abe9-e781aeded733.m3u8?Expires=1580690673&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=484PXL5h%2BBqJdMojaShPShtIw7A%3D
+课时32:万以内数的大小比较,http://video.2156.cn/video/c222e7a6-a9bf-46bf-a266-b5590a7d4c08.m3u8?Expires=1580690699&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=N4YBc9hFAFfTJcI62Mm47vQ3MlM%3D
+课时33:认识算盘,http://video.2156.cn/video/ef8ab3d8-4c74-4f02-8c59-ce2dc6135f4a.m3u8?Expires=1580690716&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=h84kw6Fm4EyeWA%2FG0eUWvIyCRbo%3D
+课时34:认识数位顺序表,http://video.2156.cn/video/6603aee4-8330-4658-9bc5-a256d3b59847.m3u8?Expires=1580690734&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=DAuyr7K4Jxur2mJoH1IQxL6YYSk%3D
+课时35:整百、整千数加减法,http://video.2156.cn/video/e9c840c2-4440-407d-b744-94ef601fd993.m3u8?Expires=1580690758&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=8iONbcGCjhCeyLEAsYTYKPtB1h4%3D
+课时36:用估算解决问题,http://video.2156.cn/video/84414f1b-530d-42c3-a1f8-21bef06a6f9f.m3u8?Expires=1580690784&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=u464vm53WOnUt%2FfrpQ4UgPH1f8k%3D
+课时37:准确数和近似数,http://video.2156.cn/video/6714337c-5211-4d04-adff-c6f7c2960b65.m3u8?Expires=1580690802&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=rM%2BqqPsgh8Pq1WyxxLf9AkMGdx8%3D
+课时38:认识克与千克,http://video.2156.cn/video/30c42f64-4334-49f6-a802-d72eafb7415f.m3u8?Expires=1580690823&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=%2BLJWRUZDzOv%2FXSE8YReXTU2P%2FMQ%3D
+课时39:解决问题,http://video.2156.cn/video/46eb716f-5566-4f6e-8299-12fd338740d4.m3u8?Expires=1580690841&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=jrA4LUrGRVtzC2n9UISEyayaz7Q%3D
+课时40:推理,http://video.2156.cn/video/fe37b863-cb50-41dd-bff6-4ae6df9756cc.m3u8?Expires=1580690863&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=A9MFwNFwHzzR8ebRTazZKzmGdr0%3D
+课时41:推理数独,http://video.2156.cn/video/b170362f-4fb3-4af5-8bd3-a6d6847964d8.m3u8?Expires=1580690882&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=YhAsp85HC3n%2BBNO8zmg7BxJLQSE%3D
 乡村爱情12,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 第1集,https://v.canzhisong.cn/api/data/youku/37e326cfd03f9cbb562092d8c2cbe384.m3u8
 第1集,https://ll1.zhengzhuji.com/hls/20200115/b7762e826015726b85d63ba313afc6fa/1579086732/index.m3u8
 第2集,https://v.canzhisong.cn/api/data/youku/1cd25f6c2e57bec8849ff5da6edc6d8c.m3u8
@@ -512,7 +584,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第26集,https://iqiyi.cdn9-okzy.com/20200131/5669_7d16e7f2/1000k/hls/index.m3u8
 
 精英律师,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 第1集,https://video.sigujx.com/m3u8/Ha23228d6f9e84d9f932543df55d672baV.m3u8
 第2集,https://video.sigujx.com/m3u8/H7ac001a5194e4b7ea2765b24343e79982.m3u8
 第3集,https://video.sigujx.com/m3u8/H847191af538a409094b4094c62f81879Z.m3u8
@@ -557,7 +629,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第42集,https://video.sigujx.com/m3u8/H0b9105316369434fb821d955de819101z.m3u8
 第4集,https://apd-videohy.apdcdn.tc.qq.com/vipzj.video.tc.qq.com/e00331y6f16.mp4?
 爱情公寓,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 第1集,http://photovideo.photo.qq.com/1075_0b53ena4qcyaniapbprfnnpdgiyezcdabtca.f0.mp4?dis_k=6d738188cd9691e610a28d5384775bd8&dis_t=1580135208&vuin=898922730
 第2集,http://photovideo.photo.qq.com/1075_0b53r5azacya2qanh5jfkjpdhdyesavabfca.f20.mp4?dis_k=77ee707b8991b39fc17465cb687f504b&dis_t=1580135509&vuin=898922730
 第3集,https://qq-qiyi-youku.gms-lighting.com/m3u8/1782.m3u8
@@ -633,7 +705,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第21集,https://cdn-yong.bejingyongjiu.com/20200127/2018_37e41502/1000k/hls/index.m3u8
 第22集,https://cdn-yong.bejingyongjiu.com/20200127/2017_0fbadf9d/1000k/hls/index.m3u8
 庆余年全,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 第1集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/1.mp4
 第2集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/2.mp4
 第3集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/3.mp4
@@ -682,7 +754,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第46集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/46.mp4
 sdtfrom=v1010&guid=f9a7c0c3418d11ea981ca042d48ad00a&vkey=EE949CF1546F3B4A729DF0174BF7C8F137A2A7CD40EAB101F9C9295C83EF9A6BFCF76E7F8ED07FEDB691512216B544F94E2DDA949C45BBB7EA7C9CECE1FD9B219D2F2CF0F13CE162283F000FA1E445353B8FE7B7B5867A6580EE372F94EB65887C5154ABD4AB42591A30F54314B06C62449524F9118FFEE46E0F5E12C50C1A59&platform=2&ocid=2309101833
 在线影院,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3913149564.mobgslb.tbcache.com/6572B8DCE013971772E802B3D/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4?ccode=0501&duration=27&expire=18000&psid=16eba8c691511093f95c655e084dbe36&ups_client_netip=90ff69a2&ups_ts=1580650972&ups_userid=118146040&utid=NDySFuBO1EgCAXoGuFepN37k&vid=XNDUzMDM5MjA5Mg&vkey=A7a04628a92b091c85811aa8e73a7509b&bc=2&dre=u21&si=42&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=24d4abdf628ce0ae4ed5e50129a419c8c40b0c1e7e33a98a&ali_redirect_ex_tmining_ts=1580650986&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
 2020春节联欢晚会,https://hong.tianzhen-zuida.com/20200125/19220_004908f7/1000k/hls/index.m3u8
 肥龙过江,https://mu.qqxy100.com/ts/2/65525618531368960/index.m3u8#https://youku.cdn10-肥龙过江,okzy.com/20200201/12513_ed547acc/1000k/hls/index.m3u8
 囧妈,https://dhd.4kdy.org/DY/DL/jiongma/index.m3u8#https://youku.cdn7-okzy.com/20200125/16833_8bf58ec3/index.m3u8#https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/囧妈.mp4
