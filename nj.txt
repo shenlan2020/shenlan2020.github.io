@@ -9,7 +9,7 @@
 武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 央视频道,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 CCTV-1综合HD,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 CCTV-2财经,http://39.135.34.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
 CCTV-3综艺,http://39.135.34.151:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=1106497909461779572&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRrAyJU4rR1Dadw9ISEYm5oBbA9lSzNfT0W7kMLAWHUBTbBAjpiIN0Pdi%2fTRm3zPoh
@@ -29,7 +29,7 @@ CCTV-5+体育,http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8
 CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/duor.flv
 卫星频道,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 湖南卫视高清,http://39.135.34.150:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
 北京卫视高清,http://39.135.34.143:18890/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000017156&owchid=ystenlive&owsid=1106497909461249865&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRV7KOtBVuvtVZFLcgrBAOKYd9hOl8T7nV%2fYYLzxPrqZvxI1UedirhXiKrowSY0GL9
 浙江卫视高清,http://39.135.34.146:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
@@ -63,7 +63,7 @@ CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/
 广东体育,vjms://121.14.222.75:8500:3502/live/cid=336#vjms://23.237.33.155:8500:3502/live/cid=336#http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
 
 港台新闻,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
 TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
@@ -129,6 +129,7 @@ FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97
 FOXNews,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
 
 港台影视,#genre#
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436
 HBO原创电影,vjms://23.237.33.155:8500:3502/live/cid=436
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
@@ -184,7 +185,7 @@ CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 
 
 综合娱乐,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
@@ -258,6 +259,7 @@ ELTA体育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 港台育乐,#genre#
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts
 国家地理野生,vjms://58.215.133.185:8500:3502/live/cid=263
 国家地理野生,vjms://23.237.33.155:8500:3502/live/cid=263
@@ -336,6 +338,7 @@ DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966
 骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 
 亲子卡通,#genre#
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 黑莓动画,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/index.m3u8
 迪斯尼,P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
 迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361
@@ -361,11 +364,13 @@ Nick Jr,mitv://198.255.74.87:9906/5dc08f020002568501b791e8084cb957.ts
 MY KIDS,mitv://198.255.74.87:9906/5dc08f0200017dde01b791b183d54845.ts
 小太阳,mitv://198.255.74.87:9906/5dc4e322000e827212a03206729ccc38.ts
 精彩4K,#genre#
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 NewTV,#genre#
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 NewTV超级电视剧,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/index.m3u8
 NewTV超级综艺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 NewTV搏击,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
@@ -388,7 +393,7 @@ Newtv动作电影,http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
 Newtv动画王国,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
 newTV潮妈辣婆,http://117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8
 CIBN轮播,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 CIBN综合,http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384
 CIBN好莱坞,http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
 CIBN院线大片,http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
@@ -416,6 +421,7 @@ CIBN健康,http://cibn.peoplevideo.cn/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8?wsSecret
 CIBN风尚运动,http://cibn.peoplevideo.cn/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?wsSecret=5f38811d672214110f110816440adbdb
 CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSecret=b58297c2170067d9164da6f2f86d3059
 山东电信,#genre#
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 齐鲁频道高清,http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
 山东公共高清,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000053/index.m3u8
 临沂综合,http://live.ilinyi.net/channels/tvie/linyizonghe/flv:HD/live?1580372427144
@@ -452,7 +458,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 沂水一套,http://60.213.23.98:8081/live/ys1.m3u8
 沂水二套,http://60.213.23.98:8081/live/ys1.m3u8
 乡村爱情12,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 第1集,https://v.canzhisong.cn/api/data/youku/37e326cfd03f9cbb562092d8c2cbe384.m3u8
 第1集,https://ll1.zhengzhuji.com/hls/20200115/b7762e826015726b85d63ba313afc6fa/1579086732/index.m3u8
 第2集,https://v.canzhisong.cn/api/data/youku/1cd25f6c2e57bec8849ff5da6edc6d8c.m3u8
@@ -481,7 +487,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第25集,https://iqiyi.cdn9-okzy.com/20200131/5670_df0f1ee8/1000k/hls/index.m3u8
 第26集,https://iqiyi.cdn9-okzy.com/20200131/5669_7d16e7f2/1000k/hls/index.m3u8
 精英律师,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 第1集,https://video.sigujx.com/m3u8/Ha23228d6f9e84d9f932543df55d672baV.m3u8
 第2集,https://video.sigujx.com/m3u8/H7ac001a5194e4b7ea2765b24343e79982.m3u8
 第3集,https://video.sigujx.com/m3u8/H847191af538a409094b4094c62f81879Z.m3u8
@@ -526,7 +532,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第42集,https://video.sigujx.com/m3u8/H0b9105316369434fb821d955de819101z.m3u8
 第4集,https://apd-videohy.apdcdn.tc.qq.com/vipzj.video.tc.qq.com/e00331y6f16.mp4?
 爱情公寓,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 第1集,http://photovideo.photo.qq.com/1075_0b53ena4qcyaniapbprfnnpdgiyezcdabtca.f0.mp4?dis_k=6d738188cd9691e610a28d5384775bd8&dis_t=1580135208&vuin=898922730
 第2集,http://photovideo.photo.qq.com/1075_0b53r5azacya2qanh5jfkjpdhdyesavabfca.f20.mp4?dis_k=77ee707b8991b39fc17465cb687f504b&dis_t=1580135509&vuin=898922730
 第3集,https://qq-qiyi-youku.gms-lighting.com/m3u8/1782.m3u8
@@ -602,7 +608,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第21集,https://cdn-yong.bejingyongjiu.com/20200127/2018_37e41502/1000k/hls/index.m3u8
 第22集,https://cdn-yong.bejingyongjiu.com/20200127/2017_0fbadf9d/1000k/hls/index.m3u8
 庆余年全,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/dr2020.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 第1集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/1.mp4
 第2集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/2.mp4
 第3集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/3.mp4
@@ -651,6 +657,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第46集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/46.mp4
 sdtfrom=v1010&guid=f9a7c0c3418d11ea981ca042d48ad00a&vkey=EE949CF1546F3B4A729DF0174BF7C8F137A2A7CD40EAB101F9C9295C83EF9A6BFCF76E7F8ED07FEDB691512216B544F94E2DDA949C45BBB7EA7C9CECE1FD9B219D2F2CF0F13CE162283F000FA1E445353B8FE7B7B5867A6580EE372F94EB65887C5154ABD4AB42591A30F54314B06C62449524F9118FFEE46E0F5E12C50C1A59&platform=2&ocid=2309101833
 在线影院,#genre#
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 2020春节联欢晚会,https://hong.tianzhen-zuida.com/20200125/19220_004908f7/1000k/hls/index.m3u8
 肥龙过江,https://mu.qqxy100.com/ts/2/65525618531368960/index.m3u8#https://youku.cdn10-肥龙过江,okzy.com/20200201/12513_ed547acc/1000k/hls/index.m3u8
 囧妈,https://dhd.4kdy.org/DY/DL/jiongma/index.m3u8#https://youku.cdn7-okzy.com/20200125/16833_8bf58ec3/index.m3u8#https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/囧妈.mp4
