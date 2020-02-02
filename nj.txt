@@ -9,7 +9,7 @@
 武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 央视频道,#genre#
-直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
+直播介绍,https://ip3901786774.mobgslb.tbcache.com/697571B07193C718B47963FB2/03000801005E36BA4E24E13070AC3F5AC8EABA-D3CF-4165-AE36-71D1CBA5B146.mp4.ts?sid=0580646915485201179a2_00_Aba5d82d74eccf24469948344aecb5e47&sign=cef3a034af1278ae305fa7aa24659618&ctype=20&bc=2&si=2&ts_start=17.9&ts_end=26.94&ts_seg_no=3&ts_keyframe=1&ali_redirect_domain=vali.cp31.ott.cibntv.net&ali_redirect_ex_ftag=e8b30776902c83fd6a6032940e1ab8241db982ad0f8d66fc&ali_redirect_ex_tmining_ts=1580647247&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=111
 CCTV-1综合HD,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 CCTV-2财经,http://39.135.34.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
 CCTV-3综艺,http://39.135.34.151:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=1106497909461779572&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRrAyJU4rR1Dadw9ISEYm5oBbA9lSzNfT0W7kMLAWHUBTbBAjpiIN0Pdi%2fTRm3zPoh
@@ -458,6 +458,17 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 沂南旅游,http://jsylivealone302.iqilu.com/live/yinan_tv02/index.m3u8
 沂水一套,http://60.213.23.98:8081/live/ys1.m3u8
 沂水二套,http://60.213.23.98:8081/live/ys1.m3u8
+在线课堂,#genre#
+诗词中的春,http://video.2156.cn/video/e78e8d23-6134-4087-9790-7839e7a5cc95.m3u8?Expires=1580681980&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=bitI7rFstUALYKpsuu1ZuSmbmfc%3D
+咏柳,http://video.2156.cn/video/61d33eef-4618-4e86-b6c4-a3eaca118295.m3u8?Expires=1580681840&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=GtAM1YiZww%2BSv5dMaJjqwdFUTVE%3D
+古诗词中柳的意象,http://video.2156.cn/video/ea4046c4-e34d-4170-b4f4-4ab6b70bdd56.m3u8?Expires=1580682082&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=eFZ6QA%2F84zoj8RwWKLYRlQ2laJU%3D
+风筝的由来和历史,http://video.2156.cn/video/7bd6df46-3acb-4792-9db3-9df5773046d3.m3u8?Expires=1580682239&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=FGKVedfipB1Da5XdVAH4Yrwm9M8%3D
+发现句式特点,http://video.2156.cn/video/10d0a143-d0c2-4fee-9b3e-837d2d939c4a.m3u8?Expires=1580682297&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=b7gtxB2nkuSukMVsEm9qSsftFmE%3D
+读出春的美好与快乐,http://video.2156.cn/video/a9d00fc6-dc8d-4126-bc9c-30c959d82198.m3u8?Expires=1580682356&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=xBTCG%2BDICvorzrdt01Yg0LmBJtk%3D
+走进童话故事,http://video.2156.cn/video/edf991ed-7c61-48de-85df-ebef49a2ef00.m3u8?Expires=1580682433&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=bws5Dp16QNNYA%2F4ZuA2zlw%2Fypzs%3D
+邓小平爷爷植树,http://video.2156.cn/video/98595236-a4a7-4166-9782-17305688ef58.m3u8?Expires=1580682477&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=y4QUwOBo%2BbotggFvUF26ByOXDR8%3D
+口语交际:注意说话的语气,http://video.2156.cn/video/e4acdf9f-12e0-4c87-b242-631817f11738.m3u8?Expires=1580682553&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=l1V5DUXe54kHuLi%2BnfT069yQlIc%3D
+:走进《赋得古原草送别》,http://video.2156.cn/video/d515c62a-714a-4c2b-ac53-16c13289f307.m3u8?Expires=1580682676&OSSAccessKeyId=LTAIaYqduBsYS99q&Signature=kZIYtTwCaOBxjYecAnCH8jzeIU0%3D
 乡村爱情12,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 第1集,https://v.canzhisong.cn/api/data/youku/37e326cfd03f9cbb562092d8c2cbe384.m3u8
@@ -487,6 +498,7 @@ CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSec
 第24集,https://cdn-yong.bejingyongjiu.com/20200130/2222_32227a60/1000k/hls/index.m3u8
 第25集,https://iqiyi.cdn9-okzy.com/20200131/5670_df0f1ee8/1000k/hls/index.m3u8
 第26集,https://iqiyi.cdn9-okzy.com/20200131/5669_7d16e7f2/1000k/hls/index.m3u8
+
 精英律师,#genre#
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/00.mp4
 第1集,https://video.sigujx.com/m3u8/Ha23228d6f9e84d9f932543df55d672baV.m3u8
