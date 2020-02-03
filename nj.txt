@@ -1,4 +1,5 @@
 直播武汉,#genre#
+测试,https://v.youku.com/v_show/id_XNDUzMDM5MjA5Mg==.html
 医院施工现场视角1,http://mobilelive-play.ysp.cctv.cn/2001891501_fhd.m3u8
 医院施工现场视角2,http://mobilelive-play.ysp.cctv.cn/2001894001_fhd.m3u8
 医院施工现场视角3,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
