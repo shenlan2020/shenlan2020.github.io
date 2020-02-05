@@ -725,7 +725,41 @@ sdtfrom=v1010&guid=f9a7c0c3418d11ea981ca042d48ad00a&vkey=EE949CF1546F3B4A729DF01
 灭狼行动,https://youku.cdn7-okzy.com/20200105/16544_902142e0/1000k/hls/index.m3u8
 十字追杀令3,https://youku.cdn7-okzy.com/20191112/15762_50b83450/1000k/hls/index.m3u8
 防弹2,https://youku.cdn7-okzy.com/20200113/16654_6eef439a/1000k/hls/index.m3u8
-扰乱治安,http://youku.cdn10-okzy.com/20200118/12282_822844ff/1000k/hls/index.m3u8
+扰乱治安,http://youku.cdn10-okzy.com/20200118/12282_822844ff/1000k/hls/index.m3u8周星星经典】影片不间断,http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+【爱情公寓】全程高能无尿点,http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8
+【僵尸】林正英搞笑僵尸系列,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+虎牙观影团 复联4 剧透者biss,http://tx.hls.huya.com/huyalive/30765679-2743063560-11781368281049333760-3048991606-10057-A-0-1.m3u8
+《猎场》胡歌教你怎么玩办公室恋情,http://tx.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1.m3u8
+【哥斯拉】打怪兽 哥斯拉的进化史,http://aldirect.hls.huya.com/huyalive/30765679-2689675904-11552070044519235584-3049003156-10057-A-0-1.m3u8
+【新三国】滚滚长江东逝水,http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1.m3u8
+吊丝男士·史上最全大保剑系列,http://aldirect.hls.huya.com/huyalive/29106097-2689285720-11550394216999813120-2789274540-10057-A-0-1.m3u8
+胜天半子祁同伟·反贪风暴维护正义,http://aldirect.hls.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1.m3u8
+黑帮大片】山鸡哥重现江湖,http://al.hls.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+【动作】成龙武打动作经典,http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+【剧集】铁齿铜牙纪晓岚,http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8
+【漫威不死】复仇者联盟,http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
+【搞笑】不挤电影院也能笑着过日子,http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+【牛叔说电影】已更新 凤仙四大天王携僧兵来战,http://al.hls.huya.com/huyalive/94525224-2667571840-11457133812530544640-3527487402-10057-A-0-1.m3u8
+【漫威】超级英雄 银河护卫队 复仇者联盟 x战警,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+【亮剑】二营长我的意大利炮,http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8
+【阿斗】4月25日又更新解说啦！,http://al.hls.huya.com/huyalive/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8
+李连杰功夫大片专场,http://aldirect.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+【新水浒传】在下正是潘金莲,http://aldirect.hls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1.m3u8
+【五福星系列】 经典港式喜剧电影,http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
+速度与激情 激情漂移,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+【女神系列二】邱淑贞张敏王祖贤,http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.m3u8
+【海绵宝宝】黄色小方块大暴走,http://aldirect.hls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.m3u8
+【吴京】京哥看了都说赞,http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+【少年包青天】暴雨梨花针 中国名侦探,http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1.m3u8
+【封神榜】哪吒削肉还母直播,http://aldirect.hls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8
+异形怪物 这货可比哥斯拉丑多了,http://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
+【刘德华】拆弹专家 帝国华梦,http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+【Running Man】前方高能！,http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
+继承者们-欲戴王冠，必承其重,http://tx.hls.huya.com/huyalive/94525224-2469517548-10606497105558110208-2847699176-10057-A-0-1.m3u8
+各国赌片 搏一搏单车变摩托,http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+康熙微服私访记,http://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1.m3u8
+变形金刚 大黄蜂霸气重组,http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
+倚天屠龙记·六大门派围攻光明顶,http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1.m3u8
 测试频道,#genre#
 民視,https://live-zb.nanhailong.com/live/df41e06d9a5d49bba2adf5fba9a572c3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 台視,https://live-zb.nanhailong.com/live/be67a48a58df4b18b48ea77dcabd2a6d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
