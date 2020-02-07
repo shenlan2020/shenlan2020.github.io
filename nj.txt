@@ -1073,142 +1073,74 @@ Big笑工坊 我们是创造快乐的一群人,http://al.hls.huya.com/backsrc/94
 科技曼曼谈带你一起玩科技！,http://al.hls.huya.com/backsrc/1444292961-1444292961-6203191033338003456-4563478270-10057-A-0-1.m3u8
 女子力科学社,http://al.hls.huya.com/backsrc/1199512169407-1199512169407-5223942192111812608-2399024462270-10057-A-0-1.m3u8
 
-测试频道,#genre#
-民視,https://live-zb.nanhailong.com/live/df41e06d9a5d49bba2adf5fba9a572c3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-台視,https://live-zb.nanhailong.com/live/be67a48a58df4b18b48ea77dcabd2a6d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-中視,https://live-zb.nanhailong.com/live/3569d2ac78854fe591203933640cba7e/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-華視,https://live-zb.nanhailong.com/live/780904c9889c432e9c6d5516bbf147f1/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-公視,https://live-zb.nanhailong.com/live/37b6594cfdc04b9abc7a15b9c4c86acc/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-東森新聞台,https://live-zb.nanhailong.com/live/cdf2981203d3441094f9df1882d0f86f/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-東森綜合台,https://live-zb.nanhailong.com/live/5810e7afa3ff4d3ab03f4c515cbf4938/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-東森幼幼台,https://live-zb.nanhailong.com/live/cbee13538b934439be243f73c6932fff/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-東森財經台,https://live-zb.nanhailong.com/live/0897f4ff365246ae82df495994ea17ee/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-東森戲劇台,https://live-zb.nanhailong.com/live/b7a798d1ffca40aeaf54c77c167c0106/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-東森電影台,https://live-zb.nanhailong.com/live/a1e4d971cd3b4fd18bc4797ca8a8ff6d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-東森洋片台,https://live-zb.nanhailong.com/live/504a3141d19846ffb7a05c7108bdd9ca/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-東森亞洲台,https://live-zb.nanhailong.com/live/0f30c6e2825d41cf92874a3e6f72ae4c/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-八大第一台,https://live-zb.nanhailong.com/live/890736e2904e424b90e65c5bdcc70d9f/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-八大綜合台,https://live-zb.nanhailong.com/live/9f9324f183d646b3ab9889b2fdf03317/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-八大戲劇台,https://live-zb.nanhailong.com/live/ca63d06238cb4e29a711a463d1395efc/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-八大娛樂台,https://live-zb.nanhailong.com/live/09ade1072a8a4748a36291534a7b6702/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-三立台灣台,https://live-zb.nanhailong.com/live/1a71e5d28dc547fd92400395569046c2/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-三立都會台,https://live-zb.nanhailong.com/live/7e86a548a60a450aaaa6712767ab2cbc/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-三立綜合台,https://live-zb.nanhailong.com/live/8b007efabfde4fba844487ec2eb06361/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-三立新闻,https://live-zb.nanhailong.com/live/cdc765c5a46f46f38ae280534788d39d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-中天娛樂台,https://live-zb.nanhailong.com/live/8ae9ef4d69b24c4f8cea6b279874f747/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-中天綜合台,https://live-zb.nanhailong.com/live/85493b6fbd5e44a8a3498545ec4498a3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-中天新聞台,https://live-zb.nanhailong.com/live/430a96d82dac4b589b33db007dd9b84b/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-TVBS,https://live-zb.nanhailong.com/live/0023b82773e449f38b809ccdfaa01c8c/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-TVBS新聞台,https://live-zb.nanhailong.com/live/593f0a064cee40d0b6444d01b0a414d3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-TVBS歡樂台,https://live-zb.nanhailong.com/live/abc2bc9c6bbe4d2d8151f1afcaae287d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-民視新聞台,https://live-zb.nanhailong.com/live/ab53b1d3046f49a19196e52452457687/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-非凡新聞台,https://live-zb.nanhailong.com/live/017f47c9a32f46ecaa4ab3184501e3e6/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-非凡商業台,https://live-zb.nanhailong.com/live/78325467a0ca4f0dbf44a8cac9d2e2b7/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-年代新聞台,https://live-zb.nanhailong.com/live/e04289016c18464fab75d925b4ac7491/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-壹新聞台,https://live-zb.nanhailong.com/live/0fc873f0864849f7ab053d8565664c57/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-寰宇新聞台,https://live-zb.nanhailong.com/live/5785dee56de344369886f4f5f077f8d9/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-靖天戲劇台,https://live-zb.nanhailong.com/live/bdbc183362ca466db2620cffe748a1f9/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-靖天日本台,https://live-zb.nanhailong.com/live/c73bd03e310146858654bcd8fb675a67/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-靖天卡通台,https://live-zb.nanhailong.com/live/09238174924145ab995bfa0fe28553a5/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-靖天電影台,https://live-zb.nanhailong.com/live/01fd5a02164746e7b361e10e5f12906f/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-靖洋戏剧台,https://live-zb.nanhailong.com/live/a42e9e2af78a405f8f7b28357c9a71c0/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-衛視電影台,https://live-zb.nanhailong.com/live/33d934f009ee4216b1300db92218e6fe/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-衛視洋片台,https://live-zb.nanhailong.com/live/e6e46d205cd94b0294037af4a575efa6/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-緯來體育台,https://live-zb.nanhailong.com/live/1d77afca7aa74e949ab9af801fe53800/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-緯來電影台,https://live-zb.nanhailong.com/live/bd9dfc3c2e2c43caba875760c889cdf1/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-緯來日本台,https://live-zb.nanhailong.com/live/75b80c2f421343948539bc57710568b1/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-龍祥時代台,https://live-zb.nanhailong.com/live/807a11b8905e484391a479e426ba59e3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-龍華戲劇台,https://live-zb.nanhailong.com/live/97e37bf593894f999a52dd5022bef819/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-龍華洋片台,https://live-zb.nanhailong.com/live/b0fde73c443f4ed6a8091ff5bae51d25/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-龍華動畫台,https://live-zb.nanhailong.com/live/2c900873d4f541eba4285f121fcac0c0/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-中視經典台,https://live-zb.nanhailong.com/live/bcf9b938d30346b5a1ef6c202a5885d4/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-亞洲旅遊台,https://live-zb.nanhailong.com/live/7ff6746923cf484696f269c9c3916a1b/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-高點綜合台,https://live-zb.nanhailong.com/live/b7326e7650474c0fabbaa9e387d53937/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-美食星球台,https://live-zb.nanhailong.com/live/3f4dba98b5d54799bb3f488f64ed9207/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-迪士尼卡通,https://live-zb.nanhailong.com/live/dad7d46bc58b4eaabd943b67f6163a59/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-MTV音樂台,https://live-zb.nanhailong.com/live/7832ca52b13043909488519758c5975a/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-MTV Live,https://live-zb.nanhailong.com/live/6ea3d22a88ad4ab289fa7e3a61d135bc/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-boom卡通台,https://live-zb.nanhailong.com/live/c8c7514bd94a4275aa6417842deaed6c/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-星空衛視台,https://live-zb.nanhailong.com/live/21f6456ab8414839a7fd1b23a9b25c22/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-美亞電影台,https://live-zb.nanhailong.com/live/f2a6005fdc064991a1f75965f6df8c9b/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-星衛娛樂台,https://live-zb.nanhailong.com/live/5b0f1db5362545b0b4254bbce9db87f0/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-FOX運動1台,https://live-zb.nanhailong.com/live/9618b9f756cc4215b370088bad8a6d1c/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-FOX運動2台,https://live-zb.nanhailong.com/live/aa79da4a1eec413d8e274e741b4c81bc/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-愛爾達體育1台,https://live-zb.nanhailong.com/live/d88fd96f99284d239e6fba3f6443c95a/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-愛爾達體育2台,https://live-zb.nanhailong.com/live/c257390aa133411f84142b24e12a9ca4/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-愛爾達體育3台,https://live-zb.nanhailong.com/live/758d9bf67e6d46b89fbaf0eea736dec0/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-HBO強檔台,https://live-zb.nanhailong.com/live/0ee3baa1939346dd92d74f75726e9f63/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-好萊塢電影台,https://live-zb.nanhailong.com/live/3ef35ede9edb471a965bfccafba5853b/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-KIDS,https://live-zb.nanhailong.com/live/3f9993e8bf214659bde19fbf47f054d9/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-SMART知識台,https://live-zb.nanhailong.com/live/8a6b439eeeff451197e9f0fc70e7d3b9/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-FOX娛樂台,https://live-zb.nanhailong.com/live/86024791ec404edeb479ca086d2b3b1d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-FOX警匪台,https://live-zb.nanhailong.com/live/049b6081fd924ef99332ae1e99f71e7f/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-FOX動作電影談,https://live-zb.nanhailong.com/live/4bf22666bf18495287e1f538a4456d5b/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-FOX優質電影台,https://live-zb.nanhailong.com/live/4c9ad1b4765f461481e0e4a4c35c71ac/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-CI犯罪偵緝,https://live-zb.nanhailong.com/live/69f117bf041e4f1cbf264ee4959feba4/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-AXN,https://live-zb.nanhailong.com/live/c50f1018c29a477cb4f7c30fa3b41656/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-CinemaWorld,https://live-zb.nanhailong.com/live/8a5b5d2be79b465abb51a09027cac323/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-CATCHPLAY電影台,https://live-zb.nanhailong.com/live/54feb57d4a6b4d9c88e5f8bd1b09f0fc/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-华纳电影,https://live-zb.nanhailong.com/live/d5324c986d7b44aca947846efca7abcd/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-CHC高清电影,https://live-zb.nanhailong.com/live/46890bf87c634cea8af2affaca93ac2d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-CHC动作电影,https://live-zb.nanhailong.com/live/c677258803d14a569a14c6e27f47b927/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-有線新聞台,https://live-zb.nanhailong.com/live/19b97e57452d4cc0bb5bf60d67c76c92/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-無線新聞台,https://live-zb.nanhailong.com/live/e650d9320194456f9d3a73dae82df5eb/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-在线MV,#genre#
-
-
-sheep 张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F1d12ad4ec35446ed93981927577c34a900dd755d2da3a1a0fd41c06ab23f4863
-屋顶着火 宋茜,https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
-你的酒馆对我打了烊 陈雪凝,https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
-醉千年 李袁杰,http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4?pd=19&vt=1
-不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
-左手指月,https://vdse.bdstatic.com//b35227847ccb42d48ea6414d47087ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A26%3A59Z%2F-1%2Fhost%2F9ce646d3e871069b3f23e45fc92e318ac9f5b3983d1ed3d996cc228026cba11e
-天地无霜,https://vdse.bdstatic.com//bd1f7fcb1263b608c60793c5c7094ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A25%3A13Z%2F-1%2Fhost%2F23ba28074d215adf2c6d0fb5cf09092bab7d4515197cbe40e43c536aa8ea3171
-思慕 郁可唯,https://vdse.bdstatic.com/5ec8d619d2ecb4ff832cfa252a967bb8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F8286183946f68461b8a723c098b274f2fcf856faf7f1f1c6bc9e5159dca71291
-凉凉 张碧晨杨宗纬,https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A48%3A39Z%2F-1%2Fhost%2F48ecdbdd75091e496f4412f52dce3ee2999cd6b370518825555d86e248da64cd
-就算没有如果 张杰,https://vdse.bdstatic.com//b362a1c2ecbc60b18d3dc06cdc97f142.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A58%3A51Z%2F-1%2Fhost%2Ff5f960beaff319951e978ff3850b31434a5d64f13c03c9724e988c251426270d
-浮诛 张杰,https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F592cfc9d5b5bc41242144504ccf1f9f9df9d15b863f6f33c610e552faf629cd9
-望 赵丽颖 张碧晨,https://vdse.bdstatic.com/25f5ae931f851bf09c48abaebe5d6f8d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fbeb15438a125af0e53bc38c98b3f304da2e2c0f1f61103ce81a9df486dc138a3
-恋人心,https://vdse.bdstatic.com//e179fea2ba171a7268188a055702229d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A18%3A42Z%2F-1%2Fhost%2F84badc350a20f1dfe035e91408acfe7e4b1e69fe262f4faaa5ca3af837e1592b
-杀阡陌,https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd93a993d573ee3bcc23a02ca043066cf5106c87ccfff05e150791a903b70eb6b
-一念一年,https://vdse.bdstatic.com/ea4ad861c3816ba29b415da2494706a1.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fe5580be73eed99ae2d6da05453b3d79cdba5a663c049f6367ae6ae4bc4fbb1e6
-余年,https://vdse.bdstatic.com/660c78b56b33dca31497de9c6921c5a6.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fb2cec293153ef7795846f08b08f8ae00825357cd0ce4d2c2977afeb31bb70540
-只问你肯不肯,https://vdse.bdstatic.com/d4463cd83c0c47fba7ce65c71ad94bbb.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F09b9a33c3ded7584f68a3b875a10ba6a021d74f32e4144c2c0327f05c57abfdc
-如梦令,https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F105e954b546582862111230676e2cdc84b0144bf00447793daa377381b7ddb0f
-知否 知否,http://vd3.bdstatic.com/mda-imnj0y8p1qrw232x/hd/mda-imnj0y8p1qrw232x.mp4?pd=19&vt=1
-纸短情长,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost%2F591e9e423bf5d139c7eac161a481a18a0ccd851124162fcb1cc55e9b2aea36c6
-孤芳自赏,https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost%2F861309b4a756c61dd0bad3718d9b8a27123c24838b9b4c8ec82bda2d04869c69
-风筝误,https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F41d81188bd164f23d0ae35e5a721b43c799caa783fde1de169616ab76271e197
-往后余生,https://vd3.bdstatic.com/mda-jatub6sb1pzwxfnb/hd/mda-jatub6sb1pzwxfnb.mp4?pd=19&vt=1
-讲真的,https://vdse.bdstatic.com//9145a29aecbbf594c5b21ab1e6b14d20.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A46%3A15Z%2F-1%2Fhost%2Febfb2a020e4c84f1059f10839d2bda8f3e42dc62cd90d916b65f3ed55594d0aa
-体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost%2F1a9107b1210343ed30aa27779a042aab3d016777226b471ee5f38c8fc1e23cf1
-38度6,https://vd3.bdstatic.com/mda-jmeeqqmp5fc82mts/hd/mda-jmeeqqmp5fc82mts.mp4?pd=19&vt=1
-让我留在你身边,https://vd3.bdstatic.com/mda-ka937fuwjq5nc1hd/hd/mda-ka937fuwjq5nc1hd.mp4?pd=19&vt=1
-我曾,https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
-追光者,https://vd3.bdstatic.com/mda-jm9pesj1uis5fssj/hd/mda-jm9pesj1uis5fssj.mp4?pd=20&vt=1
-我愿意平凡的陪在你身旁,https://vdse.bdstatic.com/570e05ef514db00b14c9c10d1aef7f1f.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd5332371b8e0882511e0b75041fcd24f0899fa4237f56edacb89b6734f95ca97
-大田后生仔,https://vdse.bdstatic.com/1f5b8de1e52e8ebe8d5493d29bf29981.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F40284dba7f6298e947920fa281898998a95118f96c5b0689661ad64dc9bfbf06
-忘不了也要忘,https://vdept.bdstatic.com/673656786a4d79543568555171457679/744c6c64636c7348/151dc88ddf2633224c08aafbb68a7cb6e1960a613b438cb034177fdd4688762229d5eb02c9d0790e14c63181d8397dbd.mp4?auth_key=1580757821-0-0-acad7e771004db4f1431049d97806a23
-心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-jmqy5wv8ffvj2z5j.mp4?pd=19&vt=1
-绿色,https://vd3.bdstatic.com/mda-jm07uzeu8ssth6c7/hd/mda-jm07uzeu8ssth6c7.mp4?pd=19&vt=1
-半壶纱,https://vd3.bdstatic.com/mda-kag404z097ciayha/hd/mda-kag404z097ciayha.mp4?pd=19&vt=1
-芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
-下山,https://vdse.bdstatic.com/e2d35750d461a6d524080c7a3c4cb7a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F4fbaf22be415d855635ea3633a0f2fa9460bfb7cb3a13f2295a12b85245e0598
-盗将行,https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost%2F79c755e10a28040d25c417fac00f7f489b53a6d21959e047363889876ded1bce
-一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A00%3A56Z%2F-1%2Fhost%2Fc4e678fdb911f8524405fcf1563002f4f9c892a22e3f2033b917a39f2d01ea20
-芙蓉雨,https://vdse.bdstatic.com//85593e1127a1389dc49e9b0491814df2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A58%3A05Z%2F-1%2Fhost%2Fff58fddc077c03b3076760fe6728156bf526b7060c8e061d817388b869ac2320
-你的答案,https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F092913f5016d684c2e159452cc811ca27c7e7b8d9172bcd8211c87b7cae449bd
-不仅仅是喜欢,https://vd3.bdstatic.com/mda-jhjswzf4u7tsujf1/hd/mda-jhjswzf4u7tsujf1.mp4?pd=19&vt=1
-你若三冬,https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F572e0736b87ee3444ff2b54eb4ae655228dd4a84d9c6f7c6c588feb0ddbe1269
-站着等你三千年,https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-1%2Fhost%2F35aa2c099605e74a562ca0358f457186636ef317d486aa3ed6f60fc45c2c6c9a
-
-世界美好与你环环相扣,https://vdse.bdstatic.com//90f59f9978da89c2f5f8dec807a238b6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A25%3A00Z%2F-1%2Fhost%2Fdceb89b6b26de04c015a3fec7d0ef013f60090d7117e95a2df3657b2d2698d0f
-红昭愿,https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/11/93/72189311/72189311-1-6.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1580752241&gen=playurl&os=hwbv&oi=3683899806&trid=557add6c77a441dcb427882e6cc9377fh&platform=html5&upsig=3fe766b2311fce11bf53d84a23d617d6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0
-桥边姑娘,https://vdse.bdstatic.com/8ae4235344c61f9c05ccf3716c84e823.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fcce92f8d8c53b543a981ee2a1a20ab1b07c6da20e01f4f5aaf9d82e5be5e6587
-我们不一样,https://vd3.bdstatic.com/mda-kaiskhuinjf4a8m4/hd/mda-kaiskhuinjf4a8m4.mp4?pd=20&vt=1
-如果有一天我变的很有钱,https://vd3.bdstatic.com/mda-jjmfvpaqh1z11ibc/hd/mda-jjmfvpaqh1z11ibc.mp4?pd=19&vt=1
-消愁,https://vd3.bdstatic.com/mda-ifkj2zwdscwthsfj/logo/hd/mda-ifkj2zwdscwthsfj.mp4?pd=20
-牧马城市,https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
-借,https://vd3.bdstatic.com/mda-ii2njckdbkmmcp81/hd/mda-ii2njckdbkmmcp81.mp4?pd=20
-给你给我,https://vdse.bdstatic.com//4d056936c317b35f886ced83147ad7e8.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A42%3A28Z%2F-1%2Fhost%2F13c0f2dda852b6fdbcd7422de8ac3a48437304b4c38728deeedb6558c47a9eb9
-像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
+二年数学,#genre#
+第1单元数据的收集与整理,https://play.dteacher.readboy.com/o_1e07qfhajqu51h0asdr1dfo1sg4d.m3u8
+第2单元第1节认识平均分,https://play.dteacher.readboy.com/o_1e07qkmorm681pgauurstks1l5s.m3u8
+第2单元第2节认识除法,https://play.dteacher.readboy.com/o_1e07rtqt7pvi1vfov86u6p18d34o.m3u8
+第2单元第3节用2-6的乘法口诀求商,https://play.dteacher.readboy.com/o_1e07ruq6ebh7ag1crl1iio116jd.m3u8
+第2单元第4节解决问题,https://play.dteacher.readboy.com/o_1e07sck621csr17it1vcmfodq4man.m3u8
+第3单元第1节轴对称图形,https://play.dteacher.readboy.com/o_1e07sd4kr1pgj1omf1q8b1q6d1lp954.m3u8
+第3单元第2节 平移和旋转,https://play.dteacher.readboy.com/o_1e07soi0ur5q1t3tdc9plnc4og6.m3u8
+第4单元第1节 用7、8、9的乘法口诀求商,https://play.dteacher.readboy.com/o_1e07sqohhcnn4s21r5nj9t1fkvav.m3u8
+第4单元第2节 解决问题,https://play.dteacher.readboy.com/o_1e07t3m9auihuod1dsg1bgh2him5.m3u8
+第5单元第1节 加减或乘除混合运算,https://play.dteacher.readboy.com/o_1e07ta8s2mjt1cm61gac11j71lgjia.m3u8
+第5单元第2节 加减乘除混合运算,https://play.dteacher.readboy.com/o_1e07tbifasl815ifnk11kbc178qps.m3u8
+第5单元第3节 有括号的混合运算,https://play.dteacher.readboy.com/o_1e07tlq9j1bhvn28bhrndi1ud1uj.m3u8
+第5单元第4节 解决问题,https://play.dteacher.readboy.com/o_1e07tmncehkpjv066va141kk3o9.m3u8
+第6单元第1节 认识余数,https://play.dteacher.readboy.com/o_1e07uhcje1rh7uiqdp712eivar17b.m3u8
+第6单元第2节 有余数除法的笔算,https://play.dteacher.readboy.com/o_1e07uk6f31l2q1fdjr5t19lp12f31i6.m3u8
+第6单元第3节 解决问题,https://play.dteacher.readboy.com/o_1e07uu4ss1gt1q0010io9421v5hd.m3u8
+第7单元第1节 1000以内数的认识,https://play.dteacher.readboy.com/o_1e081183obq4bq01fo194o97r9n.m3u8
+第7单元第2节 认识算盘,https://play.dteacher.readboy.com/o_1e08136udpup1vlcgogqq78oo8.m3u8
+第7单元第3节 10000以内数的认识,https://play.dteacher.readboy.com/o_1e08144p639qdu7r5nmulpti8.m3u8
+第7单元第4节 10000以内数的读写,https://play.dteacher.readboy.com/o_1e0814v6o1p59ulac72mltjo18.m3u8
+第7单元第5节 10000以内数的大小比较,https://play.dteacher.readboy.com/o_1e0815vpo1qllglv5691qls19d28.m3u8
+第7单元第6节 近似数,https://play.dteacher.readboy.com/o_1e0816m1u1div1419n2eqaob3l8.m3u8
+第7单元第7节 整百、整千数加减法,https://play.dteacher.readboy.com/o_1e0817l1vt281m8kelg15p03eq8.m3u8
+第7单元第8节 解决问题,https://play.dteacher.readboy.com/o_1e0818cag10f41h35tcb1f5k18978.m3u8
+第8单元第1节 克与千克,https://play.dteacher.readboy.com/o_1e0819a3ittto4v1l321ipcsu48.m3u8
+第8单元第2节 解决问题,https://play.dteacher.readboy.com/o_1e0819uif1cdn1uv47dj1u171ka98.m3u8
+第9单元 推理问题,https://play.dteacher.readboy.com/o_1e081an15btac761sdp1pov186g8.m3u8
+第10单元第1节 总复习(一),https://play.dteacher.readboy.com/o_1e081bdfratn8s019s71f26jb88.m3u8
+第10单元第2节 总复习(二),https://play.dteacher.readboy.com/o_1e081bvmjacd1uc21dnoc3d9bk8.m3u8
+第10单元第3节 总复习(三),https://play.dteacher.readboy.com/o_1e081cf6v1iqb1mo312fae6i2t38.m3u8
+二年语文,#genre#
+第1课 古诗二首(村居),https://play.dteacher.readboy.com/o_1e06v9jhl1a7p174bqnrqav1d5u16r.m3u8
+第1课 古诗二首(咏柳),https://play.dteacher.readboy.com/o_1e07e0dm01d9jp0a1jmf175r8ng8.m3u8.
+第2课 找春天,https://play.dteacher.readboy.com/o_1e07ec7c3r9p6tp17kb1rng1ufvd.m3u8
+第3课 开满鲜花的小路,https://play.dteacher.readboy.com/o_1e07eibb6rrlt8sren16ec9gdd.m3u8
+第4课 邓小平爷爷植树,https://play.dteacher.readboy.com/o_1e07it71d1947n9c1u101qqk7fss.m3u8
+语文园地一,https://play.dteacher.readboy.com/o_1e07j093o1ek2da7ikk1r8611uvd.m3u8
+第5课 雷锋叔叔，你在哪里,https://play.dteacher.readboy.com/o_1e07j53g5iu41jlh13k11mb21le3d.m3u8
+第6课 千人糕,https://play.dteacher.readboy.com/o_1e07j7jod1iba1pri1f8p1ahmeebd.m3u8
+第7课 一匹出色的马,https://play.dteacher.readboy.com/o_1e07jamn31eparu54unicj394d.m3u8
+语文园地二,https://play.dteacher.readboy.com/o_1e07je9981evt1fvp9cvtmu1e2d.m3u8
+识字1 神州谣,https://play.dteacher.readboy.com/o_1e07jl5g71dhb72b2egpd6phd.m3u8
+识字2 传统节日,https://play.dteacher.readboy.com/o_1e07jollu1u7tlrbnia18gfkk6d.m3u8
+识字3 “贝”的故事,https://play.dteacher.readboy.com/o_1e07jqq7j14hkf6a1nlf1ihf1n5fd.m3u8
+识字4 中国美食,https://play.dteacher.readboy.com/o_1e07k114411j6edo1reb48b11ued.m3u8
+语文园地三,https://play.dteacher.readboy.com/o_1e07k4iv01dr61ofc1lf81vb1145d.m3u8
+第8课 彩色的梦,https://play.dteacher.readboy.com/o_1e07k7ajj9g61pa031kc0paltd.m3u8
+第9课 枫树上的喜鹊,https://play.dteacher.readboy.com/o_1e09e722c16vh1t2n8mhqul8v6fr.m3u8
+第10课 沙滩上的童话.https://play.dteacher.readboy.com/o_1e09ea1ugui37a8ql140ptnrd.m3u8
+第11课 我是一只小虫子,https://play.dteacher.readboy.com/o_1e09edjkk147sj1e63f1ud7tm2d.m3u8
+第12课 寓言二则(亡羊补牢),https://play.dteacher.readboy.com/o_1e09elii2kq92531p16i913qhd.m3u8
+语文园地四,https://play.dteacher.readboy.com/o_1e09ehpth16ms3feo6jsr31869d.m3u8
+第12课 寓言二则(揠苗助长),https://play.dteacher.readboy.com/o_1e09enstu1q5b15o9187d1300gvsd.m3u8
+第13课 画杨桃,https://play.dteacher.readboy.com/o_1e09er2ak1ds41qag1hr13hpphhd.m3u8
+第14课 小马过河,https://play.dteacher.readboy.com/o_1e09etj7uj8f15qu14jn7j5bi5d.m3u8
+第15课 古诗二首(晓出净慈寺送林子方),https://play.dteacher.readboy.com/o_1e09f186d1ec17or1mr77pi1q1pd.m3u8
+第15课 古诗二首(绝句),https://play.dteacher.readboy.com/o_1e09f3tap12qp1hab1uehh8mugcd.m3u8
+第16课 雷雨,https://play.dteacher.readboy.com/o_1e09f60uih5k19kl1aot1linntmd.m3u8
+第17课 要是你在野外迷了路,https://play.dteacher.readboy.com/o_1e09f87j81m851lgd862f65106qd.m3u8
+第18课 太空生活趣事多,https://play.dteacher.readboy.com/o_1e09fg3hcl2cfo75051n1mg1fd.m3u8
+语文园地六,https://play.dteacher.readboy.com/o_1e09fk7rg1u2h12sreo157hmifd.m3u8
+第19课 大象的耳朵,https://play.dteacher.readboy.com/o_1e09fm7sq11cibom13hf1h26u7sd.m3u8
+第20课 蜘蛛开店,https://play.dteacher.readboy.com/o_1e09g3fjb18v5bfs3pr19vd1osdd.m3u8
+第21课 青蛙卖泥塘,https://play.dteacher.readboy.com/o_1e09g5obe1mv9sgfslaek115qid.m3u8
+第22课 小毛虫,https://play.dteacher.readboy.com/o_1e09ga9ll1mra1irh1s75tfjcbtd.m3u8
+语文园地七,https://play.dteacher.readboy.com/o_1e09ght6t27kuup4q1rps165cd.m3u8
+第23课 祖先的摇篮,https://play.dteacher.readboy.com/o_1e09gl1c410rtj33aoo17b51bpld.m3u8
+第24课 当世界年纪还小的时候,https://play.dteacher.readboy.com/o_1e09got2i137a1425147slem5v2d.m3u8
+第25课 羿射九日,https://play.dteacher.readboy.com/o_1e09grlbr12q8nppv6i11771hi3d.m3u8
+语文园地八,https://play.dteacher.readboy.com/o_1e09gu9tv54lvli1d0v74k1oh2d.m3u8
