@@ -469,9 +469,9 @@ CCTV17高清,http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
 东南卫视高清,http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
 安徽卫视高清,http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
 广东卫视高清,http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
-山东齐鲁高清,http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
+山东齐鲁高清,http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
 山东少儿高清,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
-山东公共高清,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+山东公共高清,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000053/index.m3u8
 山东体育高清,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
 济南新闻综合高清,http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 海看爱宠物高清,http://150.138.8.143/00/SNM/CHANNEL00000202/index.m3u8
@@ -480,7 +480,6 @@ CCTV17高清,http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
 海看热播高清,http://150.138.8.143/00/SNM/CHANNEL00000405/index.m3u8
 海看剧场高清,http://150.138.8.143/00/SNM/CHANNEL00000403/index.m3u8
 海看少儿高清,http://150.138.8.143/00/SNM/CHANNEL00000402/index.m3u8
-IPTV5+,http://150.138.8.143/00/SNM/CHANNEL00000703/index.m3u8
 新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001029/index.m3u8
 德州新闻高清,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州公共高清,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
@@ -491,8 +490,6 @@ IPTV5+,http://150.138.8.143/00/SNM/CHANNEL00000703/index.m3u8
 邹城新闻综合高清,http://150.138.8.143/00/SNM/CHANNEL00001038/index.m3u8
 岚山区高清,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
 SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
-齐鲁频道高清,http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
-山东公共高清,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000053/index.m3u8
 山东教育,http://live.sdetv.com.cn/live/sdetv/playlist.m3u8?wsSession=e6a60e04f0ae64807395dbad-158064245787046&wsIPSercert=520c8e54e71ca39b3df9e5bcfbe147e4&wsMonitor=0
 临沂综合,http://live.ilinyi.net/channels/tvie/linyizonghe/flv:HD/live?1580372427144
 临沂农科,http://live.ilinyi.net/channels/tvie/linyicaijing/flv:500k/live?1580372539181
