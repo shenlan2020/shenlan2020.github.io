@@ -671,10 +671,10 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第26集,https://iqiyi.cdn9-okzy.com/20200131/5669_7d16e7f2/1000k/hls/index.m3u8
 第27集,https://iqiyi.cdn9-okzy.com/20200205/5896_510f148f/1000k/hls/index.m3u8
 第28集,https://iqiyi.cdn9-okzy.com/20200205/5895_05d2f3d4/1000k/hls/index.m3u8
-第29集,https://s1.135-cdn.com/20200206/RvTsGoy3YC4gXDh6/index.m3u8
-第30集,https://s1.135-cdn.com/20200206/DBARynhebaLpgJGj/index.m3u8
-第31集,https://s1.135-cdn.com/20200207/wMpsToJDeUfGEIYB/index.m3u8
-第32集,https://s1.135-cdn.com/20200207/ofI9e85XhUQcjJHG/index.m3u8
+第29集,https://cn7.qxreader.com/hls/20200206/135485cfbc21cff9799528b6fa717ef0/index.m3u8
+第30集,https://cn7.qxreader.com/hls/20200206/f0dd242e264240db7de7fb931622ed99/index.m3u8#https://mu.qqxy100.com/ts/2/67408686103920640/index.m3u8
+第31集,https://cn7.qxreader.com/hls/20200207/351d8b1b13a6add14592660ddb006538/1581079915/index.m3u8
+第32集,https://cn7.qxreader.com/hls/20200207/7b5781e4e65f92529ef34bf67f2bcf66/1581077688/index.m3u8
 精英律师,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
