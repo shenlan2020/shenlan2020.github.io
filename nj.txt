@@ -244,9 +244,14 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 东森戏剧,P2p://190.2.146.92:18912/5c724882000704081d52c386798d4d25.ts
 好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 好莱坞电影,P2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
-CHC高清电影HD,rtmp://58.200.131.2:1935/livetv/chchd
+中国教育,http://39.135.34.8:18890/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032459
+CHC高清电影,http://60.255.149.251/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
+CHC动作电影,http://60.255.149.251/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
+CHC家庭电影,http://60.255.149.251/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
+CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
 CHC家庭电影,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
+黑莓电影,http://39.135.34.16:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031726
 
 综合娱乐,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
@@ -407,6 +412,7 @@ DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966
 亲子卡通,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
+黑莓动画,http://39.135.34.22:18890/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035865
 迪斯尼,P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
 迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361
 迪斯尼,mitv://198.255.74.87:9906/5dc08f050008e03301b79f4dc69f2a18.ts
@@ -429,7 +435,13 @@ MOMO亲子台,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55
 BabyTV,mitv://198.255.74.87:9906/5dc08f0500080fa601b79f171d990d48.ts
 Nick Jr,mitv://198.255.74.87:9906/5dc08f020002568501b791e8084cb957.ts
 MY KIDS,mitv://198.255.74.87:9906/5dc08f0200017dde01b791b183d54845.ts
-小太阳,mitv://198.255.74.87:9906/5dc4e322000e827212a03206729ccc38.ts
+小太阳,mitv://198.255.74.87:9906/5dc4e322000e827212a03206729ccc38.ts金鹰纪实,http://39.135.34.6:18890/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037176
+金鹰卡通,http://39.135.34.8:18890/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034345
+佳通卡通,http://39.135.34.6:18890/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039139
+哈哈卡通,http://39.135.34.19:18890/000000001000/1000000002000000172/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033514
+炫动卡通,http://39.135.34.137:18890/000000001000/7589856436881630561/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032440
+优漫卡通,http://39.135.34.23:18890/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031764
+
 精彩4K,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
@@ -462,6 +474,8 @@ Newtv动作电影,http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
 Newtv动画王国,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
 newTV潮妈辣婆,http://117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8
 华数娱乐,#genre#
+直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
+直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
 华数FHD-01,http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
 华数FHD-02,http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
 华数FHD-03,http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
@@ -657,6 +671,7 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第26集,https://iqiyi.cdn9-okzy.com/20200131/5669_7d16e7f2/1000k/hls/index.m3u8
 第27集,https://iqiyi.cdn9-okzy.com/20200205/5896_510f148f/1000k/hls/index.m3u8
 第28集,https://iqiyi.cdn9-okzy.com/20200205/5895_05d2f3d4/1000k/hls/index.m3u8
+
 精英律师,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
