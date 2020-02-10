@@ -7,6 +7,18 @@
 学而思4年级,http://mobilelive-play.ysp.cctv.cn/2002049501_hd.m3u8
 学而思5年级,http://mobilelive-play.ysp.cctv.cn/2002049601_hd.m3u8
 学而思6年级,http://mobilelive-play.ysp.cctv.cn/2002047201_hd.m3u8
+河南一年级 http://hls.edu.stream3.hndt.com/now/X8SWrktq_720/playlist.m3u8
+河南二年级 http://hls.edu.stream3.hndt.com/now/rRRfIOVv_720/playlist.m3u8
+河南三年级 http://hls.edu.stream3.hndt.com/now/Sv8IbrYe_720/playlist.m3u8
+河南四年级 http://hls.edu.stream3.hndt.com/now/zpI2tT0s_720/playlist.m3u8
+河南五年级 http://hls.edu.stream3.hndt.com/now/F6BXgyBJ_720/playlist.m3u8
+河南六年级 http://hls.edu.stream3.hndt.com/now/ctaTi2HW_720/playlist.m3u8
+河南七年级 http://hls.edu.stream3.hndt.com/now/FPygBLjQ_720/playlist.m3u8
+河南八年级 http://hls.edu.stream3.hndt.com/now/WdvPPOXm_720/playlist.m3u8
+河南九年级 http://hls.edu.stream3.hndt.com/now/4KD2DlTc_720/playlist.m3u8
+河南高一年级 http://hls.edu.stream3.hndt.com/now/Reqjd6u1_720/playlist.m3u8
+河南高二年级 http://hls.edu.stream3.hndt.com/now/hipAY1kn_720/playlist.m3u8
+河南高三年级 http://hls.edu.stream3.hndt.com/now/ZVfJTm0F_720/playlist.m3u8
 直播武汉,#genre#
 医院施工现场视角1,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
 医院施工现场视角2,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
