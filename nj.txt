@@ -648,16 +648,16 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 沂南旅游,http://jsylivealone302.iqilu.com/live/yinan_tv02/index.m3u8
 沂水一套,http://60.213.23.98:8081/live/ys1.m3u8
 沂水二套,http://60.213.23.98:8081/live/ys1.m3u8
-刘老根3,#genre#
+刘老根三,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 第1集,https://mu.qqxy100.com/ts/2/68948042614571008/index.m3u8
 第2集,https://mu.qqxy100.com/ts/2/68948042622959616/index.m3u8
-第3集，https://mu.qqxy100.com/ts/2/68948042627153920/index.m3u8
-第4集，https://mu.qqxy100.com/ts/2/68948042631348224/index.m3u8
-第5集，https://mu.qqxy100.com/ts/2/68948042635542528/index.m3u8
-第6集，https://mu.qqxy100.com/ts/2/68948042639736832/index.m3u8
-第7集，https://mu.qqxy100.com/ts/2/68948042643931136/index.m3u8
-第8集，https://mu.qqxy100.com/ts/2/68948042648125440/index.m3u8
+第3集,https://mu.qqxy100.com/ts/2/68948042627153920/index.m3u8
+第4集,https://mu.qqxy100.com/ts/2/68948042631348224/index.m3u8
+第5集,https://mu.qqxy100.com/ts/2/68948042635542528/index.m3u8
+第6集,https://mu.qqxy100.com/ts/2/68948042639736832/index.m3u8
+第7集,https://mu.qqxy100.com/ts/2/68948042643931136/index.m3u8
+第8集,https://mu.qqxy100.com/ts/2/68948042648125440/index.m3u8
 
 乡村爱情12,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
