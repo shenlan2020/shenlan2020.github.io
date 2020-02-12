@@ -646,6 +646,8 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第6集,https://mu.qqxy100.com/ts/2/68948042639736832/index.m3u8
 第7集,https://mu.qqxy100.com/ts/2/68948042643931136/index.m3u8
 第8集,https://mu.qqxy100.com/ts/2/68948042648125440/index.m3u8
+第9集,https://mu.qqxy100.com/ts/2/69284724538867712/index.m3u8
+第10集,https://mu.qqxy100.com/ts/2/69284729123241984/index.m3u8
 乡村爱情12,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
@@ -682,6 +684,9 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第30集,https://cn7.qxreader.com/hls/20200206/f0dd242e264240db7de7fb931622ed99/index.m3u8#https://mu.qqxy100.com/ts/2/67408686103920640/index.m3u8
 第31集,https://cn7.qxreader.com/hls/20200207/351d8b1b13a6add14592660ddb006538/1581079915/index.m3u8
 第32集,https://cn7.qxreader.com/hls/20200207/7b5781e4e65f92529ef34bf67f2bcf66/1581077688/index.m3u8
+第33集,https://mu.qqxy100.com/ts/2/69593078737928192/index.m3u8
+第34集,https://mu.qqxy100.com/ts/2/69593083213250560/index.m3u8
+
 精英律师,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
