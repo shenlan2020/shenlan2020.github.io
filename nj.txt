@@ -735,7 +735,7 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第4集,https://apd-videohy.apdcdn.tc.qq.com/vipzj.video.tc.qq.com/e00331y6f16.mp4?
 
 庆余年全,#genre#
-直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
+直播介绍,·
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
 第1集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/1.mp4
 第2集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/2.mp4
@@ -784,6 +784,78 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第45集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/45.mp4
 第46集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/46.mp4
 
+一年数学,#genre#
+【2020-寒】一年级数学同步班(人教版),http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
+第1单元第1节 认识平面图形,https://play.dteacher.readboy.com/o_1e07stffamn410ms1ki9ngo1jsf6s.m3u8
+第1单元第2节 平面图形的拼组,https://play.dteacher.readboy.com/o_1e07t9m83jgd1tfnkasiln1hdqdq.m3u8
+第2单元第1节 十几减9,https://play.dteacher.readboy.com/o_1e07tjd0l1cdo9omj3j1un51pkhk5.m3u8
+第2单元第2节 十几减8,https://play.dteacher.readboy.com/o_1e07tlsug4rt1h16107cmimv42d.m3u8
+第2单元第3节 十几减7、6,https://play.dteacher.readboy.com/o_1e07tolsfctdu2a1hfe8lgotd.m3u8
+第2单元第4节 十几减5、4、3、2,https://play.dteacher.readboy.com/o_1e07u8v7k125o1ebm8nf1qctslhq0.m3u8
+第2单元第5节 解决问题,https://play.dteacher.readboy.com/o_1e07u9rh11ib610ua1t7i8di1ekl4k.m3u8
+第3单元 分类与整理,https://play.dteacher.readboy.com/o_1e0824nlt8cj3aldde3sf1s67fj.m3u8
+第4单元第1节 数数与数的组成,https://play.dteacher.readboy.com/o_1e07ucjp5q972fe1th11hingvpd.m3u8
+第4单元第2节 100以内数的读写,https://play.dteacher.readboy.com/o_1e07ud25g17441d3l1cuq1caqpob8.m3u8
+第4单元第3节 100以内数的顺序,https://play.dteacher.readboy.com/o_1e07udj1s9f5d6i1j4q11vge098.m3u8
+第4单元第4节 100以内数的大小比较,https://play.dteacher.readboy.com/o_1e080ij311pjaajg9hah41k27d.m3u8
+第4单元第5节 生活中的数,https://play.dteacher.readboy.com/o_1e080hqbfckl6g21sf8ih6h094j.m3u8
+第4单元第6节 整十数加一位数及相应的减法,https://play.dteacher.readboy.com/o_1e07vv67t1enf5pp13m11meunj8.m3u8
+摆一摆 想一想——圆片摆数,https://play.dteacher.readboy.com/o_1e0801te038i21m19v718a21mag8.m3u8
+第5单元第1节 认识人民币,https://play.dteacher.readboy.com/o_1e0803jv01l141gcl14lg6jef5d.m3u8
+第5单元第2节 人民币的单位换算,https://play.dteacher.readboy.com/o_1e08057pe7mg13lm1nm91vip1n1r7n.m3u8
+第5单元第3节 简单的计算,https://play.dteacher.readboy.com/o_1e0806bdfbm8f5h1l2g1lpg16s9d.m3u8
+第5单元第4节 解决问题,https://play.dteacher.readboy.com/o_1e0807vpd1fvf1as4que33dd1d.m3u8
+第6单元第1节 整十数加、减整十数,https://play.dteacher.readboy.com/o_1e09j6d0j16cuaml1re815cjrehkt.m3u8
+第6单元第2节 两位数加一位数(不进位)和整十数,https://play.dteacher.readboy.com/o_1e09j8mr71m6gr1pgqn1q2j6ati.m3u8
+第6单元第3节 两位数加一位数(进位),https://play.dteacher.readboy.com/o_1e09j96stafs1d5c1gjl1vme6f48.m3u8
+第6单元第4节 两位数减一位数(不退位)和整十数,https://play.dteacher.readboy.com/o_1e09j9nkh1f971ofkf8f1ig4p178.m3u8
+第6单元第5节 两位数减一位数(退位),https://play.dteacher.readboy.com/o_1e09ja6761aq8177n7ioch711ok8.m3u8
+第6单元第6节 认识小括号,https://play.dteacher.readboy.com/o_1e09jam2k19ir1fn9stj1e4k1t588.m3u8
+第6单元第7节 解决问题,https://play.dteacher.readboy.com/o_1e09jb6o11v0e1l6mmol1vdf1hrv8.m3u8
+第7单元第1节 图形与数字的简单排列规律,https://play.dteacher.readboy.com/o_1e09jbs0h10lfj47k3e1cq31an48.m3u8
+第7单元第2节 数列的排列规律,https://play.dteacher.readboy.com/o_1e09jcfe51vol4f0g181gr71ovn8.m3u8
+第7单元第3节 解决问题,https://play.dteacher.readboy.com/o_1e09jd3kg1krbctt1bdoilbupk8.m3u8
+第8单元第1节 总复习(一),https://play.dteacher.readboy.com/o_1e09je4j3gcl1tqf1asauudred.m3u8
+第8单元第2节 总复习(二),https://play.dteacher.readboy.com/o_1e09jemci10gl11l1159e1ptfc4f8.m3u8
+一年语文,#genre#
+【2020-寒】一年级语文同步班(人教部编版),http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
+识字1 春夏秋冬,https://play.dteacher.readboy.com/o_1e06v326gchb1aen1pnq1stv1dnn120.mp4
+识字2 姓氏歌,https://play.dteacher.readboy.com/o_1e074hn7av8q11oc1n4f1s8r3ugrs.mp4
+识字3 小青蛙,https://play.dteacher.readboy.com/o_1e074r6v7uk4129q1j751btvmic11g.m3u8
+识字4 猜字谜,https://play.dteacher.readboy.com/o_1e074vqm4n7t3371sr69l2117q15h.m3u8
+语文园地一,https://play.dteacher.readboy.com/o_1e0754kfc4o0hh7m1hi0kp771ad.m3u8
+第1课 吃水不忘挖井人,https://play.dteacher.readboy.com/o_1e0759m2np5o11fgq8j15ks1bg1d.m3u8
+第2课 我多想去看看,https://play.dteacher.readboy.com/o_1e075f5k5f8q1fo215fa194ghbkd.m3u8
+第3课 一个接一个,https://play.dteacher.readboy.com/o_1e075lf1vh6u12dl1f9g1o7v10jrd.m3u8
+第4课 四个太阳,https://play.dteacher.readboy.com/o_1e07bjlqj1noj1dci1n581h5v1f3nd.m3u8
+语文园地二,https://play.dteacher.readboy.com/o_1e07degomlu96gi1ttd1u12qihd.m3u8
+第5课 小公鸡和小鸭子,https://play.dteacher.readboy.com/o_1e07epjskkbt1oa21e40dd1rcod.m3u8
+第6课 树和喜鹊,https://play.dteacher.readboy.com/o_1e07f3iin1kha6p8i5v1fa51kn9d.m3u8
+第7课 怎么都快乐,https://play.dteacher.readboy.com/o_1e07f97o81h8q1ktm47a1dkh6end.m3u8
+语文园地三,https://play.dteacher.readboy.com/o_1e07g0vssbf11bp21cn4e0gf6vd.m3u8
+第8课 静夜思,https://play.dteacher.readboy.com/o_1e07g7c444aht6jpc01t5sg8nd.m3u8
+第9课 夜色,https://play.dteacher.readboy.com/o_1e07go7bn1u511q7cmr1k1hgt7d.m3u8
+第10课 端午粽,https://play.dteacher.readboy.com/o_1e07i3bel11oo1ssl9dsam21lqre2.m3u8
+第11课 彩虹,https://play.dteacher.readboy.com/o_1e07idrjn14cvm05hpj1p5edfad.m3u8
+语文园地四,https://play.dteacher.readboy.com/o_1e07lulqns2719oo1oibd85j2en.m3u8
+识字5 动物儿歌,https://play.dteacher.readboy.com/o_1e07m0un97oo25c1jac1t6fad6d.m3u8
+识字6 古对今,https://play.dteacher.readboy.com/o_1e07m4tc91a8k1695le51k5p94ad.m3u8
+识字7 操场上,https://play.dteacher.readboy.com/o_1e07m82q018d4vjb17t2beuth0d.m3u8
+识字8 人之初,https://play.dteacher.readboy.com/o_1e07nnsge1bmv1a5m96f2k9upd.m3u8
+语文园地五,https://play.dteacher.readboy.com/o_1e07t6b3c1d2hum1104n3q1g9i4v.m3u8
+第12课 古诗二首,https://play.dteacher.readboy.com/o_1e07ucil31rp398s1chq104a8938.m3u8
+第13课 荷叶圆圆,https://play.dteacher.readboy.com/o_1e07ujo3114ft8gu1p5c1bjs1fi1d.m3u8
+第14课 要下雨了,https://play.dteacher.readboy.com/o_1e07v08mfhmd262man9cksiad.m3u8
+语文园地六,https://play.dteacher.readboy.com/o_1e07vdjcq16d1igb6r71to16o8d.m3u8
+第15课 文具的家,https://play.dteacher.readboy.com/o_1e07vgh3m10p41lir1tu914fa1hkqd.m3u8
+第16课 一分钟,https://play.dteacher.readboy.com/o_1e07vjnnfvq71m80c65bmk146jd.m3u8
+第17课 动物王国开大会,https://play.dteacher.readboy.com/o_1e07vuqkn1omi1lt9mf11qmfbtvd.m3u8
+第18课 小猴子下山,https://play.dteacher.readboy.com/o_1e080401imik1u9413fj6jq1pc7d.m3u8
+语文园地七,https://play.dteacher.readboy.com/o_1e0808di31jk218mrtkiu5v2lvd.m3u8
+第19课 棉花姑娘,https://play.dteacher.readboy.com/o_1e080bgmn10uli171r6i6ovc7ld.m3u8
+第20课 咕咚,https://play.dteacher.readboy.com/o_1e080fe1qaus1cb113kd9k0dfcd.m3u8
+第21课 小壁虎借尾巴,https://play.dteacher.readboy.com/o_1e080j1peadr1s86kk21r901p6gd.m3u8
+语文园地八,https://play.dteacher.readboy.com/o_1e080moj51qnrcq01r8hq7c18b3d.m3u8
 二年数学,#genre#
 第1单元数据的收集与整理,https://play.dteacher.readboy.com/o_1e07qfhajqu51h0asdr1dfo1sg4d.m3u8
 第2单元第1节认识平均分,https://play.dteacher.readboy.com/o_1e07qkmorm681pgauurstks1l5s.m3u8
