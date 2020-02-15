@@ -648,6 +648,7 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第8集,https://mu.qqxy100.com/ts/2/68948042648125440/index.m3u8
 第9集,https://mu.qqxy100.com/ts/2/69284724538867712/index.m3u8
 第10集,https://mu.qqxy100.com/ts/2/69284729123241984/index.m3u8
+
 乡村爱情12,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
@@ -689,6 +690,8 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第34集,http://videotiantian.gslawyerunion.com/20200212/xQ2mG7ER/hls/index.m3u8?wsSecret=56223140292c39b8f536861d430c4b2e&wsTime=1581608015005
 第35集,http://videotiantian.gslawyerunion.com/20200213/d2oZ6Xmk/hls/index.m3u8?wsSecret=976d165967afc4e7a7a64e7ccfbbdeab&wsTime=1581608233414
 第36集,http://videotiantian.gslawyerunion.com/20200213/ydoTb2p4/hls/index.m3u8?wsSecret=1ec15df706c68294df358fd0530854de&wsTime=1581608286176
+第37集,http://videotiantian.gslawyerunion.com/20200214/n5h8UXdS/hls/index.m3u8?wsSecret=924ac0b5a321d798dbc4d587464e5e5e&wsTime=1581770911221
+第38集,http://videotiantian.gslawyerunion.com/20200214/FUjhQzCH/hls/index.m3u8?wsSecret=35bd386a82c7471ee7b9c2b8f8e319fe&wsTime=1581771073598
 精英律师,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
