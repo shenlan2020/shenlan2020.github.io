@@ -609,7 +609,8 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第8集,https://mu.qqxy100.com/ts/2/68948042648125440/index.m3u8
 第9集,https://mu.qqxy100.com/ts/2/69284724538867712/index.m3u8
 第10集,https://mu.qqxy100.com/ts/2/69284729123241984/index.m3u8
-
+第11集,http://videotiantian.gslawyerunion.com/20200216/jxTgI0rp/2500kb/hls/index.m3u8?wsSecret=b6893513bd76f921f7b336b211422bb9&wsTime=1581943677944
+第12集,http://videotiantian.gslawyerunion.com/20200216/o6lqdEzo/2500kb/hls/index.m3u8?wsSecret=3b7ab975353f3b929028008712061cb7&wsTime=1581943716887
 乡村爱情12,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
