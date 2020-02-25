@@ -1,3 +1,4 @@
+
 停课不停学,#genre#
 同步直播，
 小学一年级,http://aldirect.hls.huya.com/huyalive/1099531752601-1099531752601-86435465212723200-2199063628658-10057-A-0-1.m3u8
@@ -11,7 +12,8 @@
 初中三年级,http://aldirect.hls.huya.com/huyalive/1099531752609-1099531752609-86435499572461568-2199063628674-10057-A-0-1.m3u8
 高中一年级,http://aldirect.hls.huya.com/huyalive/1099531752610-1099531752610-86435503867428864-2199063628676-10057-A-0-1.m3u8
 高中二年级,http://aldirect.hls.huya.com/huyalive/1099531752611-1099531752611-86435508162396160-2199063628678-10057-A-0-1.m3u8
-高中三年级,http://aldirect.hls.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8新东方一年级,http://aldirect.hls.huya.com/huyalive/1099531752589-1099531752589-86435413673115648-2199063628634-10057-A-0-1.m3u8
+高中三年级,http://aldirect.hls.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8
+新东方一年级,http://aldirect.hls.huya.com/huyalive/1099531752589-1099531752589-86435413673115648-2199063628634-10057-A-0-1.m3u8
 新东方二年级,http://aldirect.hls.huya.com/huyalive/1099531752590-1099531752590-86435417968082944-2199063628636-10057-A-0-1.m3u8
 新东方三年级,http://aldirect.hls.huya.com/huyalive/1099531752591-1099531752591-86435422263050240-2199063628638-10057-A-0-1.m3u8
 新东方四年级,http://aldirect.hls.huya.com/huyalive/1099531752592-1099531752592-86435426558017536-2199063628640-10057-A-0-1.m3u8
@@ -580,7 +582,7 @@ CCTV-5+体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 CCTV-6高清,http://39.135.34.15:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039733
 CCTV-7国防军事,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV-8电视剧,http://39.135.34.12:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039505
-CCTV-9蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-9纪录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 CCTV-10科技,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 CCTV-11戏曲,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
@@ -607,6 +609,41 @@ CCTV-17农村农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 重庆卫视高清,http://39.135.34.15:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000018937&owchid=ystenlive&owsid=1106497909461333042&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUG5grAC0rFEDUfNPlNhZzLoghzkGon0cjoqXWi7%2bGPbWnsToB9Z5BcGamUzvzuTi
 江西卫视高清,http://39.135.34.15:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000013731&owchid=ystenlive&owsid=1106497909461316198&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRQxb4dqC07SZV%2bYcygMME6A9OMzcDPgMD6e%2f%2fHx5xyjuJRcCBeGZaKds6mdw4roN8
 东南卫视高清,http://39.135.34.14:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY%2ff447%2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
+四川卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225487/2/index.m3u8
+深圳卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225700/2/index.m3u8
+浙江卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225491/2/index.m3u8
+北京卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225674/2/index.m3u8
+北京卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225840/2/index.m3u8
+东方卫视高清,http://39.135.139.215:6610/PLTV/88888888/224/3221225489/2/index.m3u8
+江西卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225705/2/index.m3u8
+东南卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225657/2/index.m3u8
+重庆卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225692/2/index.m3u8
+河北卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225610/2/index.m3u8
+天津卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225739/2/index.m3u8
+天津卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225698/2/index.m3u8
+广东卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225701/2/index.m3u8
+广东卫视高清,http://39.135.139.215:6610/PLTV/88888888/224/3221225742/2/index.m3u8
+广东卫视高清,http://39.135.139.213:6610/PLTV/88888888/224/3221225742/2/index.m3u8
+江苏卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225743/2/index.m3u8
+江苏卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225488/2/index.m3u8
+江苏卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225702/2/index.m3u8
+江西卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225746/2/index.m3u8
+黑龙江卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225690/2/index.m3u8
+黑龙江卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225586/2/index.m3u8
+湖南卫视高清,http://39.135.139.213:6610/PLTV/88888888/224/3221225704/2/index.m3u8
+湖南卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225763/2/index.m3u8
+浙江卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225703/2/index.m3u8
+湖北卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225765/2/index.m3u8
+深圳卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225741/2/index.m3u8
+山东卫视高清,http://39.135.139.215:6610/PLTV/88888888/224/3221225762/2/index.m3u8
+山东卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225697/2/index.m3u8
+安徽卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225691/2/index.m3u8
+东方卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225658/2/index.m3u8
+辽宁卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225696/2/index.m3u8
+贵州卫视高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225483/2/index.m3u8
+金鹰纪实高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225595/2/index.m3u8
+纪实人文高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225655/2/index.m3u8
+冬奥纪实高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225676/2/index.m3u8
 河南卫视,http://ivi.bupt.edu.cn/hls/hntv.m3u8
 陕西卫视,http://39.135.34.13:18890/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=1106497909461393057&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT%2f4%2bgoUc31ou2LTka7qAY0hPTMutW5mQ%2b
 吉林卫视,http://39.135.34.15:18890/000000001000/6042486520432105075/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6042486520432105075&owchid=ystenlive&owsid=1106497909461400661&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4zsyYJ9%2f94ZJUxUEiCPKz71GdIgOKPVNKAV5cZDiBiTfpeXwtOnUwYO06%2bu%2fL6TfF%2fffImHwCRpMFmrhzVqshX
@@ -656,6 +693,10 @@ CCTV-17农村农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 南方卫视高清,http://39.135.34.135:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032735
 珠江卫视高清,http://39.135.34.15:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031981
+吉林卫视,http://39.135.139.214:6610/PLTV/88888888/224/3221225680/2/index.m3u8
+延边卫视,http://39.135.139.214:6610/PLTV/88888888/224/3221225903/2/index.m3u8
+厦门卫视,http://39.135.139.214:6610/PLTV/88888888/224/3221225836/2/index.m3u8
+CETV1高清,http://39.135.139.214:6610/PLTV/88888888/224/3221225917/2/index.m3u8
 湖南卫视 ,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 江苏卫视 ,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
 浙江卫视 ,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
@@ -695,10 +736,6 @@ CCTV-17农村农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 黑龙江卫视高清,http://stream2.hljtv.com/hljws/sd/live.m3u8
 黑龙江卫视高清,http://111.40.205.70/PLTV/88888888/224/3221225658/index.m3u8
 黑龙江卫视高清,http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-乡村振兴公共频道,http://player.ioioz.com/17/fj/fjtvm3u8.php?id=006
-福建体育高清,http://player.ioioz.com/17/fj/fjtvm3u8.php?id=010
-福建新闻高清,http://player.ioioz.com/17/fj/fjtvm3u8.php?id=013
-福建综合高清,http://player.ioioz.com/17/fj/fjtvm3u8.php?id=155
 港台新闻,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
@@ -805,6 +842,7 @@ CHC家庭电影,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 黑莓电影,http://39.135.34.16:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031726
 黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+
 综合娱乐,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
@@ -949,6 +987,7 @@ MOMO親子台,P2p://51.79.41.138:18912/5d70eb0f000a5e750d0a9659304554ba.ts
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+纯享 4K,http://39.135.139.214:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
@@ -993,6 +1032,22 @@ TVBS欢乐 ,p2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
 NewTV,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
+Newtv中国功夫,http://39.135.139.214:6610/PLTV/88888888/224/3221225660/2/index.m3u8
+Newtv健康有约,http://39.135.139.214:6610/PLTV/88888888/224/3221225666/2/index.m3u8
+Newtv超级电视剧,http://39.135.139.214:6610/PLTV/88888888/224/3221225625/2/index.m3u8
+Newtv超级电影,http://39.135.139.214:6610/PLTV/88888888/224/3221225766/2/index.m3u8
+Newtv爱情喜剧,http://39.135.139.214:6610/PLTV/88888888/224/3221225748/2/index.m3u8
+Newtv农民致富,http://39.135.139.214:6610/PLTV/88888888/224/3221225670/2/index.m3u8
+Newtv炫舞未来,http://39.135.139.214:6610/PLTV/88888888/224/3221225707/2/index.m3u8
+Newtv精品体育,http://39.135.139.214:6610/PLTV/88888888/224/3221225709/2/index.m3u8
+Newtv潮妈辣婆,http://39.135.139.214:6610/PLTV/88888888/224/3221225708/2/index.m3u8
+Newtv精品大剧,http://39.135.139.214:6610/PLTV/88888888/224/3221225714/2/index.m3u8
+Newtv超级综艺,http://39.135.139.214:6610/PLTV/88888888/224/3221225620/2/index.m3u8
+Newtv金牌综艺,http://39.135.139.214:6610/PLTV/88888888/224/3221225711/2/index.m3u8
+Newtv超级体育,http://39.135.139.214:6610/PLTV/88888888/224/3221225767/2/index.m3u8
+Newtv搏击,http://39.135.139.214:6610/PLTV/88888888/224/3221225656/2/index.m3u8
+Newtv家庭剧场,http://39.135.139.215:6610/PLTV/88888888/224/3221225713/2/index.m3u8
+Newtv惊悚悬疑,http://39.135.139.21:6610/PLTV/88888888/224/3221225717/2/index.m3u8
 NewTV超级电视剧,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/index.m3u8
 NewTV超级综艺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 NewTV搏击,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
