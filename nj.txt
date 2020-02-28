@@ -1630,3 +1630,6 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第27课 漏,https://play.dteacher.readboy.com/o_1e09lrinptvqbb11jg1v7t1cfpd.m3u8
 第28课 枣核,https://play.dteacher.readboy.com/o_1e09luoa41o3dss1gst1crdj0d.m3u8
 单元综合八,https://play.dteacher.readboy.com/o_1e09m5slhuvciac1okcqfp1rfhd.m3u8
+12有时效,#genre#
+勇敢者游戏2：再战巅峰,http://yfcdn.vod.pptv.com/cba0b9ad91f1148365799a4ada759de2.mp4?type=tv.android&w=1&k=63dbdf7bd69f4a8841c1d20999ba85d0-9ad4-1582878563%26segment%3D3619b07e_3619b152_1582864163%26bppcataid%3D1
+
