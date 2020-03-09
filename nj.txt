@@ -1295,6 +1295,14 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 第46集,http://videotiantian.gslawyerunion.com/20200226/Yo8ysMsU/index.m3u8?wsSecret=15b5789a4d648ca73673e69dda12769d&wsTime=1582870046828
 第47集,http://videotiantian.gslawyerunion.com/20200227/S3l6qefC/hls/index.m3u8?wsSecret=b7d2bca7bbf91db31509d14522854d8d&wsTime=1582870102760
 第48集,http://videotiantian.gslawyerunion.com/20200227/GllOqzvu/index.m3u8?wsSecret=9749a9bb202acaa074a6109b1b7011ba&wsTime=1582870160368
+第49集,https://us8.wl-cdn.com/hls/20200301/6a501aac619110c2c0269743b997df1c/index.m3u8
+第50集,https://us8.wl-cdn.com/hls/20200301/a0cf61c08da1c71d24f735779b084c54/index.m3u8
+第51集,https://us-3.wl-cdn.com/hls/20200304/c4e5eb24be51815ad2fbb7e9a5d43958/index.m3u8
+第52集,https://us-3.wl-cdn.com/hls/20200304/6075dddb251b106e8ae7df799c9b0c39/index.m3u8
+第53集,https://us-3.wl-cdn.com/hls/20200305/3feb914209380c246cd62cb23e78ad95/index.m3u8
+第54集,https://us-3.wl-cdn.com/hls/20200305/37ccf82f07aae3152671047845fec870/index.m3u8
+第55集,https://us-3.wl-cdn.com/hls/20200306/5b822d7b827b1488a3d80d341c6a3f31/index.m3u8
+第56集,https://us-3.wl-cdn.com/hls/20200306/86f432b731219239e63074e215c3ea18/index.m3u8
 精英律师,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
