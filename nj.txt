@@ -882,8 +882,10 @@ CCTV-R俄语国际,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&pr
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv#http://liveali.ifeng.com/live/FHZX.m3u8CH2,http://202.175.127.77/live/show/ch1/index.m3u8
 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
-
-TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+翡翠台,http://24tl.qingk.cn/live/584e562b064bcb34fdb4adaa7e54208b.flv
+TVB明珠,http://24tl.qingk.cn/live/473435cf5394beae57152d7eff590ad3.flv
+TBVJ2,http://24tl.qingk.cn/live/ac6c65185ce5228021c7bc2e544e1bca.flv
+TVB无线新闻台,http://24tl.qingk.cn/live/d4372b46002f46e9cb661f2de2a3e252.flv#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB无线新闻台,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
 TVBS新闻,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
@@ -925,9 +927,9 @@ FOXNews,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
 港台影视,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
-HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436
+HBO原创电影,vjms://58.215.133.184:8500:3502/live/cid=261v#https://stream.epub.fun/live/gs/FpJtqlsF.m3u8#jms://58.215.133.185:8500:3502/live/cid=436
 HBO原创电影,vjms://23.237.33.155:8500:3502/live/cid=436
-HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
+HBO家庭,https://stream.epub.fun/live/gs/FpJtqlsF.m3u8
 HBO家庭,vjms://23.237.33.155:8500:3502/live/cid=181
 HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
 HBO强档,vjms://23.237.33.155:8500:3502/live/cid=238
