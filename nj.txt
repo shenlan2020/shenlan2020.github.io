@@ -213,7 +213,7 @@ CGTN,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8#http:/
 港台新闻,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
-凤凰卫视,http://24tl.qingk.cn/live/ab447d84bf124a28fa35e7dbfab547e4.flv#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
+凤凰卫视,http://qlive.fengshows.cn/PCC.flv#http://24tl.qingk.cn/live/ab447d84bf124a28fa35e7dbfab547e4.flv#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 凤凰卫视,rtmp://58.200.131.2:1935/livetv/fhzw
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#http://liveali.ifeng.com/live/FHZW.m3u8
 香港卫视高清,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
