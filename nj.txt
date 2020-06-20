@@ -107,6 +107,11 @@ IPV6卫视,#genre#
 晴天动画馆高清,http://itv.ahau.edu.cn/hls/hls78a47.m3u8
 时光剧场高清,http://itv.ahau.edu.cn/hls/hls78a48.m3u8
 熊猫频道高清,http://itv.ahau.edu.cn/hls/hls148.m3u8
+凤凰资讯,http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
+凤凰资讯,http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
+星空卫视,http://iptv.pdsu.edu.cn/hls/startv.m3u8
+凤凰电影台,http://iptv.pdsu.edu.cn/hls/fhdy.m3u8
+Channelv,http://iptv.pdsu.edu.cn/hls/channelv.m3u8
 IPV6综合,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 CHC家庭影院,http://itv.ahau.edu.cn/hls/chctv.m3u8
