@@ -157,6 +157,25 @@ Channel[V],http://itv.ahau.edu.cn/hls/channelv.m3u8
 
 香港频道,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
+
+J2,P2p://198.255.74.57:12196/5efcb9c80005efba95377289011a27d7.ts
+無線新聞臺,P2p://198.255.74.57:12196/5efcb9c8000500849537724ceaf51c3c.ts
+翡翠臺,P2p://198.255.74.57:12196/5efcb9c800040d829537720e3ae1b7f5.ts
+奇妙電視,P2p://198.255.74.57:12196/5efcb9c80003b72e953771f8b5e90c5f.ts
+明珠臺,P2p://198.255.74.57:12196/5efcb9a90009c0779536fa6cbecd03b0.ts
+RHK32,P2p://198.255.74.57:12196/5efcb9a90008dc199536fa31043386ed.ts
+ViuTu,P2p://198.255.74.57:12196/5efcb9a9000808be9536f9fb38e47e19.ts
+ViuTu_6,P2p://198.255.74.57:12196/5efcb9a9000736039536f9c57dc28239.ts
+無線財經資訊臺,P2p://198.255.74.57:12196/5efcb9a9000657419536f98c4576bda3.ts
+星空衛視,P2p://198.255.74.57:12196/5efcb9a900057c449536f9542eaa76f2.ts
+澳門蓮花,P2p://198.255.74.57:12196/5efcb9a900049d449536f91b6a61c297.ts
+鳳凰中文臺 HD,P2p://198.255.74.57:12196/5efcb9a90003c2239536f8e3dbdced05.ts
+鳳凰資訊臺 HD,P2p://198.255.74.57:12196/5efcb9a90002e8ec9536f8ab26c037e0.ts
+鳳凰香港臺 HD,P2p://198.255.74.57:12196/5efcb9a90002105b9536f874c75a861a.ts
+香港有线新闻,P2p://198.255.74.57:12196/5efcb9a900013df29536f83e9730b6ab.ts
+电影一台,P2p://198.255.74.57:12196/5efcb9a900006aff9536f80848b9c01f.ts
+TVB-星河,P2p://198.255.74.57:12196/5efcb9ac000c7215953706d48970842a.ts
+Test,P2p://198.255.74.57:12196/5efcb9c80006cbe4953772c29c6c79b2.ts
 TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
 HKS卫视 高清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
