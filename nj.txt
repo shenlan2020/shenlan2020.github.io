@@ -53,7 +53,7 @@ CCTV-15音乐,http://itv.ahau.edu.cn/hls/cctv15.m3u8#http://itv.ahau.edu.cn/hls/
 天津卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 湖北卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 山东卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
-重庆卫视高清,http://39.135.34.160:8080/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000018937&owchid=ystenlive&owsid=1106497909461333042&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUG5grAC0rFEDUfNPlNhZzLoghzkGon0cjoqXWi7%2bGPbWnsToB9Z5BcGamUzvzuTi
+重庆卫视高清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 厦门卫视高清,http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
 天津卫视高清,http://111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8
 河南卫视,http://ivi.bupt.edu.cn/hls/hntv.m3u8
