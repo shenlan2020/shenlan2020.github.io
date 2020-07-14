@@ -1338,6 +1338,7 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 沂水一套,http://60.213.23.98:8081/live/ys1.m3u8
 沂水二套,http://60.213.23.98:8081/live/ys1.m3u8
 三年级语文上,#genre#
+测试,https://tx-origin.pull.yximgs.com/gifshow/8du8ZM2Dryc.flv?txSecret=678fa9125677bdda8b89cc848e0a630d&txTime=5f0eea88&stat=kDErZZ4LxbFAzVKc%2FoGP0gtcwzA5aLTwNc%2BhWscdVt986NJvXZ2SyMpUAGXANi4N&oidc=alihb
 1大青树下的小学,http://jhx-cdn-mam.hismarttv.com/rendition_videos/141/2521/8775/355365/c501c20e82b70520dd503d52be8028ce_1571993571557-2048000-1280x720-1571994120029.m3u8
 2花的学校,http://jhx-cdn-mam.hismarttv.com/rendition_videos/141/2521/8775/355384/4a0cccad52ae6e8db07c7693b0a03d5e_1571993571557-2048000-1280x720-1571995230037.m3u8
 3不懂就要问,http://jhx-cdn-mam.hismarttv.com/rendition_videos/141/2521/8775/355397/a552ff9fdc9dda66dc34f54eb89a5d27_1571993571557-2048000-1280x720-1571997240391.m3u8
