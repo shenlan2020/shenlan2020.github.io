@@ -1,10 +1,10 @@
-h央视频道,#genre#
+央视频道,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 CCTV-1综合,http://120.221.5.113:8089/PLTV/88888888/224/3221225859/index.m3u8
 CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 CCTV-3综艺,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 CCTV-4国际,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-CCTV-5体育,ttp://39.134.115.163:8080/PLTV/88888888/224/3221225633/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+CCTV-5体育,http://39.134.115.163:8080/PLTV/88888888/224/3221225633/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
 CCTV-6高清,http://120.221.5.113:8089/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-7军事农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV-8高清,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
