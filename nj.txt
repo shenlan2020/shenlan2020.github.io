@@ -988,3 +988,6 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 50来学习新的字母吧,http://jhx-cdn-mam.hismarttv.com/rendition_videos/130/2415/7042/289213/f56ce6caab355f5e4377634bff60557b_1558587908184-2048000-1280x720-1558593870030.m3u8
 51练习各种关于生日,http://jhx-cdn-mam.hismarttv.com/rendition_videos/130/2415/7042/289215/86834efcf1052935b983619faf2e0fe1_1558587908184-2048000-1280x720-1558594200036.m3u8
 52单元小结,http://jhx-cdn-mam.hismarttv.com/rendition_videos/130/2415/7042/289217/0f02d211e1443f40117e82f2efaf0fba_1558587908184-2048000-1280x720-1558594320029.m3u8
+快手直播课,#genre#
+第一课大青树下的小学,https://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/789107ab5285890805293246334/drm/voddrm.token.NTBjYTNkY2UxNjAzYzAyY01sNDlpUHBtRkVPTUNNd2hTMlV1bi9WYnVTelRrQVhqblBpWjRPNjZOMnRuRk51bw.v.f230.m3u8
+
