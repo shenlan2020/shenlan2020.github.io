@@ -990,4 +990,4 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 52单元小结,http://jhx-cdn-mam.hismarttv.com/rendition_videos/130/2415/7042/289217/0f02d211e1443f40117e82f2efaf0fba_1558587908184-2048000-1280x720-1558594320029.m3u8
 快手直播课,#genre#
 第一课大青树下的小学,https://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/789107ab5285890805293246334/drm/voddrm.token.NTBjYTNkY2UxNjAzYzAyY01sNDlpUHBtRkVPTUNNd2hTMlV1bi9WYnVTelRrQVhqblBpWjRPNjZOMnRuRk51bw.v.f230.m3u8
-
+大青树下的小学2课时,http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/cc0909d65285890805331369589/drm/voddrm.token.YmI1NzFmOWU2ZmQ0ZTg1ZVVET25lT0x4cTVFOURNRXNEcjRQR2czbEl3Z01YVmRwMFNWQ0piSzFxMGpaV2lNeA.v.f230.m3u8
