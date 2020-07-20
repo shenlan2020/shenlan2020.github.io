@@ -12,7 +12,7 @@ CCTV-9纪录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 CCTV-10科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 CCTV-11戏曲,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-13新闻,http://120.241.135.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225949/index.m3u8
+CCTV-13新闻,http://tkhz.vip/gd.php?id=yueyuHD_7000#http://120.241.135.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225949/index.m3u8
 CCTV-13新闻,http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
 CCTV-14少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 CCTV-15音乐,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
