@@ -109,6 +109,7 @@ CCTV-17高清,http://itv.ahau.edu.cn/hls/cctv17hd.m3u8#http://itv.ahau.edu.cn/hl
 广东卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
 天津卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 湖北卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+甘肃卫视高清,http://39.134.39.37/PLTV/88888888/224/3221226240/index.m3u8
 海南卫视高清,http://117.136.156.40/PLTV/88888888/224/3221225798/index.m3u8
 哈哈炫动高清,http://117.136.156.40/PLTV/88888888/224/3221225790/index.m3u8
 重庆卫视高清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
