@@ -12,7 +12,7 @@ CCTV-9纪录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 CCTV-10科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 CCTV-11戏曲,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-13新闻,http://tkhz.vip/gd.php?id=yueyuHD_7000#http://120.241.135.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225949/index.m3u8
+CCTV-13新闻,http://cg0.hunancatv.cn:9090/live/CCTV-13.m3u8?ci=123#http://tkhz.vip/gd.php?id=yueyuHD_7000#http://120.241.135.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225949/index.m3u8
 CCTV-13新闻,http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
 CCTV-14少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 CCTV-15音乐,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
@@ -994,6 +994,9 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 大青树下的小学2课时,http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/cc0909d65285890805331369589/drm/voddrm.token.OWI3ZjM4MDYyYzg5MzZkOVZ1UEtjTnUvRDJzUnFwSHBLMGNqbytNRlZGeGFxSFRpWkZDTnhobUhMamFQUkUvcA.v.f230.m3u8
 花的学校1,http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/fd7e53145285890805369594720/drm/voddrm.token.MGI5NTA5MTkyMGRkMGVlYlpoOStJTHpueDhSK3I3dWpteEFnV3pBdWpVRkNvZGp1ZGwrNzhHMGNkTGxSTEcrNw.v.f230.m3u8
 花的学校2,https://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/235748ca5285890805403916507/drm/voddrm.token.YzBmY2U0MWU5MTU3MWZmZUNoNzZjWXJGdXk3b1dtSkFOQmhud0Q4Qk1IN1NlTDdsbURWUDVnR3E5Y3U1VlNUQw.v.f230.m3u8
+不懂就问,http://1252524126.vod2.myqcloud.com/2919df88vodtranscq1252524126/bfb2bb8e5285890805365119815/drm/voddrm.token.NDQyMjYxZjU5OTYwZWIzY3BoSlgrUnE4SzFVUDNqbkZqRGUvNDlTSk1SK2ZldkxudVlXdFFZWHpFajFndWRqLw.v.f230.m3u8
+语文园地一,http://1252524126.vod2.myqcloud.com/2919df88vodtranscq1252524126/2ed405665285890805400372672/drm/voddrm.token.ZDBmMzJmNzdjNzlkM2QzYncyWVB4bDJPa3RUcGFCRlVNMVhmeUNlNDloWjR0cGlZZTdqUFg0dG9mOTM5b3ZVZg.v.f230.m3u8
+
 淄博移动,#genre#
 淄博新闻蓝光,http://120.221.5.111:8089/PLTV/88888888/224/3221225986/index.m3u8
 淄博新闻蓝光,http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8
