@@ -97,6 +97,7 @@ CCTV-17高清,http://itv.ahau.edu.cn/hls/cctv17hd.m3u8#http://itv.ahau.edu.cn/hl
 
 卫视频道,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
+江苏卫视,http://39.134.115.163:8080/PLTV/88888888/224/3221225856/index.m3u8
 湖南卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 北京卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 浙江卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
