@@ -75,17 +75,7 @@ CCTV-15音乐,http://39.134.115.163:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888888/224/3221225907/index.m3u8
 CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888888/224/3221225908/index.m3u8
 CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888888/224/3221225909/index.m3u8
-CCTV-电视指南,http://39.135.19.164:18890/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
-CCTV高尔夫网球,http://39.135.19.164:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-央视文化精品,http://39.135.19.164:18890/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-兵器科技,http://39.135.19.164:18890/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
-风云音乐,http://39.135.19.164:18890/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
-女性时尚,http://39.135.19.164:18890/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
-风云剧场,http://39.135.19.164:18890/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
-第一剧场,http://39.135.19.164:18890/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
-世界地理,http://39.135.19.164:18890/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
-风云足球,http://39.135.19.164:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
-怀旧剧场,http://39.135.19.164:18890/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+
 
 IPV6央视,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
@@ -877,6 +867,18 @@ SX-1高清,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 沂南旅游,http://jsylivealone302.iqilu.com/live/yinan_tv02/index.m3u8
 沂水一套,http://60.213.23.98:8081/live/ys1.m3u8
 沂水二套,http://60.213.23.98:8081/live/ys1.m3u8
+电视指南,http://39.135.19.164:18890/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+高尔夫网球,http://39.135.19.164:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+央视文化精品,http://39.135.19.164:18890/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+兵器科技,http://39.135.19.164:18890/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+风云音乐,http://39.135.19.164:18890/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+女性时尚,http://39.135.19.164:18890/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+风云剧场,http://39.135.19.164:18890/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+第一剧场,http://39.135.19.164:18890/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+世界地理,http://39.135.19.164:18890/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+风云足球,http://39.135.19.164:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+怀旧剧场,http://39.135.19.164:18890/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+
 三年级数学上,#genre#
 1秒的认识,http://jhx-cdn-mam.hismarttv.com/rendition_videos/141/2521/8781/355393/0a7e98ef2b16bdadf66ffe2deeba60f0_1571994938998-2048000-1280x720-1571996730359.m3u8
 2时间的计算,http://jhx-cdn-mam.hismarttv.com/rendition_videos/141/2521/8781/355404/b2ed535752f5a92d9a39994c44260d66_1571994938998-2048000-1280x720-1571997452749.m3u8
