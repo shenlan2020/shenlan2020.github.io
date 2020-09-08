@@ -300,6 +300,11 @@ IPV6卫视,#genre#
 星空卫视,http://iptv.pdsu.edu.cn/hls/startv.m3u8
 凤凰电影台,http://iptv.pdsu.edu.cn/hls/fhdy.m3u8
 Channelv,http://iptv.pdsu.edu.cn/hls/channelv.m3u8
+体育赛事,#genre#
+直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp
+NBA腾讯超清http://pull.tvijfoh.cn/basketball/chanel21_hd.m3u8?auth_key=1600390810-L1V8cM2dD2-0-6ccfda492658f796f9575b8c17c83b4a
+腾讯高清https://ahunve.cn/live/streamcnhd5218542.m3u8
+纬来体育http://pull02.tyvipc.com/live/weilaitiyu.m3u8?txSecret=ea1021e141da9921f8a6d5569ae7a5c3&txTime=5F56D81F
 NewTV,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
 直播介绍,https://muddy-recipe-f284.shenlan.workers.dev/VIDEO/1.mp4
