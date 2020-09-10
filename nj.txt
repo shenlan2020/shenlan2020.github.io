@@ -146,6 +146,7 @@ CCTV风云足球HD,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225
 甘肃卫视,http://39.134.39.37/PLTV/88888888/224/3221226240/index.m3u8
 海南卫视,http://117.136.156.40/PLTV/88888888/224/3221225798/index.m3u8
 哈哈炫动,http://117.136.156.40/PLTV/88888888/224/3221225790/index.m3u8
+重庆卫视,http://117.136.156.40/PLTV/88888888/224/3221225796/index.m3u8#http://39.135.139.214:6610/PLTV/88888888/224/3221225612/2/index.m3u8#http://39.134.7.247/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
 天津卫视,http://111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8
@@ -351,9 +352,6 @@ IPV6卫视,#genre#
 Channelv,http://iptv.pdsu.edu.cn/hls/channelv.m3u8
 体育赛事,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
-NBA腾讯超清,http://pull.tvijfoh.cn/basketball/chanel21_hd.m3u8?auth_key=1600390810-L1V8cM2dD2-0-6ccfda492658f796f9575b8c17c83b4a
-腾讯高清,https://ahunve.cn/live/streamcnhd5218542.m3u8
-纬来体育,http://pull02.tyvipc.com/live/weilaitiyu.m3u8?txSecret=ea1021e141da9921f8a6d5569ae7a5c3&txTime=5F56D81F
 奥林匹克HD,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
 CCTV高尔夫·网球HD,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 CCTV台球HD,http://tvtony.ddnsto.com/iptv/gzgd.php?id=ystq#http://tv.tonyt.top/iptv/gzgd.php?id=ystq#http://live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=
@@ -386,8 +384,7 @@ Newtv中国功夫,http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
 爱电竞HD,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/01.m3u8
 游戏风云HD,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8#http://117.156.28.21/PLTV/88888888/224/3221225638/index.m3u8
 游戏,http://112.17.40.139/PLTV/88888888/224/3221226481/index.m3u8
-地方频道#genre#
-重庆卫视HD,http://39.135.139.214:6610/PLTV/88888888/224/3221225612/2/index.m3u8#http://117.136.156.40/PLTV/88888888/224/3221225796/index.m3u8#http://39.134.7.247/000000001000/1000000002000018937/1.m3u8
+地方频道,#genre#
 重庆新闻HD,https://onsitecdn.cbgcloud.com/4zjt2a/zb7nip.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
 重庆影视HD,http://sjlivecdn9.cbg.cn/203002221948/app_2/_definst_/ls_6.stream/chunklist.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225638/chunklist.m3u8
 重庆都市HD,http://sjlivecdn9.cbg.cn/203002221949/app_2/_definst_/ls_10.stream/chunklist.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
