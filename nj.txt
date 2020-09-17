@@ -812,9 +812,9 @@ AXN,P2p://sdgdklwos.finetv.tv:9906/59fd2573000c0b9e02a6c794631510c8#
 爱怀旧HD,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
 爱浪漫HD,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 黑莓电影HD,http://112.17.40.209/PLTV/88888888/224/3221226755/index.m3u8#http://39.134.7.247/000000001000/5320946857686967621/1.m3u8
-CHC高清电影HD,http://tvtony.ddnsto.com/iptv/gzgd.php?id=chcgq#http://tv.tonyt.top/iptv/gzgd.php?id=chcgq#http://ivi.bupt.edu.cn/hls/chchd.m3u8
-CHC家庭影院HD,http://tvtony.ddnsto.com/iptv/gzgd.php?id=chcjt#http://tv.tonyt.top/iptv/gzgd.php?id=chcjt#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
-CHC动作电影HD,http://tvtony.ddnsto.com/iptv/gzgd.php?id=chcdz#http://tv.tonyt.top/iptv/gzgd.php?id=chcdz#rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065?virtualDomain=yinhe.live_hls.zte.com#http://tvtony.ddnsto.com/iptv/gzgd.php?id=chcgq#http://tv.tonyt.top/iptv/gzgd.php?id=chcgq#http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtualDomain=yinhe.live_hls.zte.com#http://tvtony.ddnsto.com/iptv/gzgd.php?id=chcjt#http://tv.tonyt.top/iptv/gzgd.php?id=chcjt#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055?virtualDomain=yinhe.live_hls.zte.com#http://tvtony.ddnsto.com/iptv/gzgd.php?id=chcdz#http://tv.tonyt.top/iptv/gzgd.php?id=chcdz#rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 CBN每日影院HD,http://tvtony.ddnsto.com/iptv/gzgd.php?id=mryy#http://tv.tonyt.top/iptv/gzgd.php?id=mryy
 CBN风尚生活HD,http://tvtony.ddnsto.com/iptv/gzgd.php?id=fssh#http://tv.tonyt.top/iptv/gzgd.php?id=fssh
 CBN幸福剧场HD,http://tvtony.ddnsto.com/iptv/gzgd.php?id=xfjc#http://tv.tonyt.top/iptv/gzgd.php?id=xfjc
