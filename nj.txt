@@ -925,7 +925,17 @@ CCTV兵器科技,http://hdtv.lzu6.edu.cn/hls/gfjstv.m3u8
 CCTV女性时尚,http://hdtv.lzu6.edu.cn/hls/hls44.m3u8
 香港频道,#genre#
 直播介绍,http://txmov2.a.kwimgs.com/upic/2020/02/04/07/BMjAyMDAyMDQwNzQyNTZfMjQyMzQ1NzA4XzIyODk0NTY3OTk3XzJfMw==_b_Beafdb9d27ec113d0db582ec050e2e5bd.mp4
-无线新闻,https://www.ootori.xyz/tv/tvb.php?id=inews
+翡翠台,vjms://121.40.94.135:80:3502/live/cid=48523
+凤凰卫视中文,vjms://121.40.94.135:80:3502/live/cid=48524
+凤凰卫视资讯,vjms://121.40.94.135:80:3502/live/cid=48529
+凤凰卫视香港,vjms://121.40.94.135:80:3502/live/cid=48528
+TVB星河国语,vjms://121.40.94.135:80:3502/live/cid=48525
+天映频道,vjms://121.40.94.135:80:3502/live/cid=48526
+东森电影,vjms://121.40.94.135:80:3502/live/cid=48527
+星空卫视,vjms://121.40.94.135:80:3502/live/cid=48530
+地理野生,vjms://153.99.180.75:8500:5021/live/cid=263
+HBO 亞洲,vjms://153.99.180.75:8500:5021/live/cid=261
+AXN ,vjms://153.99.180.75:8500:5021/live/cid=2无线新闻,https://www.ootori.xyz/tv/tvb.php?id=inews
 无线财 经,https://www.ootori.xyz/tv/tvb.php?id=finance
 新闻现场直播,https://www.ootori.xyz/tv/tvb.php?id=newsevent1
 TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
