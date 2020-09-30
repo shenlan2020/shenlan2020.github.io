@@ -338,6 +338,9 @@ Newtv中国功夫,http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
 山东影视,http://120.221.5.165:8089/PLTV/88888888/224/3221225802/index.m3u8
 山东齐鲁,http://120.221.5.113:8089/PLTV/88888888/224/3221226045/index.m3u8
 山东教育,http://120.221.5.101:8089/PLTV/88888888/224/3221226049/index.m3u8
+临沂综合,https://36773-cdn-1.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
+临沂公共,https://36773-cdn-1.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1243.m3u8
+临沂农科,https://36773-cdn-1.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_1244.m3u8
 芒果TV自制4K,http://39.135.225.5:18890/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV独播,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
 芒果TV独播,http://112.50.243.4/PLTV/88888888/224/3221226692/1.m3u8
