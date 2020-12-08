@@ -35,6 +35,7 @@ CCTV-17农业农村,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch1
 济南商务,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13032214555250188130.rsc/89010_Uni.sdp
 济南少儿,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092911120057744658.rsc/89111_Uni.sdp
 济南教育,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch18011914441082767208.rsc/89030_Uni.sdp
+济南都市,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092911092949699520.rsc/89059_Uni.sdp
 济南鲁中,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch16080416243269372727.rsc/89086_Uni.sdp
 济南科教,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch16080416264440891314.rsc/89050_Uni.sdp
 济南新闻综合,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092921272839762982.rsc/89042_Uni.sdp
@@ -71,6 +72,9 @@ CCTV-17农业农村,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch1
 青海卫视,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118273518671654.rsc/89097_Uni.sdp
 西藏卫视,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/89061_Uni.sdp
 厦门卫视,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch17120418140581348001.rsc/89021_Uni.sdp
+三沙卫视,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch19120615372589393337.rsc/89555_Uni.sdp
+兵团卫视,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/89008_Uni.sdp
+农林卫视,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/89028_Uni.sdp
 海看频道,#genre#
 海看热播【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch16051316174673479081.rsc/89001_Uni.sdp
 海看电竞【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch17121814421621825244.rsc/89039_Uni.sdp
@@ -98,8 +102,6 @@ CETV-4【720】,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch17120
 优漫卡通【720】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11042914374730524823.rsc/89044_Uni.sdp
 哈哈炫动【720】,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch11122400404197907033.rsc/89083_Uni.sdp
 嘉佳卡通【720】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15050917541249689380.rsc/89122_Uni.sdp
-兵团卫视【720】,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/89008_Uni.sdp
-农林卫视【720】,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/89028_Uni.sdp
 IPTV收视指南【720】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11061217035832697899.rsc/89055_Uni.sdp
 IPTV热播剧场【720】,rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch11060317301148954080.rsc/89062_Uni.sdp
 IPTV经典电影【720】,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch11060317313622161494.rsc/89090_Uni.sdp
@@ -113,9 +115,7 @@ IPTV3+【720】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11061
 IPTV5+【720】,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch11060317323358720349.rsc/89003_Uni.sdp
 IPTV6+【720】,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch11061217105732492560.rsc/89058_Uni.sdp
 IPTV8+【720】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11061217231007675294.rsc/89135_Uni.sdp
-济南都市【720】,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092911092949699520.rsc/89059_Uni.sdp
 家有购物【720】,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch18102919143814079235.rsc/89119_Uni.sdp
-三沙卫视【720】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch19120615372589393337.rsc/89555_Uni.sdp
 先锋乒羽【720】,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch18120514104123291864.rsc/89057_Uni.sdp
 GTV网络棋牌【720】,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch18120514110394578528.rsc/89051_Uni.sdp
 新动漫【720】,rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch18120514112382335432.rsc/89126_Uni.sdp
