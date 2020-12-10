@@ -95,6 +95,8 @@ CCTV-1综合,http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
 三沙卫视,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch19120615372589393337.rsc/89555_Uni.sdp
 兵团卫视,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/89008_Uni.sdp
 农林卫视,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/89028_Uni.sdp
+湖南卫视,http://39.134.115.163:8080/PLTV/88888888/224/3221225818/index.m3u8
+
 海看频道,#genre#
 海看热播【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch16051316174673479081.rsc/89001_Uni.sdp
 海看电竞【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch17121814421621825244.rsc/89039_Uni.sdp
