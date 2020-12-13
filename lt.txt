@@ -125,8 +125,8 @@ CHC动作电影【1080HD】,rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001
 CHC高清电影【1080HD】,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch18120514102191199606.rsc/89076_Uni.sdp
 HBO原创巨献,http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=23
 HBO高清亚洲,http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=20
-HBO温馨家庭http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=21
-HBO强档巨献http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=22
+HBO温馨家庭,http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=21
+HBO强档巨献,http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=22
 金鹰纪实【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15050917541337365144.rsc/89089_Uni.sdp
 iPanda爱熊猫【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15111015450571726043.rsc/88997_Uni.sdp
 IPTV5+【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch17120418224162657206.rsc/89082_Uni.sdp
