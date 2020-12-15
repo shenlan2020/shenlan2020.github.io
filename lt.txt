@@ -73,12 +73,6 @@ CCTV-17农业农村,http://39.135.135.29:80/PLTV/88888888/224/3221225708/index.m
 济南科教,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch16080416264440891314.rsc/89050_Uni.sdp
 济南新闻综合,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092921272839762982.rsc/89042_Uni.sdp
 卫视频道,#genre#
-凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰资讯,http://223.82.250.72/live/fhzixun/1.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰资讯,http://39.134.185.235/PLTV/88888888/224/3221226491/index.m3u8
-凤凰中文,http://39.134.185.235/PLTV/88888888/224/3221226368/index.m3u8
-香港台,http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
 湖南卫视,rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/89115_Uni.sdp
 浙江卫视,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15050917541521964962.rsc/89084_Uni.sdp
 上海东方卫视,rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch15050917541568689826.rsc/89038_Uni.sdp
@@ -128,10 +122,6 @@ CCTV-17农业农村,http://39.135.135.29:80/PLTV/88888888/224/3221225708/index.m
 CHC家庭影院【1080HD】,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch18120514091718394256.rsc/89087_Uni.sdp
 CHC动作电影【1080HD】,rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch18120514100139517699.rsc/89012_Uni.sdp
 CHC高清电影【1080HD】,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch18120514102191199606.rsc/89076_Uni.sdp
-HBO原创巨献,http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=23
-HBO高清亚洲,http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=20
-HBO温馨家庭,http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=21
-HBO强档巨献,http://uhu.vip-vip.shop/免TV88888888/台探新电香/电影.index.m3u8/?1080=22
 金鹰纪实【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15050917541337365144.rsc/89089_Uni.sdp
 iPanda爱熊猫【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch15111015450571726043.rsc/88997_Uni.sdp
 IPTV5+【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch17120418224162657206.rsc/89082_Uni.sdp
