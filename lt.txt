@@ -114,6 +114,13 @@ CCTV-17农业农村,http://39.135.135.29:80/PLTV/88888888/224/3221225708/index.m
 云南卫视,http://itv.ahau.edu.cn/hls/yntv.m3u8
 BTV冬奥纪实,http://itv.ahau.edu.cn/hls/btv11hd.m3u8
 BTV冬奥纪实,http://itv.ahau.edu.cn/hls/hls69a25.m3u8
+BTV文艺,http://itv.ahau.edu.cn/hls/btv2hd.m3u8
+BTV影视,http://itv.ahau.edu.cn/hls/btv4hd.m3u8
+BTV财经,http://itv.ahau.edu.cn/hls/btv5hd.m3u8
+BTV卡酷少儿,http://itv.ahau.edu.cn/hls/btv10.m3u8
+BTV科教,http://itv.ahau.edu.cn/hls/btv3hd.m3u8
+BTV青年,http://itv.ahau.edu.cn/hls/btv8hd.m3u8
+BTV生活,http://itv.ahau.edu.cn/hls/btv7hd.m3u8
 海看频道,#genre#
 海看热播【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch16051316174673479081.rsc/89001_Uni.sdp
 海看电竞【1080HD】,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch17121814421621825244.rsc/89039_Uni.sdp
