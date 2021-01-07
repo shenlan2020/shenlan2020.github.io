@@ -64,6 +64,10 @@ CCTV-17农业农村,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch1
 山东少儿,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.rsc/89117_Uni.sdp
 山东教育卫视,rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/89080_Uni.sdp
 山东国际,rtsp://112.230.194.75:1554/iptv/import/Tvod/iptv/001/001/ch11030814464103605404.rsc/89072_Uni.sdp
+临沂新闻,rtsp://60.213.55.203:1554/iptv/import/Tvod/iptv/001/001/ch15111215111453039260.rsc/76977_Uni.sdp
+临沂公共,rtsp://60.213.55.203:1554/iptv/import/Tvod/iptv/001/001/ch17060116035423523106.rsc/77038_Uni.sdp
+临沂农科,rtsp://60.213.55.203:1554/iptv/import/Tvod/iptv/001/001/ch15111716392179568846.rsc/77049_Uni.sdp
+兰陵综合,rtsp://60.213.55.203:1554/iptv/import/Tvod/iptv/001/001/ch20062813291405027485.rsc/90376_Uni.sdp
 济南都市,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092911092949699520.rsc/89059_Uni.sdp
 济南生活,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092911100548545353.rsc/89004_Uni.sdp
 济南影视,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch13092911103630864304.rsc/89025_Uni.sdp
