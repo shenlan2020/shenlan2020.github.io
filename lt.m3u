@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 HD
-rtsp://239.253.254.77:8000
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/89103_Uni.sdp
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2 HD
-rtsp://239.253.254.232:8000
+rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/88995_Uni.sdp
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3 HD
-http://hdtv.lzu6.edu.cn/hls/cctv3hd.m3u8
+rtsp://112.230.194.72:1554/iptv/import/Tvod/iptv/001/001/ch12101814165876183439.rsc/89098_Uni.sdp
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4 HD
 rtsp://239.253.254.111:8000
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5 HD
